@@ -1,3 +1,6 @@
+vless://971ca97d-b888-5999-bf2c-5c5f0d9039ff@45.131.4.239:2096?type=ws&host=worker-new.rhyljiti.WoRkeRs.DEV&path=vless-ws/?ed%3D2048&security=tls&fp=ios&sni=worker-new.rhyljiti.WoRkeRs.DEV&alpn=h3,h2,http/1.1#2-vless-worker-45.131.4.239
+trojan://971ca97d-b888-5999-bf2c-5c5f0d9039ff@104.23.97.11:2087?type=ws&host=worker-new.rhyljiti.worKeRs.DeV&path=trojan-ws/?ed%3D2048&security=tls&fp=chrome&sni=worker-new.rhyljiti.worKeRs.DeV&alpn=h3,h2,http/1.1#36-trojan-worker-104.23.97.11
+vless://971ca97d-b888-5999-bf2c-5c5f0d9039ff@45.131.4.81:2096?type=ws&host=worker-new.rhyljiti.woRkErs.DeV&path=vless-ws/?ed%3D2048&security=tls&fp=randomized&sni=worker-new.rhyljiti.woRkErs.DeV&alpn=h3,h2,http/1.1#1-vless-worker-45.131.4.81
 trojan://971ca97d-b888-5999-bf2c-5c5f0d9039ff@45.131.4.35:2083?type=ws&host=worker-new.rhyljiti.woRKErS.Dev&path=trojan-ws/?ed%3D2048&security=tls&fp=edge&sni=worker-new.rhyljiti.woRKErS.Dev&alpn=h2,http/1.1#37-trojan-worker-45.131.4.35
 vless://b5149096-0c64-46cd-b7d3-6cef8762b7a9@44.234.140.156:8880?type=tcp&headerType=none&security=none#@AB_841
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443?type=tcp#Aa64n_sabt
