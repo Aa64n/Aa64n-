@@ -1,3 +1,4 @@
+wireguard://188.114.99.77:8319?mtu=1280&address=172.16.0.2/32,2606:4700:110:8f81:d551:a0:532e:a2b3/128&reserved=163,233,180#Aa64n%20warp+
 vless://DIGIV2rAy@185.146.173.37:2095?type=ws&host=DigiV2ray---_-_---DIGIw.radioTehran.org.&path=/DIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray?ed%3D1024&security=none#%F0%9F%87%B9%F0%9F%87%B7@a46n%E2%8F%B3
 vless://DIGIV2rAy@www.Speedtest.Net:2095?type=ws&host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&path=/DIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray?ed%3D1024&security=none#%F0%9F%87%A9%F0%9F%87%AA@a46n%E2%8F%B3
 wireguard://%2BEQHouZbk1Vj3cQ2ivY2gxJi5Vt55Ygd0hlIEY%2B4JXc%3D@188.114.99.182:880?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=234%2C115%2C0&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#huuvqlnvqh
