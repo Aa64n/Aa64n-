@@ -1,3 +1,5 @@
+wireguard://%2BEQHouZbk1Vj3cQ2ivY2gxJi5Vt55Ygd0hlIEY%2B4JXc%3D@188.114.99.182:880?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=234%2C115%2C0&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#huuvqlnvqh
+
 vless://80b38e32-7877-41ad-b04c-2d463be15ae4@www.gov.se:2082?type=ws&host=ghm1101.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf
 trojan://971ca97d-b888-5999-bf2c-5c5f0d9039ff@time.is:2096?type=ws&host=worker-new.rhyljiti.wOrKERS.dEv&path=trojan-ws/?ed%3D2048&security=tls&fp=chrome&sni=worker-new.rhyljiti.wOrKERS.dEv&alpn=h2,http/1.1#%E2%98%AC%20Aa64n%E2%84%A2%20(5)
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:80?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#%F0%9D%99%82%F0%9D%99%9D%F0%9D%99%A2
