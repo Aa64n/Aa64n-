@@ -1,4 +1,4 @@
-vless://a5469633-b780-4e13-815b-fa72582f8c4e@79.175.133.135:41754?type=tcp&headerType=http&host=fast.com&security=none#Aa64n_4
+
 trojan://auto@185.146.173.3:443?type=ws&host=aa64-trojan.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=aa64-trojan.rhyljiti.workers.dev#Aa64n-trojan
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@93.123.17.189:443?type=ws&host=xn-36.xv2ray.cloudns.be&path=/Telegram/XV2ray?ed%3D2560&security=tls&sni=gcore.com#%F0%9F%87%B3%F0%9F%87%B1@A64N
 vless://a5469633-b780-4e13-815b-fa72582f8c4e@79.175.133.135:41754?type=tcp&headerType=http&host=fast.com&security=none#Aa64n%20-4
