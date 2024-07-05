@@ -1,3 +1,6 @@
+trojan://d97f7d07bbd4@fi2.connecton.surf:443?host=fi2.connecton.surf&path=%2Ftrojan&sni=fi2.connecton.surf&type=ws#🇫🇮 connecton-fi2
+trojan://fb1f3b3bd7e0@de3.connecton.surf:443?host=de3.connecton.surf&path=%2Ftrojan&sni=de3.connecton.surf&type=ws#🇩🇪 connecton-de3
+trojan://8cc0cc527b6c@uk2.connecton.surf:443?host=uk2.connecton.surf&path=%2Ftrojan&sni=uk2.connecton.surf&type=ws#🇬🇧 connecton-uk2
 vless://9fec9cd6-3bf2-4adb-8fcd-8cc0cc527b6c@uk2.connecton.surf:443?security=tls&type=ws&path=/vless#🇬🇧 connecton-uk2
 vless://5bbc7976-2ed2-49ab-bf9a-fb1f3b3bd7e0@de3.connecton.surf:443?security=tls&type=ws&path=/vless#🇩🇪 connecton-de3
 vless://b44c0cb1-1d87-42d1-ae4e-d97f7d07bbd4@fi2.connecton.surf:443?security=tls&type=ws&path=/vless#🇫🇮 connecton-fi2
