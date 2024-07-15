@@ -1,4 +1,5 @@
 vless://80d223b6-ce52-44c9-a622-660117802449@tnl13.radnik.tech:8086?type=tcp&headerType=http&path=/&security=none#vip13-Aa64n
+vless://80d223b6-ce52-44c9-a622-660117802449@tnl13.radnik.tech:8086?type=tcp&headerType=http&path=/&security=none#vip13-Aa64n
 vless://fdbccd18-bf22-438e-847c-c5a4ec380125@tnl13.radnik.tech:8086?type=tcp&headerType=http&path=/&security=none#vip13-Aa64n
 vless://19c1d401-a3b6-4a78-8c2f-bbdac3477b85@80.249.114.28:2095?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Aa64n🏴
 vless://Abc-Cloud@Abc.AbcCloud.Ir:80?path=%40Abc_Cloud%3D2048&security=none&encryption=none&type=ws#Aa64#🏴
