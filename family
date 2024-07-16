@@ -14,7 +14,6 @@ vless://115adee4-847b-4841-8195-a9a899825378@server55.radnikmax.ir:8097?type=tcp
 vless://d631974b-d2ab-4e33-9bb6-3f5b8a741cc4@tnl13.radnik.tech:8086?type=tcp&headerType=http&path=/&security=none#vip13-Aa64n6
 vless://8463668c-812f-4374-87ff-1060e2709a8e@tnl13.radnik.tech:8086?type=tcp&headerType=http&path=/&security=none#vip13-Aa64n7
 vless://278305b9-2e16-41fb-960c-51052e46c589@tnl13.radnik.tech:8086?type=tcp&headerType=http&path=/&security=none#vip13-Aa64n5
-vless://fe1046a7-68ef-4b0d-b21f-78722c331110@tnl13.radnik.tech:8086?type=tcp&headerType=http&path=/&security=none#vip13-Aa64n3
 vless://466afd08-e0dc-488d-adb8-0e803e9b1d68@tnl13.radnik.tech:8086?type=tcp&headerType=http&path=/&security=none#vip13-Aa64n1
 vless://fb75e16e-952a-45c1-8946-9037ed982a9d@tnl13.radnik.tech:8086?type=tcp&headerType=http&path=/&security=none#vip13-Aa64n2
 vless://86d91c8f-2511-4ab7-92a8-f91dc01ae53c@tnl13.radnik.tech:8086?type=tcp&headerType=http&path=/&security=none#vip13-Aa64n4
