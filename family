@@ -14,7 +14,6 @@ vless://115adee4-847b-4841-8195-a9a899825378@server55.radnikmax.ir:8097?type=tcp
 vless://8463668c-812f-4374-87ff-1060e2709a8e@tnl13.radnik.tech:8086?type=tcp&headerType=http&path=/&security=none#vip13-Aa64n7
 vless://466afd08-e0dc-488d-adb8-0e803e9b1d68@tnl13.radnik.tech:8086?type=tcp&headerType=http&path=/&security=none#vip13-Aa64n1
 vless://fb75e16e-952a-45c1-8946-9037ed982a9d@tnl13.radnik.tech:8086?type=tcp&headerType=http&path=/&security=none#vip13-Aa64n2
-vless://86d91c8f-2511-4ab7-92a8-f91dc01ae53c@tnl13.radnik.tech:8086?type=tcp&headerType=http&path=/&security=none#vip13-Aa64n4
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2095?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Aa64n-cf-vless-2095
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2082?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Aa64n%20-cf-vless-2082
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:80?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Aa64n-cf-vless-80
