@@ -1,3 +1,6 @@
+vless://0d59fc6b-f9e2-478f-aa4a-cb79f2c6bd60@www.speedtest.net:443?type=ws&host=pv.icyou.ir&path=/&security=tls&fp=chrome&sni=pv.icyou.ir.&alpn=h2#%20Aa64n-0
+trojan://faGPpGuzFP@x1germany.devefun.eu:1935?type=tcp&security=tls&alpn=h2,http/1.1#Aa64n_0
+vless://f6c883b4-2b94-43b4-93d3-ec1022e0ef42@www.speedtest.net:443?type=ws&host=service.frekar.ir&path=/&security=tls&fp=chrome&sni=service.frekar.ir&alpn=h2#ir-vless-Aa64n0
 vless://a439d0c8-669c-42d9-ceba-63f45ace9771@65.109.209.105:44576?type=grpc&mode=gun&security=reality&fp=chrome&sni=aksssnshhakjdgidjfkjfrjhegbebeunjxeumkdcij.exoo1.cfd&pbk=HFpXjYIH7qK9Ql4x7y_U3xkPijtu93i3ohTz8SUa91s&spx=/#%F0%9F%87%AB%F0%9F%87%AEAa64n
 vless://030eca5c-1d91-4b64-b3c5-e85dfad4c96c@65.109.209.105:26201?type=grpc&mode=multi&security=reality&fp=chrome&sni=aksssnshhakjdgidjfkjfrjhegbebeunjxeumkdcij.exoo1.cfd&pbk=LUYlHUxWwN8YveVi2oX5ZthJEE2qyBFZWsUqYmjBHFI&spx=/#%F0%9F%87%AB%F0%9F%87%AEAa64n1
 vless://0c1c55b2-cfd7-4d33-9c1e-b9fa9a5d4766@192.248.149.236:2083?encryption=none&security=reality&sni=www.discordapp.com&fp=chrome&pbk=679HNB38nuMcWJbQ95FUH3ib-7xh8WMviw8juUkTERw&type=grpc&authority=&serviceName=www.google.com&mode=gun#test
