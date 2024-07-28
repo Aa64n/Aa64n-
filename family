@@ -1,3 +1,4 @@
+vless://da48b1cb-75b2-4589-a7d3-9ab9e616e77c@english2.frekar.ir:443?path=%2F&security=tls&encryption=none&alpn=h2&host=english2.frekar.ir&fp=chrome&type=ws&sni=english2.frekar.ir#Aa64n_1
 vless://6f86cc2f-825a-4299-9839-0c0fa390fe89@server55.radnikmax.ir:8097?type=tcp&security=none&headerType=http&path=%2F#vip5-Aa64n
 vless://f25d0885-bcbc-4ce3-8113-c7976d31fddd@server55.radnikmax.ir:8097?type=tcp&security=none&headerType=http&path=%2F#vip5-Aa64n
 vless://bdf58bf0-defe-47a2-901c-e7e2673a5553@server55.radnikmax.ir:8097?type=tcp&headerType=http&path=/&security=none#vip5-Aa64n
