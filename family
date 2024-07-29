@@ -3,9 +3,7 @@ vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@172.66.44.192:443?type=ws&host=BpB-
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@23.227.39.183:443?type=ws&host=bpb-a-mONTh-aFTeR-jUly.PAges.Dev&path=/mHso9bgMMU61Nb8B?ed%3D2560&security=tls&fp=randomized&sni=BPb-A-moNTH-aFteR-julY.PaGEs.dEV&alpn=h2,http/1.1#Aa64n -bpbnew
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@104.18.151.253:443?type=ws&host=bpB-A-MontH-aftEr-July.PaGeS.dev&path=/LsCMKd85LtTUmPYR?ed%3D2560&security=tls&fp=randomized&sni=bpB-a-MonTh-AfTeR-july.pAGEs.DeV&alpn=h2,http/1.1#Aa64n -bpbnew
 vmess://eyJzY3kiOiJub25lIiwicG9ydCI6IjQ0MyIsImFscG4iOiIiLCJpZCI6IjZlODg0NjVlLWEyYWMtNTdkMy1iYmFmLWY3MmU0NDM5YmQ3NSIsImFkZCI6IjE4NS4xNDYuMTczLjkxIiwidGxzIjoidGxzIiwibmV0Ijoid3MiLCJob3N0IjoiZGUxLnZtZXNzLnNpdGUiLCJwcyI6IkFhNjRuXzIlMjAiLCJwYXRoIjoiXC92bWVzcyIsInNuaSI6ImRlMS52bWVzcy5zaXRlIn0=
-vless://da48b1cb-75b2-4589-a7d3-9ab9e616e77c@english2.frekar.ir:443?path=%2F&security=tls&encryption=none&alpn=h2&host=english2.frekar.ir&fp=chrome&type=ws&sni=english2.frekar.ir#Aa64n -2
 vless://6f86cc2f-825a-4299-9839-0c0fa390fe89@server55.radnikmax.ir:8097?type=tcp&security=none&headerType=http&path=%2F#vip5-Aa64n
-vless://f25d0885-bcbc-4ce3-8113-c7976d31fddd@server55.radnikmax.ir:8097?type=tcp&security=none&headerType=http&path=%2F#vip5-Aa64n
 vless://bdf58bf0-defe-47a2-901c-e7e2673a5553@server55.radnikmax.ir:8097?type=tcp&headerType=http&path=/&security=none#vip5-Aa64n
 vless://24aefd13-c926-4458-837f-1cbfc1184c66@server55.radnikmax.ir:8097?type=tcp&headerType=http&path=/&security=none#vip5-Aa64n
 vless://a78c53c6-05ed-4d21-81b5-5682f225fe28@server55.radnikmax.ir:8097?type=tcp&headerType=http&path=/&security=none#vip5-Aa64n
@@ -57,17 +55,11 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@sky.rethinkdns.com:80?type=ws&host=
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@time.cloudflare.com:80?type=ws&host=GH-bPb.RhyLJitI.WorKeRs.deV&path=/4TODxgbEVQeXh51w/SVIuZmhxMGxhNDQ3YWFjNTUwNGRzcGVlZHRlc3RpcmNvbW5ldG1lbGVvc2phbndqZGlmanNuanN4LmNsb3Vk?ed%3D2560#Clean%20IP_4%20:%2080
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.214.246:8080?type=ws&host=gH-bPB.RhYljIti.wOrkeRS.DeV&path=/SSH3oFKc9WJLBLJd/SVIuZmhxMGxhNDQ3YWFjNTUwNGRzcGVlZHRlc3RpcmNvbW5ldG1lbGVvc2phbndqZGlmanNuanN4LmNsb3Vk?ed%3D2560#Clean%20IP_16%20:%208080
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.174.24:2052?type=ws&host=gH-bpb.rHYLJITI.WorKERs.DeV&path=/D2Yh5uDOyNYBp5sS/SVIuZmhxMGxhNDQ3YWFjNTUwNGRzcGVlZHRlc3RpcmNvbW5ldG1lbGVvc2phbndqZGlmanNuanN4LmNsb3Vk?ed%3D2560#%20IPv4_2%20:%202052
-vless://c4000cda-6237-4702-ac6a-024444978b8e@23.227.39.248:443?type=ws&host=bpb-JuLy.nSCl.ir&path=/zNlbd25MG24k15xa?ed%3D2560&security=tls&fp=randomized&sni=Bpb-jUly.nscL.Ir&alpn=h2,http/1.1#clean%20ip%2021%20:%20443
-vless://c4000cda-6237-4702-ac6a-024444978b8e@190.93.246.247:443?type=ws&host=BPb-JUlY.NScL.Ir&path=/KXck7zwMZTQBvIIX?ed%3D2560&security=tls&fp=randomized&sni=BPB-July.NscL.iR&alpn=h2,http/1.1#clean%20ip%2024%20:%20443
-vless://c4000cda-6237-4702-ac6a-024444978b8e@104.17.107.1:8443?type=ws&host=bpB-july.NSCL.Ir&path=/RnajoTEMSzkHsAZo?ed%3D2560&security=tls&fp=randomized&sni=bpB-jULy.nscl.Ir&alpn=h2,http/1.1#clean%20ip%2014%20:%208443
-vless://c4000cda-6237-4702-ac6a-024444978b8e@23.227.39.222:443?type=ws&host=bPb-juLy.nScl.iR&path=/bybnmF8X9YGkyOUB?ed%3D2560&security=tls&fp=randomized&sni=Bpb-juLy.NSCL.ir&alpn=h2,http/1.1#clean%20ip%2046%20:%20443
 trojan://auto@185.146.173.3:443?type=ws&host=aa64-trojan.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=aa64-trojan.rhyljiti.workers.dev#Aa64n-trojan
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@93.123.17.189:443?type=ws&host=xn-36.xv2ray.cloudns.be&path=/Telegram/XV2ray?ed%3D2560&security=tls&sni=gcore.com#%F0%9F%87%B3%F0%9F%87%B1@A64N
 ss://YWVzLTEyOC1nY206WkVkMnpuQGRucy55eXBhLnp6c3NwdG9wLmNvbToyMTQ3NQ==#Aa64n%20-cheina
-vless://c4000cda-6237-4702-ac6a-024444978b8e@188.114.97.3:443?type=ws&host=bPb-JulY.nScl.IR&path=/equgou2PHl8MfvNF?ed%3D2560&security=tls&fp=randomized&sni=BPb-JuLy.NsCL.ir&alpn=h2,http/1.1#bpb%E2%81%BF%E2%81%B4%20ipv4%201%20:%20443
-vless://c4000cda-6237-4702-ac6a-024444978b8e@23.227.38.202:443?type=ws&host=bPB-jUly.NScL.Ir&path=/R7gsVBO9CCAcrCES?ed%3D2560&security=tls&fp=randomized&sni=bpb-jUly.nSCL.iR&alpn=h2,http/1.1#clean%20ip%2023%20:%20443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@190.93.246.247:80?type=ws&host=gh-Bpb.rHyljiTI.Workers.DeV&path=/efcDhlRmAXfy3zjr/SVIuZmhxMGxhNDQ3YWFjNTUwNGRzcGVlZHRlc3RpcmNvbW5ldG1lbGVvc2phbndqZGlmanNuanN4LmNsb3Vk?ed%3D2560#BPB%20-%20Clean%20IP_55%20:%2080path=%2Ft.me%2Fv2rayvpnlink&security=tls&encryption=none&host=www.tehran1403.com&fp=chrome&type=ws&sni=www.tehran1403.com#Aa64n-mci
-vless://c4000cda-6237-4702-ac6a-024444978b8e@23.227.38.28:443?type=ws&host=bPb-JuLy.nSCL.ir&path=/AipWyZH9k0FIu5fW?ed%3D2560&security=tls&fp=randomized&sni=Bpb-jUly.NSCL.IR&alpn=h2,http/1.1#Aa64n%20-bpb%E2%81%BF%E2%81%B8%20clean%20ip%20
+
+
 
 
 
