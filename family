@@ -21,7 +21,6 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.251:443?type=ws&host=bBF9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?type=tcp#Aa64n-0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443?type=tcp#@CAA_Aa64n
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443?type=tcp#%F0%9F%87%A9%F0%9F%87%AAAa64n-18
-trojan://admin@104.17.152.41:443?type=ws&host=pac.u3jit.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=pac.u3jit.workers.dev#IP-Aa64n_%E4%B9%9F%E5%8F%AF%E4%BB%A5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443?type=tcp#@CAA_Aa64n
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@190.93.244.18:443?type=ws&host=BPB-a-moNTH-AfTer-jUlY.paGES.dEV&path=/c1yzoH3UcBLmDAoA?ed%3D2560&security=tls&fp=randomized&sni=bpB-a-MOnth-aftEr-JulY.pAgES.DEV&alpn=h2,http/1.1#Clean%20IP%E2%87%A2%2021%20:%20443
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@190.93.244.18:443?type=ws&host=BPB-a-moNTH-AfTer-jUlY.paGES.dEV&path=/c1yzoH3UcBLmDAoA?ed%3D2560&security=tls&fp=randomized&sni=bpB-a-MOnth-aftEr-JulY.pAgES.DEV&alpn=h2,http/1.1#Clean%20IP%E2%87%A2%2021%20:%20443type=ws&host=cdn-hk.bestup.eu.org&path=/Tel:@VPN_VIP_NOR?ed%3D2048&security=none#%F0%9F%87%AE%F0%9F%87%B3Aa64n
@@ -42,7 +41,6 @@ vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@104.22.13.192:443?path=%2FNiREvilLy
 vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@104.20.2.1:443?path=%2FNiREvilLyPCLXZ%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=NGINX-H.pages.DEV&fp=chrome&type=ws&sni=NGINX-H.pages.DEV#%40%E1%B4%A0%C9%AA%E1%B4%98_%D2%93%CA%80%E1%B4%80%C9%A2%E1%B4%8D%E1%B4%87%C9%B4%CA%8F_%E1%B4%A02%CA%80%E1%B4%80%CA%8F+%E2%81%B7
 vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@162.159.62.69:443?path=%2FNiREvilLyZPxzTa%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=NGINX-F.BacheBiaPain.IR&fp=ios&type=ws&sni=NGINX-F.BacheBiaPain.IR#%40%E1%B4%A0%C9%AA%E1%B4%98_%D2%93%CA%80%E1%B4%80%C9%A2%E1%B4%8D%E1%B4%87%C9%B4%CA%8F_%E1%B4%A02%CA%80%E1%B4%80%CA%8F+%E2%81%B9
 vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@[::ffff:681a:be]:8443?path=%2FNiREvilLyPCLXZ%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=NGINX-H.BacheBiaPain.IR&fp=safari&type=ws&sni=NGINX-H.BacheBiaPain.IR#%40%E1%B4%A0%C9%AA%E1%B4%98_%D2%93%CA%80%E1%B4%80%C9%A2%E1%B4%8D%E1%B4%87%C9%B4%CA%8F_%E1%B4%A02%CA%80%E1%B4%80%CA%8F+%C2%B9%E2%81%B0
-trojan://971ca97d-b888-5999-bf2c-5c5f0d9039ff@45.159.219.208:2053?type=ws&host=worker-new.rhyljiti.WorKErS.Dev&path=trojan-ws/?ed%3D2048&security=tls&fp=firefox&sni=worker-new.rhyljiti.WorKErS.Dev&alpn=http/1.1#Worker_clean%20ip
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@77.72.5.150:989#Aa64n-IP_CF
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443?type=tcp#%F0%9F%87%B3%F0%9F%87%B1NL-Aa64n%20
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.90.61.153:989?type=tcp#%20%F0%9F%87%B3%F0%9F%87%B4%20Aa64n%20-5
