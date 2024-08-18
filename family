@@ -1,4 +1,21 @@
-
+vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@www.visa.com:80?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#CF_V1_www.visa.com_80
+vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@www.visa.com.sg:2052?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#CF_V4_www.visa.com.sg_2052
+vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@cis.visa.com:8080?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#CF_V2_cis.visa.com_8080
+vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@www.visaeurope.at:2082?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#CF_V5_www.visaeurope.at_2082
+vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@qa.visamiddleeast.com:2095?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#CF_V7_qa.visamiddleeast.com_2095
+vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@usa.visa.com:443?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=vlees-aa64n.rhyljiti.workers.dev#CF_V8_usa.visa.com_443
+vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@www.visaeurope.ch:2083?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=vlees-aa64n.rhyljiti.workers.dev#CF_V11_www.visaeurope.ch_2083
+vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@africa.visa.com:8880?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#CF_V3_africa.visa.com_8880
+vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@www.visasoutheasteurope.com:2096?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=vlees-aa64n.rhyljiti.workers.dev#CF_V13_www.visasoutheasteurope.com_2096
+vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@www.visa.com.tw:2053?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=vlees-aa64n.rhyljiti.workers.dev#CF_V10_www.visa.com.tw_2053
+trojan://trojan@www.visa.com:80?type=ws&host=trojan-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#CF_T1_www.visa.com_80
+trojan://trojan@www.visa.com.mt:2086?type=ws&host=trojan-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#CF_T6_www.visa.com.mt_2086
+trojan://trojan@cis.visa.com:8080?type=ws&host=trojan-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#CF_T2_cis.visa.com_8080
+trojan://trojan@usa.visa.com:443?type=ws&host=trojan-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=trojan-aa64n.rhyljiti.workers.dev#CF_T8_usa.visa.com_443
+trojan://trojan@www.visa.com.tw:2053?type=ws&host=trojan-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=trojan-aa64n.rhyljiti.workers.dev#CF_T10_www.visa.com.tw_2053
+trojan://trojan@usa.visa.com:443?type=ws&host=trojan-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=trojan-aa64n.rhyljiti.workers.dev#CF_T8_usa.visa.com_443
+trojan://trojan@africa.visa.com:8880?type=ws&host=trojan-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#CF_T3_africa.visa.com_8880
+trojan://trojan@www.visa.com.sg:2052?type=ws&host=trojan-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#CF_T4_www.visa.com.sg_2052
 vless://5696cbab-61f9-4162-9a01-b4a27e47d00a@www.parspack.com:8880?path=%2FSHHPROXY%3Fed%3D2048&security=none&encryption=none&host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.&type=httpupgrade#Aa64n-Q
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.31.16.113:443?path=%2Ftelegram-proxy_mtm%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=mRaRSHa-ShAItaanm0Th3Rs-iNsTinCT-chAll3NgErS.pagEs.dEV&fp=randomized&type=ws&sni=mRARsHa-sHAItAANm0Th3rS-iNStincT-ChaLl3nGeRs.PAGES.DEV#Aa64n 10
 vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@104.24.20.71:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=de1-moryvpnbot.pages.dev&type=ws&sni=de1-moryvpnbot.pages.dev#Aa64n 10
