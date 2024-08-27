@@ -108,7 +108,10 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23.227.39.183:80?type=ws&host=Gh-bp
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.174.24:2052?type=ws&host=gH-bpb.rHYLJITI.WorKERs.DeV&path=/D2Yh5uDOyNYBp5sS/SVIuZmhxMGxhNDQ3YWFjNTUwNGRzcGVlZHRlc3RpcmNvbW5ldG1lbGVvc2phbndqZGlmanNuanN4LmNsb3Vk?ed%3D2560#%20IPv4_2%20:%202052
 ss://YWVzLTEyOC1nY206WkVkMnpuQGRucy55eXBhLnp6c3NwdG9wLmNvbToyMTQ3NQ==#Aa64n%20-cheina
 vless://80b38e32-7877-41ad-b04c-2d463be15ae4@www.gov.se:2082?type=ws&host=ghm1101.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf
-
+trojan://971ca97d-b888-5999-bf2c-5c5f0d9039ff@185.146.173.57:2087?type=ws&host=worker-new.rhyljiti.wORKErS.dev&path=trojan-ws/?ed%3D2048&security=tls&fp=firefox&sni=worker-new.rhyljiti.wORKErS.dev&alpn=h2,http/1.1#trojan-Aa64n
+trojan://971ca97d-b888-5999-bf2c-5c5f0d9039ff@104.20.38.182:2053?type=ws&host=worker-new.rhyljiti.wORKers.deV&path=trojan-ws/?ed%3D2048&security=tls&fp=randomized&sni=worker-new.rhyljiti.wORKers.deV&alpn=h3,h2,http/1.1#trojan-Aa64n
+trojan://971ca97d-b888-5999-bf2c-5c5f0d9039ff@185.16.110.23:2053?type=ws&host=worker-new.rhyljiti.workeRs.DeV&path=trojan-ws/?ed%3D2048&security=tls&fp=firefox&sni=worker-new.rhyljiti.workeRs.DeV&alpn=h3,h2,http/1.1#trojan-Aa64n
+trojan://971ca97d-b888-5999-bf2c-5c5f0d9039ff@185.146.173.253:2083?type=ws&host=worker-new.rhyljiti.woRkers.Dev&path=trojan-ws/?ed%3D2048&security=tls&fp=randomized&sni=worker-new.rhyljiti.woRkers.Dev&alpn=h3,h2,http/1.1#trojan-Aa64n
 
 
 
