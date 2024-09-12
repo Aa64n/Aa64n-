@@ -1,4 +1,5 @@
- vless://8725051d-a1a9-494d-9827-17c7ca878ada@tnl15.radnikmax.ir:8098?type=tcp&path=%2F&headerType=http&security=none#Aa64n-vip
+vless://ca5f8817-b29e-4a1b-8103-1c3e6fb089aa@tnl15.radnikmax.ir:8098?type=tcp&path=%2F&headerType=http&security=none#Aa64n-vip
+vless://8725051d-a1a9-494d-9827-17c7ca878ada@tnl15.radnikmax.ir:8098?type=tcp&path=%2F&headerType=http&security=none#Aa64n-vip
 vless://58d15872-374e-4c37-a3f9-e8a77d05ab17@tnl15.radnikmax.ir:8098?type=tcp&path=%2F&headerType=http&security=none#Aa64n-vip
 vless://7be1d7c0-4e8c-413e-a062-496b64a65f5c@tnl15.radnikmax.ir:8098?type=tcp&path=%2F&headerType=http&security=none#Aa64n-vip
 vless://971ca97d-b888-5999-bf2c-5c5f0d9039ff@185.146.173.16:2053?type=ws&host=worker-new.rhyljiti.wORkers.dEV&path=vless-ws/?ed%3D2048&security=tls&fp=randomized&sni=worker-new.rhyljiti.wORkers.dEV&alpn=h2&fragment=tlshello,30-80,10-50#Aa64n🇼🇫
