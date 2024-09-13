@@ -1,3 +1,4 @@
+vless://21dcbc8a-3632-403c-bfe4-2eadd101dbee@ahmadi.gambron.info:11237?security=tls&encryption=none&alpn=h3,h2,http/1.1&host=bwm.com&headerType=http&type=tcp&sni=ahmadi.gambron.info#Aa64n-new tunel test
 vless://b6bf7c77-6948-4c43-a409-5b24af8bc20c@wex.callmecarl.website:35492?security=none&encryption=none&host=ubisoft.com&headerType=http&type=tcp#Aa64n-new tunel test
 vless://faebabe4-49a4-4514-bf27-ffa20acf62fc@tnl15.radnikmax.ir:8098?type=tcp&path=%2F&headerType=http&security=none#Aa64n-vip
 vless://ca5f8817-b29e-4a1b-8103-1c3e6fb089aa@tnl15.radnikmax.ir:8098?type=tcp&path=%2F&headerType=http&security=none#Aa64n-vip
