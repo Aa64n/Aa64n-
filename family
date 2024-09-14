@@ -1,5 +1,4 @@
-vless://00e46bb3-81a4-4dac-9ee8-1272cfded9ab@185.206.95.178:8080?type=tcp&security=none#Aa64n-vip
-vless://00e46bb3-81a4-4dac-9ee8-1272cfded9ab@185.206.95.178:8080?type=tcp&security=none#Aa64n-vip
+
 vless://faebabe4-49a4-4514-bf27-ffa20acf62fc@tnl15.radnikmax.ir:8098?type=tcp&path=%2F&headerType=http&security=none#Aa64n-vip
 vless://ca5f8817-b29e-4a1b-8103-1c3e6fb089aa@tnl15.radnikmax.ir:8098?type=tcp&path=%2F&headerType=http&security=none#Aa64n-vip
 vless://8725051d-a1a9-494d-9827-17c7ca878ada@tnl15.radnikmax.ir:8098?type=tcp&path=%2F&headerType=http&security=none#Aa64n-vip
