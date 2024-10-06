@@ -1,3 +1,4 @@
+tuic://bc97f674-c578-4940-9234-0a1da46041b9:admin123@31.186.87.205:8967?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#ip_Aa64n
 vless://3eade6fb-8174-4de1-b73b-75281f571d47@bwdraper.faculty.ucdavis.edu:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=jkdaryan1983.com&type=ws#Aa64n_test
 vless://4308bcc4-f61f-4fc8-81a7-3d73139c7d4a@fast3.mobincloud.site:443?encryption=none&security=tls&sni=313yar.com&fp=chrome&allowInsecure=1&type=ws&host=313yar.com&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560#Fast%20vision-Aa64n
 vless://134ba905-86b6-4ea8-8bb6-2055aa0c8f56@workeripv6.rhyljiti.workers.dev:443?encryption=none&security=tls&sni=workeripv6.rhyljiti.workers.dev&fp=randomized&type=ws&host=workeripv6.rhyljiti.workers.dev&path=%2F%3Fed%3D2048#Aa64n🇹🇿
