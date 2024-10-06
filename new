@@ -1,6 +1,6 @@
-vless://9c6767ab-df80-4852-a9ad-5cd8fee2264e@tnl15.radnikmax.ir:8098?type=tcp&path=%2F&headerType=http&security=none#Aa64n-vip🇬🇧
-vless://a9842306-1548-495f-8d47-d271766fe304@tnl15.radnikmax.ir:8098?type=tcp&path=%2F&headerType=http&security=none#Aa64n-vip🇮🇷
-vless://175f8a15-6723-445e-8249-802cc829dfca@tnl15.radnikmax.ir:8098?type=tcp&path=%2F&headerType=http&security=none#Aa64n-vip🇹🇰
+vless://9c6767ab-df80-4852-a9ad-5cd8fee2264e@tnl15.radnikmax.ir:8098?type=tcp&path=%2F&headerType=http&security=none#Aa64n-vip
+vless://a9842306-1548-495f-8d47-d271766fe304@tnl15.radnikmax.ir:8098?type=tcp&path=%2F&headerType=http&security=none#Aa64n-vip
+vless://175f8a15-6723-445e-8249-802cc829dfca@tnl15.radnikmax.ir:8098?type=tcp&path=%2F&headerType=http&security=none#Aa64n-vip
 tuic://bc97f674-c578-4940-9234-0a1da46041b9:admin123@31.186.87.205:8967?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#ip_Aa64n
 vless://3eade6fb-8174-4de1-b73b-75281f571d47@bwdraper.faculty.ucdavis.edu:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=jkdaryan1983.com&type=ws#Aa64n_test
 vless://4308bcc4-f61f-4fc8-81a7-3d73139c7d4a@fast3.mobincloud.site:443?encryption=none&security=tls&sni=313yar.com&fp=chrome&allowInsecure=1&type=ws&host=313yar.com&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560#Fast%20vision-Aa64n
