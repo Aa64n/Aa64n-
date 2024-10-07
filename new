@@ -2,7 +2,6 @@
 vless://a9842306-1548-495f-8d47-d271766fe304@tnl15.radnikmax.ir:8098?type=tcp&path=%2F&headerType=http&security=none#Aa64n-vip
 vless://175f8a15-6723-445e-8249-802cc829dfca@tnl15.radnikmax.ir:8098?type=tcp&path=%2F&headerType=http&security=none#Aa64n-vip
 tuic://bc97f674-c578-4940-9234-0a1da46041b9:admin123@31.186.87.205:8967?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#ip_Aa64n
-vless://3eade6fb-8174-4de1-b73b-75281f571d47@bwdraper.faculty.ucdavis.edu:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=jkdaryan1983.com&type=ws#Aa64n_test
 vless://4308bcc4-f61f-4fc8-81a7-3d73139c7d4a@fast3.mobincloud.site:443?encryption=none&security=tls&sni=313yar.com&fp=chrome&allowInsecure=1&type=ws&host=313yar.com&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560#Fast%20vision-Aa64n
 vless://134ba905-86b6-4ea8-8bb6-2055aa0c8f56@workeripv6.rhyljiti.workers.dev:443?encryption=none&security=tls&sni=workeripv6.rhyljiti.workers.dev&fp=randomized&type=ws&host=workeripv6.rhyljiti.workers.dev&path=%2F%3Fed%3D2048#Aa64n🇹🇿
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.24.67.112:2053?type=ws&host=bpb-worker-panel-54o.pages.dev&path=/uSACDt1OMeXqnKgP?ed%3D2560&security=tls&fp=randomized&sni=bPB-woRkER-pAnEL-54O.pagES.dev&alpn=h2,http/1.1#Aa64n🇿🇦
@@ -14,7 +13,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh36
 vless://38a20c4d-ae34-4dce-90ca-a949ada6da29@172.66.44.96:443?type=ws&host=bpb-turkey.pages.dev&path=/r3tEE1eP3WzVLZyG/dHVyay5yYWRpY2FsaXphdGlvbi5pcg%3D%3D&security=tls&fp=randomized&sni=BpB-turKEY.pages.Dev&alpn=http/1.1#Aa64n€velss
 trojan://bpb-trojan@ipw.nscl.ir:443?type=ws&host=bpb-turkey.pages.dev&path=/trKekDdHsfhoQVe5Zc/dHVyay5yYWRpY2FsaXphdGlvbi5pcg%3D%3D&security=tls&fp=randomized&sni=BpB-Turkey.pAGEs.DEV&alpn=http/1.1#Aa64n€trojan
 trojan://bpb-trojan@172.66.44.96:443?type=ws&host=bpb-turkey.pages.dev&path=/trr3tEE1eP3WzVLZyG/dHVyay5yYWRpY2FsaXphdGlvbi5pcg%3D%3D&security=tls&fp=randomized&sni=BpB-turKEY.pages.Dev&alpn=http/1.1#Aa64n€trojan
-vless://1e1a5a54-dc1e-493a-a035-3e1e728f73f3@tnl15.radnikmax.ir:8098?type=tcp&path=%2F&headerType=http&security=none#Aa64n-vip
 hysteria2://BuUrseAGjEWDvndTvrCw2Q==@147.45.154.150:443?sni=anymath.ir&alpn=h3&obfs=salamander&obfs-password=6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q&fastopen=1#Aa64n-Hamster🐹
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.111:443?path=%2F3IEyTMFdChz9DzYe%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=094cb6e9.mhassani.pages.dev&fp=randomized&type=ws&sni=094cB6e9.mhassANi.pagES.DEV#Aa64n-paiez🍁🍂
 vless://80b38e32-7877-41ad-b04c-2d463be15ae4@www.gov.se:2082?type=ws&host=ghm1101.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#Misaka-Aa64n
@@ -29,7 +27,6 @@ vless://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?type=ws&host=
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.27.126.250:80?type=ws&host=Gh-bpB.rHYljItI.wORkeRs.deV&path=/966GgVq13cBJWS7r/SVIuZmhxMGxhNDQ3YWFjNTUwNGRzcGVlZHRlc3RpcmNvbW5ldG1lbGVvc2phbndqZGlmanNuanN4LmNsb3Vk?ed%3D2560#Aa64n 🇮🇴
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.27.126.250:80?type=ws&host=Gh-bpB.rHYljItI.wORkeRs.deV&path=/966GgVq13cBJWS7r/SVIuZmhxMGxhNDQ3YWFjNTUwNGRzcGVlZHRlc3RpcmNvbW5ldG1lbGVvc2phbndqZGlmanNuanN4LmNsb3Vk?ed%3D2560#Aa64n🇨🇾
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.150.214:80?type=ws&host=GH-bpB.rhYLJiti.WORKers.DEv&path=/dCVIV1da6FjWbXGr/SVIuZmhxMGxhNDQ3YWFjNTUwNGRzcGVlZHRlc3RpcmNvbW5ldG1lbGVvc2phbndqZGlmanNuanN4LmNsb3Vk?ed%3D2560#Aa64n🇸🇨
-vless://b30fcb87-bd46-4ec0-813e-45fdf84f68d9@tnl15.radnikmax.ir:8098?type=tcp&path=%2F&headerType=http&security=none#Aa64n-vip
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#Aa64n🇳🇵
 hysteria2://uDGx5X0kjMOeBzpqhX4P3Q==@147.45.154.150:443?sni=anymath.ir&alpn=h3&obfs=salamander&obfs-password=6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q&fastopen=1#Aa64n🇺🇾
 vless://971ca97d-b888-5999-bf2c-5c5f0d9039ff@185.146.173.16:2053?type=ws&host=worker-new.rhyljiti.wORkers.dEV&path=vless-ws/?ed%3D2048&security=tls&fp=randomized&sni=worker-new.rhyljiti.wORkers.dEV&alpn=h2&fragment=tlshello,30-80,10-50#Aa64n🇼🇫
