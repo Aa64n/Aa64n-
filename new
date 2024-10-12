@@ -1,4 +1,6 @@
+trojan://trojan@www.visa.com.sg:8443?security=tls&type=ws&host=vahid1.vahiddj6750.workers.dev&sni=vahid1.vahiddj6750.workers.dev&fp=random&path=%2F%3Fed%3D2560#Aa64n.workers.dev
 vless://a444dc5a-9459-4751-a2f6-9bb575f5ecf4@www.visa.com.sg:8880?encryption=none&security=none&type=ws&host=vahid2.vahiddj6750.workers.dev&path=%2F%3Fed%3D2560#Aa64n.workers.dev
+trojan://trojan@www.visa.com.sg:8880?security=none&type=ws&host=vahid1.vahiddj6750.workers.dev&path=%2F%3Fed%3D2560#Aa64n.workers.dev
 vless://f9b1af5f-330b-4c8f-a3bc-d4c929152ba6@live.skornorth.com:443?security=tls&type=ws&headerType=&path=%2F%3Fed%3D1024&host=mizbanvps.ir&sni=live.skornorth.com&fp=firefox&alpn=h2%2Chttp%2F1.1&allowInsecure=1#Aa64n-vip
 vless://9824a92c-f3d6-45e2-a1bf-88afba9b19ae@free.fastly80.hosting-ip.com:80?path=%2FLoOKiVpN%3Fed%3D2048&security=none&encryption=none&alpn=h2&host=lookivpn.ir&fp=chrome&type=ws&sni=www.scdn.co#Aa64nfastly&warp
 vless://4d7d34d8-7582-4f0d-922b-ea0be312395b@tools.mobincloud.site:2086?security=none&type=httpupgrade&headerType=&path=341speedtest.net.xn--c1akkolql&host=https.upGrade8441.gOOgle.com.www.spEEdtest.net.wWw.spEEdtest.net.heSAmhehehe.IR.#CDN-Aa64n-IRANCELL
