@@ -1,4 +1,4 @@
-vless://f69b2c89-c6ea-4df9-9ff8-1cb2d7acbc88@ipcf.amiralinorozjam.workers.dev:80?type=ws&host=ipcf.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=none#ipcf.Aa64n
+vless://f69b2c89-c6ea-4df9-9ff8-1cb2d7acbc88@ipcf.amiralinorozjam.workers.dev:80?type=ws&host=ipcf.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=none#ipcf.Aa64n-HTTP-80
 vless://f69b2c89-c6ea-4df9-9ff8-1cb2d7acbc88@ipcf.amiralinorozjam.workers.dev:443?type=ws&host=ipcf.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=tls&fp=random&sni=ipcf.amiralinorozjam.workers.dev#ipcf.Aa64n-HTTPS-443
 vless://f69b2c89-c6ea-4df9-9ff8-1cb2d7acbc88@ipcf.amiralinorozjam.workers.dev:2096?type=ws&host=ipcf.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=tls&fp=random&sni=ipcf.amiralinorozjam.workers.dev#ipcf.Aa64n-HTTPS-2096
 vless://f69b2c89-c6ea-4df9-9ff8-1cb2d7acbc88@ipcf.amiralinorozjam.workers.dev:2086?type=ws&host=ipcf.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=none#ipcf.Aa64n-HTTP-2086
