@@ -3,14 +3,10 @@ vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@162.159.62.69:443?type=ws&host=NGIN
 vless://c2c8a201-09b9-47a7-b336-fcf1657f54a8@172.66.44.75:443?type=ws&host=bpb-worker-panel-3jc.pages.dev&path=/TELEGRAM-MARAMBASHI/?ed%3D2048&security=tls&fp=randomized&sni=bpb-wORKer-paNeL-3JC.pAgeS.DeV&alpn=h2,http/1.1#Aa64n🇲🇷
 vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?type=ws&host=iSAA1.paGEs.DEV&path=/Telegram@V2ray_Alpha/?ed%3D2560&security=tls&fp=randomized&sni=iSaa1.PAGeS.DeV&alpn=h2,http/1.1#Aa64n🇲🇴
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?type=ws&host=argodev11222.pages.dev&path=/iEKjUnufUjeTiIrt?ed%3D2560&security=tls&fp=randomized&sni=ArGodev11222.PaGes.Dev&alpn=h2,http/1.1#Aa64n🇱🇺
-vless://584bc2cf-2d25-41b9-97a3-f843d5c776a2@hajlab.ucdavis.edu:80?type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v15.TzZLiMitT.CoM&security=none#Aa64n🇯🇪
-vless://584bc2cf-2d25-41b9-97a3-f843d5c776a2@hajlab.ucdavis.edu:80?type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v04.TzZLiMitT.CoM&security=none#Aa64n🇰🇮
 vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?type=ws&host=IsaA1.pAGEs.DEV&path=/T7OzaaLG5SkllZJf?ed%3D2560&security=tls&fp=randomized&sni=iSaA1.paGes.DEv&alpn=h2,http/1.1#%F0%9F%87%A8%F0%9F%87%A6Toronto
 vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?type=ws&host=IsaA1.pAGEs.DEV&path=/T7OzaaLG5SkllZJf?ed%3D2560&security=tls&fp=randomized&sni=iSaA1.paGes.DEv&alpn=h2,http/1.1#%F0%9F%87%A8%F0%9F%87%A6Toronto
 vless://24f406cc-7dd5-462f-8714-9c5956678606@95.85.95.85:80?type=ws&host=o0.Ir.&security=none#France-G2type=ws&host=OO.ir.&path=/?ed%3D2560&security=tls&fp=chrome&sni=gcore.com.&alpn=h2,http/1.1#UK-G
 vless://ad47a032-2f76-463b-891c-e7f5ed7923aa@95.85.95.85:80?type=ws&host=h0.iR.&security=none#PO-G
-vless://18455427-0723-8408-1924-0f9ed7f12164@79.72.66.13:25227?type=grpc&mode=multi&serviceName=grpc&security=tls&fp=random&sni=ptqoa.ucqwqkfi.com&alpn=h2,http/1.1&allowInsecure=true#newserver
-vless://18455427-0723-8408-1924-0f9ed7f12164@15.188.14.222:25206?type=grpc&mode=multi&serviceName=grpc&security=tls&fp=random&sni=ysbyb.tfygvikw.com&alpn=h2,http/1.1&allowInsecure=true#newserver
 vless://24f406cc-7dd5-462f-8714-9c5956678606@95.85.95.85:80?type=ws&host=o0.Ir.&security=none#France-G2
 vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?type=ws&host=IsaA1.pAGEs.DEV&path=/T7OzaaLG5SkllZJf?ed%3D2560&security=tls&fp=randomized&sni=iSaA1.paGes.DEv&alpn=h2,http/1.1#%F0%9F%87%A8%F0%9F%87%A6Montreal
 vless://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?type=ws&host=aksnmaioas.pages.dev&path=/?ed%3D2048&security=tls&sni=aksnmaioas.pages.dev#%F0%9F%87%A8%F0%9F%87%A6Montreal
@@ -46,7 +42,6 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@aa64-m.amiralinorozjam.workers.dev:
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.1.102:2053?flow=&type=ws&host=aa64-m.amiralinorozjam.workers.dev&path=/8U0FFbIzdOiYUDmf?ed%3D2560&security=tls&fp=randomized&sni=Aa64-m.AmIRalInoROZjAM.WorKeRS.DeV&alpn=h2,http/1.1&allowInsecure=false#Aa64n-new bpb
 vless://bm9uZTo3MDNiYjdjYi02Y2Q1LTQyNzItOTY0MC03ZmM2ZThmNzYyOWZAMjE3LjYwLjE4OC4xMzM6MTAwMw?remarks=%F0%9F%87%A6%F0%9F%87%B2%20AM%202&obfsParam=www.speedtest.net&path=/&obfs=http
 vless://a444dc5a-9459-4751-a2f6-9bb575f5ecf4@www.visa.com.sg:8880?encryption=none&security=none&type=ws&host=vahid2.vahiddj6750.workers.dev&path=%2F%3Fed%3D2560#Aa64n.workers.dev
-vless://6ab440d4-6ab5-4956-b091-37c661e562c7@104.16.32.228:443?flow=&type=ws&host=36292970673925855479161748246826.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&path=/V2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS-ADVANCED&security=tls&fp=chrome&sni=36292970673925855479161748246826.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&alpn=http/1.1&allowInsecure=true&mux=8#Aa64n🇬🇼
 vless://3fedbd26-b4da-440e-9f7c-004d2463caec@172.67.60.20:443?type=ws&host=old-sun-8028.amiralinorozjam.workers.dev&path=/DisVpn.us.kg&security=tls&fp=chrome&sni=old-sun-8028.amiralinorozjam.workers.dev&alpn=h2,http/1.1#Aa64n🇭🇰
 vless://134ba905-86b6-4ea8-8bb6-2055aa0c8f56@workeripv6.rhyljiti.workers.dev:443?encryption=none&security=tls&sni=workeripv6.rhyljiti.workers.dev&fp=randomized&type=ws&host=workeripv6.rhyljiti.workers.dev&path=%2F%3Fed%3D2048#Aa64n🇹🇿
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443?type=tcp#Aa64n🇹🇫
