@@ -1,3 +1,4 @@
+trojan://971ca97d-b888-5999-bf2c-5c5f0d9039ff@104.18.165.156:2096?type=ws&host=worker-new.rhyljiti.worKERS.Dev&path=trojan-ws/?ed%3D2048&security=tls&fp=firefox&sni=worker-new.rhyljiti.worKERS.Dev&alpn=h3,h2,http/1.1#26-Aa64n-worker
 vless://f69b2c89-c6ea-4df9-9ff8-1cb2d7acbc88@ipcf.amiralinorozjam.workers.dev:2053?type=ws&host=ipcf.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=tls&fp=random&sni=ipcf.amiralinorozjam.workers.dev#ipcf-Aa64n
 vless://eb4fb548-5cf7-4da1-b097-45649f06d8ab@pinimg.com:443?type=ws&host=KAndoHST.CoM.&path=/&security=tls&fp=android&sni=PINIMg.coM.&alpn=h3,h2,http/1.1#G9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80?type=tcp#%F0%9F%87%A8%F0%9F%87%A6Montreal
