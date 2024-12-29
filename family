@@ -1,3 +1,4 @@
+vless://899f5cbd-a4cb-49b1-aa16-cff610657cf5@turk.radicalization.ir:443?type=ws&host=aash.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=tls&fp=random&sni=aash.amiralinorozjam.workers.dev#aash.HTTPS-443-turk.radicalization.ir-EDtunnel
 vless://899f5cbd-a4cb-49b1-aa16-cff610657cf5@aash.amiralinorozjam.workers.dev:8880?type=ws&host=aash.amiralinorozjam.workers.dev&path=/ar9t5slq1zh?ed%3D2048&security=none#aash-HTTP-8880
 vless://899f5cbd-a4cb-49b1-aa16-cff610657cf5@aash.amiralinorozjam.workers.dev:2052?type=ws&host=aash.amiralinorozjam.workers.dev&path=/2iu2j4sda0d?ed%3D2048&security=none#aash-HTTP-2052
 trojan://2c5ba120-c13a-11ef-8f38-1239d0255272@fr1.test3.net:443?type=tcp&security=tls&sni=telewebion.com&allowInsecure=true#Aa64n-10
