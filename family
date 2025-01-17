@@ -51,7 +51,6 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.64.90.138:2095?type=ws&host=aa6
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2095?type=ws&host=aa64-m.amiralinorozjam.workers.dev&path=/LT6yQztdjDAym0ts/MTQxLjE0Ny4xODguNjQ%3D?ed%3D2560&security=none#Aa64n-damin-%202095
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.25.182.38:8880?type=ws&host=aa64-m.amiralinorozjam.workers.dev&path=/S7e6BnSdzLcZVNCb/MTQxLjE0Ny4xODguNjQ%3D?ed%3D2560&security=none#Aa64n-cleanip:%208880
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@aa64-m.amiralinorozjam.workers.dev:443?flow=&type=ws&host=aa64-m.amiralinorozjam.workers.dev&path=/6hDqLrjUg2oKCvB4/MTM1LjE4MS44MS4xNDc%3D?ed%3D2560&security=tls&fp=randomized&sni=Aa64-m.AmiRaLiNorOzJAM.wOrkeRs.DEv&alpn=h2,http/1.1&allowInsecure=false#Aa64n-%20Best%20Ping
-vless://f69b2c89-c6ea-4df9-9ff8-1cb2d7acbc88@ipcf.amiralinorozjam.workers.dev:2053?encryption=none&security=tls&sni=ipcf.amiralinorozjam.workers.dev&fp=randomized&type=ws&host=ipcf.amiralinorozjam.workers.dev&path=%2F%3Fed%3D2048#ipcf.Aa64n.workers.dev
 vless://f69b2c89-c6ea-4df9-9ff8-1cb2d7acbc88@gozar.azad.sh-cf.shop:443?encryption=none&security=tls&sni=ipcf.amiralinorozjam.workers.dev&fp=randomized&type=ws&host=ipcf.amiralinorozjam.workers.dev&path=%2F%3Fed%3D2048#ipcf.Aa64n.workers.dev
 vless://f69b2c89-c6ea-4df9-9ff8-1cb2d7acbc88@ipcf.amiralinorozjam.workers.dev:80?type=ws&host=ipcf.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=none#ipcf.Aa64n-HTTP-80
 vless://f69b2c89-c6ea-4df9-9ff8-1cb2d7acbc88@ipcf.amiralinorozjam.workers.dev:443?type=ws&host=ipcf.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=tls&fp=random&sni=ipcf.amiralinorozjam.workers.dev#ipcf.Aa64n-HTTPS-443
@@ -71,7 +70,6 @@ vless://bm9uZTo3MDNiYjdjYi02Y2Q1LTQyNzItOTY0MC03ZmM2ZThmNzYyOWZAMjE3LjYwLjE4OC4x
 vless://134ba905-86b6-4ea8-8bb6-2055aa0c8f56@workeripv6.rhyljiti.workers.dev:443?encryption=none&security=tls&sni=workeripv6.rhyljiti.workers.dev&fp=randomized&type=ws&host=workeripv6.rhyljiti.workers.dev&path=%2F%3Fed%3D2048#Aa64n🇹🇿
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#Aa64n🇵🇬
 vless://80b38e32-7877-41ad-b04c-2d463be15ae4@www.gov.se:2082?type=ws&host=ghm1101.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#Misaka-Aa64n
-vless://134ba905-86b6-4ea8-8bb6-2055aa0c8f56@104.19.62.10:443?encryption=none&security=tls&sni=workeripv6.rhyljiti.workers.dev&fp=randomized&type=ws&host=workeripv6.rhyljiti.workers.dev&path=%2F%3Fed%3D2048#Aa64n.vip🥇🇺🇬
 ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA==@80.92.204.106:9010?type=tcp#Aa64n-DE
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2096?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Aa64n🇸🇿
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:80?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Aa64n🇧🇷
