@@ -8,12 +8,10 @@ vless://119c0dae-7113-4b8e-bab2-66d659230a7a@trevor.ns.cloudflare.com:443?type=w
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@www.pcmag.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@new-worker.rhyljiti.workers.dev:80?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560#new-worker
 vless://eb34934f-77d7-4b49-95a0-f33404aae86a@185.239.141.59:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=google.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#Aa64n-02-19%20%E2%9C%85
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFYXUzOGphTU8wUHBPMC0xTFhmdlJ3@195.15.215.198:5555#Aa64n_key_726_fix
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVX2FKRzVXVWlmS2FtdmJrUE9TOS1n@138.124.50.101:1080?type=tcp#Aa64n-02-19
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVX2FKRzVXVWlmS2FtdmJrUE9TOS1n@195.133.38.125:1080?type=tcp#Aa64n-02-19
 vless://eb34934f-77d7-4b49-95a0-f33404aae86a@185.239.141.59:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=google.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#Aa64n-02-19%20%E2%9C%85
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVX2FKRzVXVWlmS2FtdmJrUE9TOS1n@185.239.141.59:1080?type=tcp#Aa64n-02-19
-vmess://eyJ0eXBlIjoiaHR0cCIsInBzIjoiUE9DX05pbWJhaGFfMSIsIm5ldCI6InRjcCIsImhvc3QiOiJtaXpiYW5vbmxpbmUuY29tIiwiaWQiOiJhNDBjMDJlMi0yZmUwLTQyMzQtYTdiMC02M2RlOWM1ZDIzNmYiLCJ0bHMiOiJub25lIiwicG9ydCI6IjgwODEiLCJwYXRoIjoiXC9kb3dubG9hZHNcL3VidW50dS0yMC4wNC5saXN0Iiwic2N5IjoiYXV0byIsImFkZCI6IjYyLjYwLjE2MC4xOTEifQ==
 vless://16248104-c4d8-478d-8ac7-826c059064c2@aa64n-new.rhyljiti.workers.dev:443?type=ws&path=/KUXCJoFC6yyH52FO?ed%3D2560&security=tls&fp=randomized&sni=Aa64N-neW.RhYLjITI.WorKerS.dev&alpn=h2,http/1.1&allowInsecure=false#en-%20Fragment%20-%20Best%20Ping%20%F0%9F%92%A5
 vless://16248104-c4d8-478d-8ac7-826c059064c2@aa64n-new.rhyljiti.workers.dev:443?type=ws&path=/KUXCJoFC6yyH52FO?ed%3D2560&security=tls&fp=randomized&sni=Aa64N-neW.RhYLjITI.WorKerS.dev&alpn=h2,http/1.1&allowInsecure=false#en%20-%20Best%20Fragment%20%F0%9F%98%8E
 vless://16248104-c4d8-478d-8ac7-826c059064c2@104.21.64.13:8443?type=ws&host=aa64n-new.rhyljiti.workers.dev&path=/IgWK8VvOs8RQjRGV?ed%3D2560&security=tls&fp=randomized&sni=aA64N-NEw.RHyLJIti.wOrKErS.DEV&alpn=h2,http/1.1#en%20-%20IPv4%20:%208443
@@ -23,7 +21,6 @@ vless://16248104-c4d8-478d-8ac7-826c059064c2@www.speedtest.net:8443?type=ws&host
 vless://16248104-c4d8-478d-8ac7-826c059064c2@aa64n-new.rhyljiti.workers.dev:443?type=ws&path=/uk4Hm7PnmTOIMfZr?ed%3D2560&security=tls&fp=randomized&sni=Aa64N-new.RhYLJiti.WORKErs.dEV&alpn=h2,http/1.1&allowInsecure=false#enFragment%20-%20Best%20Ping%20%F0%9F%92%A5
 vless://f69b2c89-c6ea-4df9-9ff8-1cb2d7acbc88@ipcf.amiralinorozjam.workers.dev:2053?type=ws&host=ipcf.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=tls&fp=random&sni=ipcf.amiralinorozjam.workers.dev#ipcf-Aa64n
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80?type=tcp#%F0%9F%87%A8%F0%9F%87%A6Montreal
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443?type=tcp#Aa64n-10
 vless://134ba905-86b6-4ea8-8bb6-2055aa0c8f56@workeripv6.rhyljiti.workers.dev:443?type=ws&host=workeripv6.rhyljiti.workers.dev&path=/?ed%3D2048&security=tls&fp=randomized&sni=workeripv6.rhyljiti.workers.dev#workeri
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:80?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Aa64n🇮🇷
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.64.90.138:2095?type=ws&host=aa64-m.amiralinorozjam.workers.dev&path=/1FiNUpRx9f8pzQ4X/MTQxLjE0Ny4xODguNjQ%3D?ed%3D2560&security=none#Aa64n-cleanip:%202095
