@@ -3,9 +3,7 @@ vless://34713217-04d1-4191-8b39-56281430046e@32232334.web-manage.com.tr:1520?typ
 vless://34713217-04d1-4191-8b39-56281430046e@722309294.web-manage.com.tr:2025?type=xhttp&mode=auto&path=/AS&security=reality&fp=chrome&sni=stackoverflow.com&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8#%F0%9F%87%A9%F0%9F%87%AA%20Germany
 vless://34713217-04d1-4191-8b39-56281430046e@32892393.web-manage.com.tr:2025?type=xhttp&mode=auto&path=/AS&security=reality&fp=chrome&sni=stackoverflow.com&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8#%F0%9F%87%A9%F0%9F%87%AA%20Germany%202%20(%20ViP%20)
 vless://34713217-04d1-4191-8b39-56281430046e@299399234.web-manage.com.tr:1520?type=tcp&headerType=http&host=testspeed-foreign.tci.ir&path=/&security=none#%F0%9F%8F%B4%F3%A0%81%A7%F3%A0%81%A2%F3%A0%81%A5%F3%A0%81%AE%F3%A0%81%A7%F3%A0%81%BF%20England
-trojan://bpb-trojan@172.67.186.42:443?path=%2Ftr%3Fed%3D2560&security=tls&alpn=h3&host=bpb-hd.aaronchin.xyz&fp=randomized&type=ws&sni=bpb-hd.aaronchin.xyz#𝗔𝗮𝟔𝟒𝗻𝟏𝟐𝟐𝟓
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.1.102:2083?type=ws&host=aa64-m.amiralinorozjam.workers.dev&path=/45skzKnL7X3yNJ9J?ed%3D2560&security=tls&fp=randomized&sni=aa64-m.AmiraLInorozjAm.WOrKErs.dEV&alpn=h2,http/1.1#Aa64n-1225
-vless://119c0dae-7113-4b8e-bab2-66d659230a7a@104.17.68.85:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n-1225
 vless://16248104-c4d8-478d-8ac7-826c059064c2@104.21.64.13:2083?type=ws&path=/BZscIEyE6Wn6lIzs?ed%3D2560&security=tls&fp=randomized&sni=aA64N-New.RhYLjiTI.wORKErs.dev&alpn=h2,http/1.1&allowInsecure=false#Aa64n-1225
 vless://16248104-c4d8-478d-8ac7-826c059064c2@104.21.64.13:2083?type=ws&path=/BZscIEyE6Wn6lIzs?ed%3D2560&security=tls&fp=randomized&sni=aA64N-New.RhYLjiTI.wORKErs.dev&alpn=h2,http/1.1&allowInsecure=false#Aa64n-1225
 vless://16248104-c4d8-478d-8ac7-826c059064c2@aa64n-new.rhyljiti.workers.dev:443?type=ws&path=/TFbb2jFjevACkqUb?ed%3D2560&security=tls&fp=randomized&sni=Aa64n-NeW.RHylJITi.WorKeRS.deV&alpn=h2,http/1.1&allowInsecure=false#Aa64n-fragment%20-%20Best%20Ping
@@ -13,12 +11,10 @@ vless://119c0dae-7113-4b8e-bab2-66d659230a7a@www.digitalocean.com:443?type=ws&ho
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@tasteatlas.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker.Aa64n
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?type=ws&host=redw.pooriam.ir&path=/Telegram@v2ray_alpha/?ed%3D2560&security=none#Aa64n-1225
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVlUyN0xxdUFNT2VYbVllU3RJODk3@sto3.g.edgeservers.org:32448?type=tcp#Aa64n-Server-3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080?type=tcp#Aa64n-1225
 hysteria2://pZzFNQTyapl06q2tMAOw@147.45.154.150:443?obfs=salamander&obfs-password=6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q&sni=anymath.ir&insecure=1#Aa64n-HYS
 vless://1e0b71de-3c7e-4010-bfc6-27239851944f@45.129.185.185:2087?type=grpc&mode=gun&security=reality&fp=firefox&sni=dash.cloudflare.com&pbk=StgXQYbkKSkAHHzakVldKHVmrBXhe_J87e7bydUIOGw&sid=83cdb009#Aa64n-1225
 vless://e14b4a6b-0c62-4551-a952-b3eff4b973de@194.156.103.86:2096?type=grpc&mode=gun&security=reality&fp=firefox&sni=dash.cloudflare.com&pbk=2aoxX2Wjq25LmOUq9CuhJ6KJTA8z1i3Aspe-7RhTR1s&sid=28f58957#Aa64n-1225
 vless://e2a5b491-38c9-4379-9033-ee275270da5c@188.213.128.116:1011?type=tcp&headerType=none&security=none#Aa64n-1225
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.13.58:8880?type=grpc&mode=gun&security=none#Aa64n-1225
 hysteria2://NtG7yVlsWI@p5.punchline.ir:14055?obfs=salamander&obfs-password=AOICMIWHB892R8LNKDQX&insecure=1#Aa64n-hys2
 hysteria2://NtG7yVlsWI@p5.punchline.ir:48149?obfs=salamander&obfs-password=QOXMQNCOI891E2IACJ&insecure=1#Aa64n-hys1
 vless://ee8739c5-edf5-4c5c-a60d-ea94e5e23051@eservisexzs.selenarahmani.blog:2082?type=tcp&headerType=http&host=varzesh3.com&path=/&security=none#UK%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20Aa64n%20%20-%20TCP
