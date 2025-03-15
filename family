@@ -1,4 +1,6 @@
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@104.17.68.85:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n-1225
+vless://16248104-c4d8-478d-8ac7-826c059064c2@104.21.64.13:2083?type=ws&path=/BZscIEyE6Wn6lIzs?ed%3D2560&security=tls&fp=randomized&sni=aA64N-New.RhYLjiTI.wORKErs.dev&alpn=h2,http/1.1&allowInsecure=false#Aa64n-1225
+vless://16248104-c4d8-478d-8ac7-826c059064c2@104.21.64.13:2083?type=ws&path=/BZscIEyE6Wn6lIzs?ed%3D2560&security=tls&fp=randomized&sni=aA64N-New.RhYLjiTI.wORKErs.dev&alpn=h2,http/1.1&allowInsecure=false#Aa64n-1225
 
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@www.digitalocean.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker.Aa64n
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@tasteatlas.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker.Aa64n
