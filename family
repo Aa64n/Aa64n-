@@ -1,3 +1,8 @@
+vless://34713217-04d1-4191-8b39-56281430046e@242232454.web-manage.com.tr:1520?type=tcp&headerType=http&host=testspeed-foreign.tci.ir&path=/&security=none#%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://34713217-04d1-4191-8b39-56281430046e@32232334.web-manage.com.tr:1520?type=tcp&headerType=http&host=testspeed-foreign.tci.ir&path=/&security=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://34713217-04d1-4191-8b39-56281430046e@722309294.web-manage.com.tr:2025?type=xhttp&mode=auto&path=/AS&security=reality&fp=chrome&sni=stackoverflow.com&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8#%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://34713217-04d1-4191-8b39-56281430046e@32892393.web-manage.com.tr:2025?type=xhttp&mode=auto&path=/AS&security=reality&fp=chrome&sni=stackoverflow.com&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8#%F0%9F%87%A9%F0%9F%87%AA%20Germany%202%20(%20ViP%20)
+vless://34713217-04d1-4191-8b39-56281430046e@299399234.web-manage.com.tr:1520?type=tcp&headerType=http&host=testspeed-foreign.tci.ir&path=/&security=none#%F0%9F%8F%B4%F3%A0%81%A7%F3%A0%81%A2%F3%A0%81%A5%F3%A0%81%AE%F3%A0%81%A7%F3%A0%81%BF%20England
 trojan://bpb-trojan@172.67.186.42:443?path=%2Ftr%3Fed%3D2560&security=tls&alpn=h3&host=bpb-hd.aaronchin.xyz&fp=randomized&type=ws&sni=bpb-hd.aaronchin.xyz#𝗔𝗮𝟔𝟒𝗻𝟏𝟐𝟐𝟓
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.1.102:2083?type=ws&host=aa64-m.amiralinorozjam.workers.dev&path=/45skzKnL7X3yNJ9J?ed%3D2560&security=tls&fp=randomized&sni=aa64-m.AmiraLInorozjAm.WOrKErs.dEV&alpn=h2,http/1.1#Aa64n-1225
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@104.17.68.85:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n-1225
