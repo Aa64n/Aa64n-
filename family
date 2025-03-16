@@ -1,3 +1,5 @@
+vless://119c0dae-7113-4b8e-bab2-66d659230a7a@162.159.36.104:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n1226
+vless://119c0dae-7113-4b8e-bab2-66d659230a7a@nikon.ns.cloudflare.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n1226
 vless://ceefffa7-dff9-460f-83e6-01f2b836e8d3@32232334.web-manage.com.tr:1520?type=tcp&headerType=http&host=testspeed-foreign.tci.ir&path=/&security=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland2
 vless://ceefffa7-dff9-460f-83e6-01f2b836e8d3@242232454.web-manage.com.tr:1520?type=tcp&headerType=http&host=testspeed-foreign.tci.ir&path=/&security=none#%F0%9F%87%AB%F0%9F%87%B7%20France2
 vless://34713217-04d1-4191-8b39-56281430046e@242232454.web-manage.com.tr:1520?type=tcp&headerType=http&host=testspeed-foreign.tci.ir&path=/&security=none#%F0%9F%87%AB%F0%9F%87%B7%20France
