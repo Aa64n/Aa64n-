@@ -1,3 +1,4 @@
+trojan://bpb-trojan@172.66.213.38:443?path=%2Ftr%3Fed%3D2560&security=tls&alpn=h3&host=bpb-hd.aaronchin.xyz&fp=randomized&type=ws&sni=bpb-hd.aaronchin.xyz#Aa64n-mci
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@162.159.36.104:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n1226
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@nikon.ns.cloudflare.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n1226
 vless://ceefffa7-dff9-460f-83e6-01f2b836e8d3@32232334.web-manage.com.tr:1520?type=tcp&headerType=http&host=testspeed-foreign.tci.ir&path=/&security=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland2
