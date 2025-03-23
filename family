@@ -1,3 +1,4 @@
+vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:8880?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf-vless-8880
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:80?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf-vless-80
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:8443?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Misaka-cf-vless-TLS-8443
 vless://f0384e3c-3601-4a8c-9797-c6f13ce32a6e@uaev4-vip.digitalldns.com:8054?type=grpc&mode=gun&serviceName=yourServiceName#%F0%9F%87%A6%F0%9F%87%AA%E2%9C%85%D8%A7%D9%85%D8%A7%D8%B1%D8%A7%D8%AA
