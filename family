@@ -13,7 +13,6 @@ vless://0bbbd3f9-6d0b-4f10-b879-abf208b99e51@32232334.web-manage.com.tr:1519?typ
 vless://0bbbd3f9-6d0b-4f10-b879-abf208b99e51@3900230223.torob.com.tr:1522?type=tcp&headerType=http&host=testspeed-foreign.tci.ir&path=/&security=none#%F0%9F%8F%B4%F3%A0%81%A7%F3%A0%81%A2%F3%A0%81%A5%F3%A0%81%AE%F3%A0%81%A7%F3%A0%81%BF%20England
 vless://0bbbd3f9-6d0b-4f10-b879-abf208b99e51@32892393.web-manage.com.tr:2025?type=xhttp&mode=auto&path=/AS&security=reality&fp=chrome&sni=stackoverflow.com&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8#%F0%9F%87%A9%F0%9F%87%AA%20Germany%202%20(%20ViP%20)
 vless://0bbbd3f9-6d0b-4f10-b879-abf208b99e51@242232454.web-manage.com.tr:1521?type=tcp&headerType=http&host=testspeed-foreign.tci.ir&path=/&security=none#%F0%9F%87%AB%F0%9F%87%B7%20France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZHpYVnVieFpsdUlRZzQ2V2Q5bGxz@gurvpn-bot.outlinekeys.net:4443?type=tcp#%F0%9F%87%B8%F0%9F%87%AAAa64_0701
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@www.pcmag.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker%F0%9F%87%AC%F0%9F%87%B6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMjZkNTRiMmY2NGFkNGZhQDM4LjE0My42Ni4yMjE6MTEyMDE=#
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.1.102:2053?type=ws&host=aa64-m.amiralinorozjam.workers.dev&path=/8U0FFbIzdOiYUDmf?ed%3D2560&security=tls&fp=randomized&sni=Aa64-m.AmIRalInoROZjAM.WorKeRS.DeV&alpn=h2,http/1.1#Aa64n-newbpb
@@ -37,7 +36,6 @@ vless://f0384e3c-3601-4a8c-9797-c6f13ce32a6e@usav4-vip.digitalldns.com:4020?type
 vless://f0384e3c-3601-4a8c-9797-c6f13ce32a6e@trv4-vip.digitalldns.com:4680?type=grpc&mode=gun&serviceName=yourServiceName#%F0%9F%87%B9%F0%9F%87%B7%20%E2%9C%85%D8%AA%D8%B1%DA%A9%DB%8C%D9%87
 vless://f0384e3c-3601-4a8c-9797-c6f13ce32a6e@usav4-vip.digitalldns.com:4020?type=grpc&mode=gun&serviceName=yourServiceName#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9C%85%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7
 vless://f0384e3c-3601-4a8c-9797-c6f13ce32a6e@dev4-vip.digitalldns.com:4687?type=grpc&mode=gun&serviceName=yourServiceName#%F0%9F%87%A9%F0%9F%87%AAGerman%20
-trojan://Jn3aMVDFDz@iran.farsonline24.ir:443?type=grpc&mode=gun&serviceName=/21176/@M3HDIO1&authority=iran.farsonline24.ir&security=tls&fp=random#Aa64n%200103
 vless://ee8739c5-edf5-4c5c-a60d-ea94e5e23051@eservisexzs.selenarahmani.blog:14293?type=grpc&mode=gun&serviceName=1321vless&security=reality&fp=ios&sni=rEfErSion.Com&pbk=lBgbRTXw9aRtJJn-Sp14kcjDS8o3N2XNsrznjvCRERw&sid=b173b2b82ec21f9c#UK%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20Aa64n%20%20-%20%20REALITY
 vless://ee8739c5-edf5-4c5c-a60d-ea94e5e23051@easrtvisufs.selenarahmani.blog:14293?type=grpc&mode=gun&serviceName=1321vless&security=reality&fp=ios&sni=rEfErSion.Com&pbk=lBgbRTXw9aRtJJn-Sp14kcjDS8o3N2XNsrznjvCRERw&sid=b173b2b82ec21f9c#NL%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20Aa64n%20%20-%20REALITY
 vless://ee8739c5-edf5-4c5c-a60d-ea94e5e23051@eservisexzs.selenarahmani.blog:2082?type=tcp&headerType=http&host=varzesh3.com&path=/&security=none#UK%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20Aa64n%20%20-%20TCP
@@ -53,7 +51,6 @@ vless://16248104-c4d8-478d-8ac7-826c059064c2@104.21.64.13:2083?type=ws&path=/BZs
 vless://16248104-c4d8-478d-8ac7-826c059064c2@aa64n-new.rhyljiti.workers.dev:443?type=ws&path=/TFbb2jFjevACkqUb?ed%3D2560&security=tls&fp=randomized&sni=Aa64n-NeW.RHylJITi.WorKeRS.deV&alpn=h2,http/1.1&allowInsecure=false#Aa64n-fragment%20-%20Best%20Ping
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@www.digitalocean.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker.Aa64n
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@tasteatlas.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker.Aa64n
-hysteria2://pZzFNQTyapl06q2tMAOw@147.45.154.150:443?obfs=salamander&obfs-password=6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q&sni=anymath.ir&insecure=1#Aa64n-HYS
 vless://ee8739c5-edf5-4c5c-a60d-ea94e5e23051@eservisexzs.selenarahmani.blog:2082?type=tcp&headerType=http&host=varzesh3.com&path=/&security=none#UK%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20Aa64n%20%20-%20TCP
 vless://ee8739c5-edf5-4c5c-a60d-ea94e5e23051@accounts.alirezadolatyari.blog:2082?type=tcp&headerType=http&host=varzesh3.com&path=/&security=none#Gr%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20Aa64n%20%20-%20TCP
 vless://ee8739c5-edf5-4c5c-a60d-ea94e5e23051@easrtvisufs.selenarahmani.blog:2082?type=tcp&headerType=http&host=varzesh3.com&path=/&security=none#NL%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20Aa64n%20-%20TCP
