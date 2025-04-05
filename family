@@ -1,3 +1,5 @@
+trojan://AXpQXM4vNh@x2swe-ovh.devefun.net:1935?type=tcp&headerType=none&security=tls&fp=chrome&sni=x2swe-ovh.devefun.net&alpn=h3,h2,http/1.1#TROJAN%20%F0%9F%87%B8%F0%9F%87%AA
+trojan://eG92F3gh09@x1ams-scaleway.devefun.net:1935?type=tcp&headerType=none&security=tls&fp=chrome&sni=x1ams-scaleway.devefun.net&alpn=h3,h2,http/1.1#TROJAN%20%F0%9F%87%B1%F0%9F%87%BA
 vless://f69b2c89-c6ea-4df9-9ff8-1cb2d7acbc88@ipcf.amiralinorozjam.workers.dev:2052?type=ws&host=ipcf.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=none#ipcf.Aa64n.dev-HTTP-2052
 hysteria2://18463200c271aa6d@45.63.116.113:443?obfs=salamander&obfs-password=6c80ade6&sni=vkvd127.mycdn.me&insecure=1#HYSTERIA-UDP%20%F0%9F%87%A9%F0%9F%87%AA%20DE
 vless://e6ec4f01-e764-4697-a54e-1a55d92c1ff5@91.107.177.102:2083?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=www.whatsapp.com&pbk=lFSBLDW1PZMf27yZgJIu6U10H6b2SB_aYYhihVaroWY&sid=ab8e29#VL-TCP-RLT%20%F0%9F%87%A9%F0%9F%87%AA%20DE
