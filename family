@@ -1,3 +1,13 @@
+vless://5d3f2a0b-9f96-4e6b-ad23-c0147642263b@a.nl.maviks.eu:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=maviks.eu&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam'Aa64n
+vless://5d3f2a0b-9f96-4e6b-ad23-c0147642263b@a.nl.maviks.eu:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=maviks.eu&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam,Aa64n
+vless://5d3f2a0b-9f96-4e6b-ad23-c0147642263b@nodes.maviks.eu:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=maviks.eu&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#%F0%9F%87%A9%F0%9F%87%AA%20Germany,Aa64n
+vless://5d3f2a0b-9f96-4e6b-ad23-c0147642263b@e.nl.cdn.maviks.eu:443?type=ws&host=cdn-nodes.maviks.eu&path=/pLmdwS3fSrE9WwdgE3LdG2?ed%3D2560&security=tls&fp=chrome&sni=cdn-nodes.maviks.eu#%F0%9F%9B%A0%20Reserve'Aa64n
+vless://ff68cf3c-31d6-4176-9ed2-fd574fd2fe1b@e.nl.cdn.maviks.eu:443?type=ws&host=cdn-nodes.maviks.eu&path=/pLmdwS3fSrE9WwdgE3LdG2?ed%3D2560&security=tls&fp=chrome&sni=cdn-nodes.maviks.eu#%F0%9F%9B%A0%20Reserve,Aa64n
+vless://5d3f2a0b-9f96-4e6b-ad23-c0147642263b@a.nl.maviks.eu:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=maviks.eu&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam,Aa64n
+vless://5d3f2a0b-9f96-4e6b-ad23-c0147642263b@a.nl.maviks.eu:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=maviks.eu&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam%22readonly%
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.116.16.35:48172?type=tcp#Aa64n-0218
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.116.16.35:48172?type=tcp#Aa64n-0218
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2N2RZZmkxdUF2MlpUeFh2TG9lazM5@66.151.41.89:33133?type=tcp#Frankfurt%20am%20Main,%20HE,%20Germany
 vless://e13dc928-2afb-4ede-839b-40b0ab07122c@51.77.110.211:22351?type=tcp&security=none#Aa64n-0217
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptRlVjamRYOEtaaGluUGVkeDlNd2NH@h110vpnch.outlinekeys.net:4248#Aa64n,%20ZH,%20Switzerland
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbnk0TGc1OTE4aWNENDJ5ZlRDVFdJ@h110vpntr.outlinekeys.net:65262#Aa64n%2C%2034%2C%20T%C3%BCrkiye
