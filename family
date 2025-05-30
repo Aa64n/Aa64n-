@@ -3,8 +3,6 @@ vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2086?type=ws&host=new-11
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REVFMVZJUFx1RDgzRFx1REVFMSIsDQogICJhZGQiOiAiNjUuMTA5LjIzMy4xNSIsDQogICJwb3J0IjogIjI5MzAxIiwNCiAgImlkIjogImQ0ZGE4MzU3LTY2NjEtNDMxMy05NDlkLTRlNmFlYzAwNjNlOSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.116.16.35:48172?type=tcp#Aa64n-0218
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.116.16.35:48172?type=tcp#Aa64n-0218
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2N2RZZmkxdUF2MlpUeFh2TG9lazM5@66.151.41.89:33133?type=tcp#Frankfurt%20am%20Main,%20HE,%20Germany
-vless://e13dc928-2afb-4ede-839b-40b0ab07122c@51.77.110.211:22351?type=tcp&security=none#Aa64n-0217
-hysteria2://6U2Y9U20Yl@109.73.198.153:443?alpn=h3&fastopen=1&obfs=salamander&obfs-password=@CHANGE_IP1@CHANGE_IP1@CHANGE_IP1@CHANGE_IP1@CHANGE_IP1@CHANGE_IP1@CHANGE_IP1&sni=anymath.ir#Aa64n_VIp🍏
 trojan://%25!%3EuJ%255o%7CN7n3%23*;@104.21.84.203:443?type=ws&host=aa-3lh.pages.dev&path=/trAWOQiFCLxBzp3ibV?ed%3D2560&security=tls&fp=randomized&sni=Aa-3Lh.pages.dev&alpn=http/1.1&allowInsecure=false#Aa64n%20F%20-%20Clean%20IP%20:%20443
 vless://e6a74be3-e58c-4b5e-b1f0-1e4bb21bf3bd@172.67.138.107:443?type=ws&host=aa-3lh.pages.dev&path=/KPQ6WXKdNY1U6DNk?ed%3D2560&security=tls&fp=randomized&sni=aA-3Lh.PagEs.dEv&alpn=http/1.1&allowInsecure=false#Aa64n%20F%20-%20Clean%20IP%20:%20443
 vless://e6a74be3-e58c-4b5e-b1f0-1e4bb21bf3bd@104.21.85.203:443?type=ws&host=aa-3lh.pages.dev&path=/g2Tc3jfT8vCVGpSy?ed%3D2560&security=tls&fp=randomized&sni=aa-3lh.PAgeS.Dev&alpn=http/1.1&allowInsecure=false#Aa64n%20F%20-%20Clean%20IP%20:%20443
@@ -32,13 +30,11 @@ vless://119c0dae-7113-4b8e-bab2-66d659230a7a@104.17.68.85:443?type=ws&host=new-w
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2095?type=ws&host=aa64-m.amiralinorozjam.workers.dev&path=/LT6yQztdjDAym0ts/MTQxLjE0Ny4xODguNjQ%3D?ed%3D2560&security=none#Aa64n-damin-%202095
 vless://899f5cbd-a4cb-49b1-aa16-cff610657cf5@aash.amiralinorozjam.workers.dev:8443?type=ws&host=aash.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=tls&fp=random&sni=aash.amiralinorozjam.workers.dev#Aa64n-0201
 vless://956027bd-4040-4a6e-8f5a-ecfb95a45ab6@1becb705.amiramli64n.pages.dev:443?type=ws&host=1becb705.amiramli64n.pages.dev&path=/?ed%3D2048&security=tls&fp=randomized&sni=1becb705.amiramli64n.pages.dev#Aa64n-0201
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.20:8119#Aa64n-0201
 vless://e6a74be3-e58c-4b5e-b1f0-1e4bb21bf3bd@185.170.166.166:443?type=ws&host=aa-3lh.pages.dev&path=/ie5A6wnloWekdCrI/OC4yMTkuMi41OSw4LjIxOS42MS4yMzksMTY3LjIzNS41Ny42MSw0Ny43OS4yMi45Mg%3D%3D?ed%3D2560&security=tls&fp=randomized&sni=aa-3lH.PAGes.deV&alpn=http/1.1&allowInsecure=false#Aa64n 🇸🇪
 vless://e6a74be3-e58c-4b5e-b1f0-1e4bb21bf3bd@91.193.58.207:8443?type=ws&host=aa-3lh.pages.dev&path=/8M9VttNFWglDRXu8/OC4yMTkuMi41OSw4LjIxOS42MS4yMzksMTY3LjIzNS41Ny42MSw0Ny43OS4yMi45Mg%3D%3D?ed%3D2560&security=tls&fp=randomized&sni=AA-3Lh.pAgEs.DeV&alpn=http/1.1&allowInsecure=false#Aa64n🇧🇪
 vless://e6a74be3-e58c-4b5e-b1f0-1e4bb21bf3bd@www.speedtest.net:8443?type=ws&host=aa-3lh.pages.dev&path=/DrQxJbD6lMUScnJO/OC4yMTkuMi41OSw4LjIxOS42MS4yMzksMTY3LjIzNS41Ny42MSw0Ny43OS4yMi45Mg%3D%3D?ed%3D2560&security=tls&fp=randomized&sni=aA-3LH.PAGeS.dEv&alpn=http/1.1&allowInsecure=false#Aa64n🇫🇮
 vless://e6a74be3-e58c-4b5e-b1f0-1e4bb21bf3bd@aa-3lh.pages.dev:2096?type=ws&host=aa-3lh.pages.dev&path=/R8L8QVOwC1v1tsWr/OC4yMTkuMi41OSw4LjIxOS42MS4yMzksMTY3LjIzNS41Ny42MSw0Ny43OS4yMi45Mg%3D%3D?ed%3D2560&security=tls&fp=randomized&sni=Aa-3lh.paGeS.DEV&alpn=http/1.1&allowInsecure=false#Aa64n 🇮🇹
 vless://e6a74be3-e58c-4b5e-b1f0-1e4bb21bf3bd@45.8.211.230:2087?type=ws&host=aa-3lh.pages.dev&path=/8IjuuXwegn5xjcXx/OC4yMTkuMi41OSw4LjIxOS42MS4yMzksMTY3LjIzNS41Ny42MSw0Ny43OS4yMi45Mg%3D%3D?ed%3D2560&security=tls&fp=randomized&sni=aA-3lh.pAges.dEV&alpn=http/1.1&allowInsecure=false#Aa64n🇷🇺
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.20:8119#Aa64n-01:25
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@visa.cn:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-woker%F0%9F%87%A9%F0%9F%87%B2
 vless://16248104-c4d8-478d-8ac7-826c059064c2@aa64n-new.rhyljiti.workers.dev:443?type=ws&path=/uk4Hm7PnmTOIMfZr?ed%3D2560&security=tls&fp=randomized&sni=Aa64N-new.RhYLJiti.WORKErs.dEV&alpn=h2,http/1.1#enFragment%20-%20Best%20Ping%20%F0%9F%92%A5
 vless://16248104-c4d8-478d-8ac7-826c059064c2@aa64n-new.rhyljiti.workers.dev:80?type=ws&host=aa64n-new.rhyljiti.workers.dev&path=/hXAR4Mc0cM10Mh0G?ed%3D2560&security=none#en-%20Domain%20:%2080
@@ -82,7 +78,7 @@ vless://16248104-c4d8-478d-8ac7-826c059064c2@aa64n-new.rhyljiti.workers.dev:443?
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@www.digitalocean.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker.Aa64n
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@tasteatlas.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker.Aa64n
 vless://bm9uZTo3MDNiYjdjYi02Y2Q1LTQyNzItOTY0MC03ZmM2ZThmNzYyOWZAMjE3LjYwLjE4OC4xMzM6MTAwMw?remarks=%F0%9F%87%A6%F0%9F%87%B2%20AM%202&obfsParam=www.speedtest.net&path=/&obfs=http
-ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA==@80.92.204.106:9010?type=tcp#Aa64n-DE
+
 
 
 
