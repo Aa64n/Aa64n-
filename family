@@ -14,7 +14,6 @@ vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?type=tcp&headerTy
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?type=tcp&headerType=none&security=tls&fp=chrome&sni=api.chandplus.com&alpn=h3,h2,http/1.1&allowInsecure=true#Aa64n_20
 socks://WnFaUzNGYVF3Vlk3ZkpIcUYzZWVwS3piOkFhU3NEZEAxMg==@nl-ams.pvdata.host:1080?type=tcp#Aa64n-0507
 socks://WnFaUzNGYVF3Vlk3ZkpIcUYzZWVwS3piOkFhU3NEZEAxMg==@fi-esp.pvdata.host:1080?type=tcp#Aa64n-0507
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN3FtSkN3aU1jNXlyVk1VRndsZUR3@185.49.105.170:1080?type=tcp#tunnel%20-%20Fast%F0%9F%9A%80
 vmess://eyJ0eXBlIjoiaHR0cCIsInBzIjoidHVubmVsJTIwLSUyMEZhc3QlRjAlOUYlOUElODAiLCJhZGQiOiI5NS4zOC4xNDAuMTAyIiwiaWQiOiJhYjk0YzNhOS02Njk1LTQzOTAtYmRlMC0wZWNlZmFiNjU2ZmUiLCJwYXRoIjoiXC8iLCJzY3kiOiJhdXRvIiwicG9ydCI6IjQ1MDkwIiwibmV0IjoidGNwIiwiaG9zdCI6InVwdHZzLmNvbSJ9
 vmess://eyJuZXQiOiJ3cyIsImlkIjoiNTc4NTFjZDVkMTI0NGNiZjk3NWY4NjE1MjIyYzRkNzEiLCJwYXRoIjoiXC9waXhlbGF0ZWQiLCJzY3kiOiJhdXRvIiwicHMiOiJBYTY0biUyMC0wNDA1IiwiYWRkIjoid3MtZGlyLnBpeHBpeDYuaXIiLCJwb3J0IjoiOTU5NSIsImhvc3QiOiJ3cy1kaXIucGl4cGl4Ni5pciJ9
 trojan://%25!%3EuJ%255o%7CN7n3%23*;@104.16.0.0:443?type=ws&host=aa-3lh.pages.dev&path=/tr6CF9GIgiOjJzVqV2?ed%3D2560&security=tls&fp=randomized&sni=aA-3lh.PAGES.dev&alpn=http/1.1&allowInsecure=false#Aa64n%20Trojan%20F%20-%20Clean%20IP%20:%20443
