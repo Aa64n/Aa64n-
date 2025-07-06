@@ -14,9 +14,6 @@ vless://12169c56-03ef-49c4-8604-2a579179e128@en-vip.digitalldns.net:8080?type=tc
 vless://12169c56-03ef-49c4-8604-2a579179e128@en-vip.digitalldns.net:8080?type=tcp&headerType=http&host=www.speedtest.net&path=/&mux=8#Aa64n-marzban
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?type=ws&host=sib.sibzamini.dpdns.org&path=/?ed%3D2560&security=none#Aa64n-0414
 vless://920a95cd-8038-4118-b3db-3845f2bce0cc@51.195.103.227:2087?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=cloudflare.com&pbk=QNZfaWsdkgBNCdi_t5WpcYzTut5fnfl2GGmgJjnXYR4&sid=aed7&spx=/@GoldNet_Store#V%E2%9C%8C%EF%B8%8FRAY%20%F0%9F%87%AE%F0%9F%87%B72087?type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/ullMRopfAzTY5zt3?ed%3D2560&security=tls&fp=randomized&sni=STF839DVvYoG9d2Qa4-B8Z6AHgn7b7qI.pAgEs.deV&alpn=http/1.1&allowInsecure=false#Aa64n%20F%20-%20Domain%20:%202087
-socks://WnFaUzNGYVF3Vlk3ZkpIcUYzZWVwS3piOkFhU3NEZEAxMg==@fi-esp.pvdata.host:1080?type=tcp#Aa64n-FINLAND%20%F0%9F%87%AB%F0%9F%87%AE%20
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ckMvM1UvaTh6Uy9qWUI0TGNjczlXYXp4cWhQNkZWWE1GN2VEWXBFZnB0UT06UjhYSVFFVW9URHN5T0x2L29CMXU3eTdxU2tETUltcnN2Nnc5NHRHZDNNUT0=@zappas.360store.info:55950?type=tcp&headerType=http&host=aparat.com&path=/kdjvmxjjJHJSHjslSIJlm;km;,:443&security=tls&fp=chrome&sni=zappas.360store.info&alpn=h3,h2,http/1.1#Aa64n-speed%F0%9F%87%A9%F0%9F%87%AA
-socks://WnFaUzNGYVF3Vlk3ZkpIcUYzZWVwS3piOkFhU3NEZEAxMg==@nl-ams.pvdata.host:1080?type=tcp#socks%20%F0%9F%87%B3%F0%9F%87%B1%20
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?type=tcp&headerType=http&host=zula.ir&security=none#@Aa64n_0507
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?type=tcp&headerType=none&security=tls&fp=chrome&sni=api.chandplus.com&alpn=h3,h2,http/1.1&allowInsecure=true#Aa64n_20
 socks://WnFaUzNGYVF3Vlk3ZkpIcUYzZWVwS3piOkFhU3NEZEAxMg==@nl-ams.pvdata.host:1080?type=tcp#Aa64n-0507
