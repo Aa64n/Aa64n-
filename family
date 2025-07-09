@@ -14,3 +14,5 @@ vless://a9a195f1-d09e-4923-8fd2-402a412d8130@usa-vip.digitalldns.net:8080?type=t
 vless://a9a195f1-d09e-4923-8fd2-402a412d8130@usa-vip.digitalldns.net:8080?type=tcp&headerType=http&host=www.speedtest.net&path=/&mux=8#%F0%9F%87%BA%F0%9F%87%B8%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7
 vless://a9a195f1-d09e-4923-8fd2-402a412d8130@188.121.121.89:8080?type=tcp&headerType=http&host=www.speedtest.net&path=/&mux=8#%F0%9F%87%B9%F0%9F%87%B7%D8%AA%D8%B1%DA%A9%DB%8C%D9%87
 vless://a9a195f1-d09e-4923-8fd2-402a412d8130@37.152.189.81:8080?type=tcp&headerType=http&host=www.speedtest.net&path=/&mux=8#%F0%9F%87%AC%F0%9F%87%A7%D8%A7%D9%86%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86
+vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:80?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf-vless-80
+vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:443?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Misaka-cf-vless-TLS-443
