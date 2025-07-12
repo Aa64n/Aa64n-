@@ -1,3 +1,6 @@
+hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0#q_002
+hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0#q_003
+hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0#q_007
 vmess://eyJpZCI6ImEwZDY5ZmVkLTQzNTMtNGU0Mi05YjdiLTNiNzQzZTdlYjA0MCIsInR5cGUiOiJodHRwIiwiYWRkIjoiNTQuMzYuMTYyLjI1MCIsIm5ldCI6InRjcCIsInBvcnQiOiIyMDk1IiwicGF0aCI6IlwvIiwicHMiOiJBYTY0biVGMCU5RiU4NyVBOSVGMCU5RiU4NyVBQSIsInNjeSI6ImF1dG8iLCJob3N0IjoiQEdvbGROZXRfU3RvcmUifQ==
 vless://899f5cbd-a4cb-49b1-aa16-cff610657cf5@aash.amiralinorozjam.workers.dev:2096?type=ws&host=aash.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=tls&fp=random&sni=aash.amiralinorozjam.workers.dev#Aa64n%F0%9F%87%A6%F0%9F%87%BA
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@aa64-m.amiralinorozjam.workers.dev:443?type=ws&host=aa64-m.amiralinorozjam.workers.dev&path=/CklZR1RAKMY5JwPs?ed%3D2560&security=tls&fp=randomized&sni=AA64-m.AMiraliNOROZjAM.WoRkeRS.DeV&alpn=h2,http/1.1#Aa64n-%20Best
@@ -8,8 +11,6 @@ vless://16248104-c4d8-478d-8ac7-826c059064c2@aa64n-new.rhyljiti.workers.dev:443?
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443?type=tcp#Aa64n%F0%9F%87%B5%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443?type=tcp#Aa64n%F0%9F%87%B9%F0%9F%87%AB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?type=tcp#Aa64n%20%F0%9F%87%AC%F0%9F%87%A7%20GB%20103ms
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0#q_097
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0#q_096
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@dnschecker.org:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443?type=tcp#GB%F0%9F%87%AC%F0%9F%87%A7+Aa64n
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443?type=tcp#BH%F0%9F%87%A7%F0%9F%87%AD+Aa64n
