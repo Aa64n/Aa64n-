@@ -1,10 +1,4 @@
-vless://8d949323-125d-493d-9bb4-53f72695ce68@292e21058d494c24b768.jiramo-boay.info:8880?type=grpc&mode=gun#Vless-Grpc
-vless://32522889-c6d2-4567-bc08-308e4d9b8bd7@d07524ef53a34ed9969d.dayshop.info:8880?type=grpc&mode=gun#Vless-Grpc
-vless://14bcc98c-ae32-4b8c-951b-56d77b14547e@668de652018443dabfb2.jiramo-boay.info:8880?type=grpc&mode=gun#Vless-Grpc
-vless://33721632-1b0e-4376-9b4f-a0da5f773fa7@c050b2610e86420eb4c9.dayshop.info:8880?type=grpc&mode=gun#Vless-Grpc
-vless://d98cc19b-5d6d-4d20-8f88-3f8b6dc547b5@28ee6069c458441e9228.dayshop.info:8880?type=grpc&mode=gun#Vless-Grpc
-vless://27f709bc-4876-4f42-9171-469ebab76540@1b63864db6f44321a692.dayshop.info:8880?type=grpc&mode=gun#Vless-Grpc
-vless://d29a05d1-2d74-4701-9bbe-137b1606aadb@d5f6177d54434f58a603.jiramo-boay.info:8880?type=grpc&mode=gun#Vless-Grpc
+
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?type=ws&host=smART.mEtalSMaRt.ORg&path=/&security=tls&sni=smART.mEtalSMaRt.ORg&alpn=h2http/1.1#443(IRCFFragment)
 vless://8938d63f-7dda-43be-9a1e-819adac28297@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?type=ws&host=SMIts.jOOJehTOR.iT.coM&path=/&security=tls&sni=SMIts.jOOJehTOR.iT.coM&alpn=h2http/1.1#11231(IRCFFragment)
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@dl1-fi-cdn.easy-upload.org:80?type=ws&host=dl1-fi-cdn.easy-upload.org&path=/&security=none#Aa64n-soon
