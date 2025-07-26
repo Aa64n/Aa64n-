@@ -7,10 +7,6 @@ vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:443?type=ws&host=new-110
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:80?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf-vless-80
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2086?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf-vless-2086
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2082?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf-vless-2082
-vless://119c0dae-7113-4b8e-bab2-66d659230a7a@[2606:4700:3036:6ed4:ffdf:f2ba:820b:ed5c]:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n-0502
-vless://119c0dae-7113-4b8e-bab2-66d659230a7a@103.160.204.59:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n-0502
-vless://119c0dae-7113-4b8e-bab2-66d659230a7a@172.67.79.211:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n-0502
-vless://119c0dae-7113-4b8e-bab2-66d659230a7a@162.159.36.104:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n-0502
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@ghmm.pages.dev:443?flow=&type=ws&path=/yerz1mJKm73aS0dM?ed%3D2560&security=tls&fp=randomized&sni=ghmM.paGes.DEV&alpn=h2,http/1.1&allowInsecure=false#%E2%98%85%20Fragment%20Best%20Values
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@ghmm.pages.dev:443?flow=&type=ws&path=/yerz1mJKm73aS0dM?ed%3D2560&security=tls&fp=randomized&sni=ghmM.paGes.DEV&alpn=h2,http/1.1&allowInsecure=false#%E2%98%86%20Fragment%20Best%20Ping
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.92:443?flow=&type=ws&path=/eMMS72k2TPzYNiOo?ed%3D2560&security=tls&fp=randomized&sni=GHmM.PAGEs.dEV&alpn=h2,http/1.1&allowInsecure=false#Aa64n-0502
@@ -20,13 +16,6 @@ vless://16248104-c4d8-478d-8ac7-826c059064c2@[2606:4700:3034::ac43:ae18]:2082?ty
 vless://16248104-c4d8-478d-8ac7-826c059064c2@aa64n-new.rhyljiti.workers.dev:2082?type=ws&path=/U8B18ZwhwkI1VKvK?ed%3D2560&security=none#Aa64n-0502
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@dl1-fi-cdn.easy-upload.org:80?type=ws&host=dl1-fi-cdn.easy-upload.org&path=/&security=none#Aa64n-soon
 vless://27f2ce3b-7488-4078-8887-b9c129bddc3f@86.48.24.154:5900?type=tcp&headerType=none&security=none#%F0%9F%87%BA%F0%9F%87%B8-USA
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.249.123:443?type=ws&host=vngsupply.ip-ddns.com&path=/ycqlKbi40f2kVjZS?ed%3D2560&security=tls&fp=randomized&sni=VNGsUppLY.IP-ddnS.COm&alpn=http/1.1#%E1%82%A9%E1%82%A9_%E1%83%AF%E1%83%B0%E1%82%AA0501
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.247.117:443?type=ws&host=vngsupply.ip-ddns.com&path=/ycqlKbi40f2kVjZS?ed%3D2560&security=tls&fp=randomized&sni=VNGsUppLY.IP-ddnS.COm&alpn=http/1.1#%E1%82%A9%E1%82%A9_%E1%83%AF%E1%83%B0%E1%82%AA0501%E1%82%A0%E1%83%A5
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&host=vngsupply.ip-ddns.com&path=/J5aLQOY1R9ONWYCM?ed%3D2560&security=none#Aa64n%20_0430
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?type=ws&host=vngsupply.ip-ddns.com&path=/fgvtHUpS6R8Rv8s5?ed%3D2560&security=none#Aa64n%20_0430
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&host=vngsupply.ip-ddns.com&path=/J5aLQOY1R9ONWYCM?ed%3D2560&security=none#Aa64n%20_0430
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@198.62.62.175:8880?type=ws&host=vngsupply.ip-ddns.com&path=/J5aLQOY1R9ONWYCM?ed%3D2560&security=none#Aa64n-0430
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUZlZ4bzdNOF9JZ19TdmFqV0RVQ1VR@94.156.114.37:1080?type=tcp#Germany%F0%9F%87%A9%F0%9F%87%AA
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&host=VngSuPpLY.IP-DdnS.com&path=/Etb1L6YUdZFZuTOr?ed%3D2560&security=none#Aa64n%20_connectt%F0%9F%9A%80
 vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wiLd-bIRD.SEOtooLsforyOu.Co.UK:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 vless://2054405e-70ff-40a2-ae27-16b63d72390a@deDiCaTED-deVelOPMENt.seoTOOLSforYoU.CO.UK:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
