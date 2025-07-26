@@ -15,7 +15,6 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@ghmm.pages.dev:443?flow=&type=ws&pa
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@ghmm.pages.dev:443?flow=&type=ws&path=/yerz1mJKm73aS0dM?ed%3D2560&security=tls&fp=randomized&sni=ghmM.paGes.DEV&alpn=h2,http/1.1&allowInsecure=false#%E2%98%86%20Fragment%20Best%20Ping
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.92:443?flow=&type=ws&path=/eMMS72k2TPzYNiOo?ed%3D2560&security=tls&fp=randomized&sni=GHmM.PAGEs.dEV&alpn=h2,http/1.1&allowInsecure=false#Aa64n-0502
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?flow=&type=ws&path=/T4GiX6H1fli4ExW2?ed%3D2560&security=tls&fp=randomized&sni=gHMm.paGeS.dEV&alpn=h2,http/1.1&allowInsecure=false#Aa64n-0502
-trojan://,T;'5W:%23R0y%3Eq(tx@104.21.64.13:80?type=ws&path=/trVEbA88RsCOqmAmVP?ed%3D2560&security=none#Aa64n-IPv4%20
 vless://16248104-c4d8-478d-8ac7-826c059064c2@104.21.64.13:2082?type=ws&path=/3jhFPg6a0CO23oFY?ed%3D2560&security=none#Aa64n-IPv4%20
 vless://16248104-c4d8-478d-8ac7-826c059064c2@[2606:4700:3034::ac43:ae18]:2082?type=ws&path=/UaQg8JLk56SXotg3?ed%3D2560&security=none#Aa64n-IPv4%20
 vless://16248104-c4d8-478d-8ac7-826c059064c2@aa64n-new.rhyljiti.workers.dev:2082?type=ws&path=/U8B18ZwhwkI1VKvK?ed%3D2560&security=none#Aa64n-0502
@@ -56,9 +55,6 @@ vless://aadbf0d6-6a32-4473-8a87-5b17db90e035@PRActiCaL-CoMPlaint.SEoToolsFoRYOu.
 vless://0f4865d9-9405-4703-a282-46e326e6d9e7@BeWilDerED-poEM.SEOtooLsfOrYOu.cO.uk:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 vless://edb4c373-ac92-4430-8f42-94439ca829b9@MAgicaL-fISh.sEOtoolsfOryoU.co.UK:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 vless://34797f17-09a1-400c-9f4b-275718d62a0f@brainY-party.sEOToOlsfORyOU.CO.uk:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
-vless://119c0dae-7113-4b8e-bab2-66d659230a7a@104.16.134.27:2083?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%20US%EF%BC%81
-vless://119c0dae-7113-4b8e-bab2-66d659230a7a@198.62.62.4:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker
-vless://119c0dae-7113-4b8e-bab2-66d659230a7a@104.17.71.31:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#%F0%9F%87%AD%F0%9F%87%B0%20HK
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0#q_002
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0#q_003
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0#q_007
