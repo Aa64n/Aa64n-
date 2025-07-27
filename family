@@ -1,5 +1,11 @@
-vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@159.203.138.123:9387?type=ws&security=none#%F0%9F%87%BA%F0%9F%87%B8%20%20test-panel%203%20Active
-vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@165.22.76.53:9387?type=ws&security=none#%F0%9F%87%A9%F0%9F%87%AA%20test-panel%203%20Active
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSZWtUWEFSdlVmU29tbUFQUU5jQ0xR@165.22.76.53:1080?type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20test-panel%202%20Active
+vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@165.22.76.53:8710?type=tcp&security=none#%F0%9F%87%A9%F0%9F%87%AA%20test-panel%202%20Active
+vmess://eyJhZGQiOiIxNjUuMjIuNzYuNTMiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6Im5vbmUiLCJwb3J0IjoiMTkwMSIsImlkIjoiZGQzN2ViODktYTkyYS00MTAyLWFmMzUtZWFjN2YyYTk1MzY3IiwicHMiOiIlRjAlOUYlODclQTklRjAlOUYlODclQUElMjB0ZXN0LXBhbmVsJTIwMiUyMEFjdGl2ZSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AifQ==
+vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@165.22.76.53:9387?type=ws&security=none#%F0%9F%87%A9%F0%9F%87%AA%20test-panel%202%20Active
+vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@159.203.138.123:9387?type=ws&security=none#%F0%9F%87%BA%F0%9F%87%B8%20%20test-panel%202%20Active
+vmess://eyJwYXRoIjoiIiwiaG9zdCI6IiIsImlkIjoiZGQzN2ViODktYTkyYS00MTAyLWFmMzUtZWFjN2YyYTk1MzY3IiwibmV0IjoidGNwIiwic2N5IjoiYXV0byIsInBzIjoiJUYwJTlGJTg3JUJBJUYwJTlGJTg3JUI4JTIwJTIwdGVzdC1wYW5lbCUyMDIlMjBBY3RpdmUiLCJ0bHMiOiJub25lIiwicG9ydCI6IjE5MDEiLCJhZGQiOiIxNTkuMjAzLjEzOC4xMjMifQ==
+vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@159.203.138.123:8710?type=tcp&security=none#%F0%9F%87%BA%F0%9F%87%B8%20%20test-panel%202%20Active
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSZWtUWEFSdlVmU29tbUFQUU5jQ0xR@159.203.138.123:1080?type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20%20test-panel%202%20Active
 vless://899f5cbd-a4cb-49b1-aa16-cff610657cf5@aash.amiralinorozjam.workers.dev:2052?type=ws&host=aash.amiralinorozjam.workers.dev&path=/192kgriyymp?ed%3D2048&security=none#Aa64n-best%20%F0%9F%93%8C%20
 vless://899f5cbd-a4cb-49b1-aa16-cff610657cf5@aash.amiralinorozjam.workers.dev:2095?type=ws&host=aash.amiralinorozjam.workers.dev&path=/192kgriyymp?ed%3D2048&security=none#Aa64n-Best%20%F0%9F%95%B5%EF%B8%8F%20
 vless://899f5cbd-a4cb-49b1-aa16-cff610657cf5@aash.amiralinorozjam.workers.dev:8080?type=ws&host=aash.amiralinorozjam.workers.dev&path=/192kgriyymp?ed%3D2048&security=none#Aa64n-best
