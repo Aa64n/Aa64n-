@@ -3,9 +3,6 @@ vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.245.232:8443?type=ws&host=bi
 vless://38e45e75-cabb-4b98-8e2f-9d65843b7efa@83.217.222.183:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=microsoft.com&pbk=gi8v7_r3NbWuPl9kjt8ZZLDavCMz1w0rVeNhcVnVxEM&sid=9d56b1e4#Aa64n-0509
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?type=grpc&mode=gun#Aa64n-0509
 vmess://eyJ0bHMiOiJub25lIiwiaG9zdCI6IiIsIm5ldCI6InRjcCIsImlkIjoiNWIzMmRlNGYtZTVlYy00NDIwLTk0MDQtMTIzODkwNTZjY2ZlIiwiYWRkIjoiZW5nbGFuZC5va3JlemExNTFtLmlyIiwic2N5IjoiYXV0byIsInBhdGgiOiIiLCJwcyI6IiVGMCU5RiU4NyVBQyVGMCU5RiU4NyVBNyUyMEVuJTIwLSUyMEVuZ2xhbmQlMjAtJTIwMSVGMCU5RiU5QSU4MCUyMCIsInR5cGUiOiJub25lIiwicG9ydCI6IjEzMzExIn0=
-vless://de30882a-e276-443c-9abb-09142d1650a7@ger.afterhav.ir:8880?type=tcp&headerType=http&host=varzesh3.com&security=reality&fp=firefox&sni=www.apple.com.cn&pbk=i9i0gRbOcihFuDWgbY8fiRO-uYfmkbAixksapkkI_wA&sid=62cce1a746fa&spx=/FDqRgvAvhk8oes6#Aa64n
-vless://a20b98fa-b807-4847-a6c4-e54b72391221@france2.okreza151m.ir:6719?security=none&type=ws&headerType=&path=&host=#%F0%9F%87%AB%F0%9F%87%B7%20Fr%20-%20France%20-%20%28%20VIP%20%29%20%F0%9D%90%93%F0%9D%90%AE%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%20%23004%F0%9F%9A%80
-vless://a20b98fa-b807-4847-a6c4-e54b72391221@or.looksvpn.okreza151m.ir:9901?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%A9%F0%9F%87%AA%20DE%20-%20Germany%20-%20%28%20VIP%20%29%20%23005%F0%9F%9A%80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUZlZ4bzdNOF9JZ19TdmFqV0RVQ1VR@94.156.114.37:1080?type=tcp#Germany%F0%9F%87%A9%F0%9F%87%AA
 vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@senatorws-02.flightbean24.com:2052?type=ws&path=/&security=none#German-02-direct
 vless://8e9e6061-4d11-4fb6-b077-d38d4b3a7ae9@senatortcp-13.flightbean24.com:8080?type=tcp&headerType=http&host=panel.tgju.gold&security=none#Aa64n-DIRECT-13
@@ -27,9 +24,6 @@ vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@senatorws-03.flightbean24.com:2052?
 vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@senatorws-05.flightbean24.com:2052?type=ws&path=/&security=none#German-05-direct
 vless://deebf5ef-b214-4c50-871f-883eb4b52527@senatorgrpc-02.flightbean24.com:8880?type=grpc&mode=gun&security=none#German%20-02-Direct
 vless://43c09ea2-72de-4b63-8da4-d5d4be7819ad@senator.cdniran.info:80?type=ws&host=SeNaToRNoTLS-08.FligHtbEaN24.Com&path=/?ed%3D2048#CONFIG_Aa64n
-vless://43750da6-5020-4f24-b9be-df0507b9b19a@senatorrea-01.flightbean24.com:1370?type=tcp&headerType=none&security=reality&fp=chrome&sni=store.steampowered.com&pbk=-yGe7KeDFSy8uzJ20PzuYfRwf0AgBmFhhi1ZzgiYBks&sid=eaa704c0444c9c&spx=/#TCP-REALITY-01
-vless://43750da6-5020-4f24-b9be-df0507b9b19a@senatorrea-05.flightbean24.com:1370?type=tcp&headerType=none&security=reality&fp=chrome&sni=store.steampowered.com&pbk=-yGe7KeDFSy8uzJ20PzuYfRwf0AgBmFhhi1ZzgiYBks&sid=eaa704c0444c9c&spx=/#TCP-REALITY-05
-vless://43750da6-5020-4f24-b9be-df0507b9b19a@senatorrea-12.flightbean24.com:1370?type=tcp&headerType=none&security=reality&fp=chrome&sni=store.steampowered.com&pbk=-yGe7KeDFSy8uzJ20PzuYfRwf0AgBmFhhi1ZzgiYBks&sid=eaa704c0444c9c&spx=/#TCP-REALITY-12
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@julio.ns.cloudflare.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n-worker
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@162.159.129.11:2053?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%20US%EF%BC%81
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@rustam.ns.cloudflare.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n-worker
@@ -50,7 +44,6 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@ghmm.pages.dev:443?flow=&type=ws&pa
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.92:443?flow=&type=ws&path=/eMMS72k2TPzYNiOo?ed%3D2560&security=tls&fp=randomized&sni=GHmM.PAGEs.dEV&alpn=h2,http/1.1&allowInsecure=false#Aa64n-0502
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?flow=&type=ws&path=/T4GiX6H1fli4ExW2?ed%3D2560&security=tls&fp=randomized&sni=gHMm.paGeS.dEV&alpn=h2,http/1.1&allowInsecure=false#Aa64n-0502
 vless://16248104-c4d8-478d-8ac7-826c059064c2@104.21.64.13:2082?type=ws&path=/3jhFPg6a0CO23oFY?ed%3D2560&security=none#Aa64n-IPv4%20
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@dl1-fi-cdn.easy-upload.org:80?type=ws&host=dl1-fi-cdn.easy-upload.org&path=/&security=none#Aa64n-soon
 vless://27f2ce3b-7488-4078-8887-b9c129bddc3f@86.48.24.154:5900?type=tcp&headerType=none&security=none#%F0%9F%87%BA%F0%9F%87%B8-USA
 vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wiLd-bIRD.SEOtooLsforyOu.Co.UK:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 vless://2054405e-70ff-40a2-ae27-16b63d72390a@deDiCaTED-deVelOPMENt.seoTOOLSforYoU.CO.UK:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
