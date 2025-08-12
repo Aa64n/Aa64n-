@@ -1,3 +1,12 @@
+hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335?obfs=salamander&obfs-password=U1wBrYQyFm&sni=drhystuichdfy.samanidempire.org&insecure=0#ARISTA%F0%9F%92%A5
+hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@net2025.afsharidempire.uk:30205?obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2&sni=net2025.afsharidempire.uk&insecure=1#ARISTA%F0%9F%92%A5
+tuic://80747420-96c4-4a2f-83e6-eea4e46beb09:80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:41053?congestion_control=cubic&udp_relay_mode=native&alpn=h3&sni=drhystuichdfy.samanidempire.org&insecure=0#ARISTA%F0%9F%92%A5
+vless://18da5a86-1b44-4a88-bb2b-6845d75a74a3@51.195.202.129:443?type=ws&host=51.195.202.129&path=/ws&security=tls&fp=chrome&sni=zula.ir&allowInsecure=true#ARISTA%F0%9F%92%A
+vless://d739e19a-312c-40dc-acaa-a90f247bd12c@68.183.216.44:443?type=ws&host=46.101.237.150&path=/ws&security=tls&fp=chrome&sni=zula.ir&allowInsecure=true#ARISTA%F0%9F%92%A5
+vless://5aa9c9ce-d5b3-40be-8481-fe5ae953e5a9@51.195.101.222:443?type=ws&host=51.195.101.222&path=/ws&security=tls&fp=chrome&sni=zula.ir&allowInsecure=true#ARISTA%F0%9F%92%A5
+vless://42872a28-fdb0-49de-8ea4-a093b0042cec@188.166.150.199:443?type=ws&host=188.166.150.199&path=/ws&security=tls&fp=chrome&sni=zula.ir&allowInsecure=true#ARISTA%F0%9F%92%A5
+vless://34d02e5d-59cd-453c-a857-32c9ae27b240@167.172.186.211:443?type=ws&host=167.172.186.211&path=/ws&security=tls&fp=chrome&sni=zula.ir&allowInsecure=true#ARISTA%F0%9F%92%A5
+vless://b78d5bf5-d45c-4b5f-93cc-1e0fe9bdb2eb@157.230.91.47:443?type=ws&host=157.230.91.47&path=/ws&security=tls&fp=chrome&sni=zula.ir&allowInsecure=true#ARISTA%F0%9F%92%A5
 vless://1a6fe500-59da-4598-8576-256f06765ffb@ru.sfasti.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ru.sfasti.ru&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d#Finland%F0%9F%87%AB%F0%9F%87%AE
 vless://17883071-8d80-417f-8e20-0321110506dc@51.75.17.156:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=moktana.digital&pbk=dVOVR2A3yOuVbSl_r0JpSlwoA9bByZ6NcsqDPtD5yH4&sid=16afa09a7327970a#%F0%9F%87%AB%F0%9F%87%B7%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
 vless://7340c76a-9063-4686-aa59-5060dbc3e4a6@77.83.245.153:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=moktana.digital&pbk=b--i78sllZsruYekgzWjSYwXzudHq0PkVavTk8umQns&sid=fb0083a4a8279230#%F0%9F%87%B9%F0%9F%87%B7%20%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F
