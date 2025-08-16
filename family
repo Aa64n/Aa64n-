@@ -111,9 +111,6 @@ vless://119c0dae-7113-4b8e-bab2-66d659230a7a@www.digitalocean.com:443?type=ws&ho
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@tasteatlas.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker.Aa64n
 vless://bm9uZTo3MDNiYjdjYi02Y2Q1LTQyNzItOTY0MC03ZmM2ZThmNzYyOWZAMjE3LjYwLjE4OC4xMzM6MTAwMw?remarks=%F0%9F%87%A6%F0%9F%87%B2%20AM%202&obfsParam=www.speedtest.net&path=/&obfs=http
 
-
-
-vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:80?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Aa64n🇧🇷
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@44.250.238.37:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&spx=/#Aws
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@35.88.242.229:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&spx=/#Aws
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@34.220.148.169:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&spx=/#Aws
@@ -164,11 +161,7 @@ vless://b2f2f9f2-1864-48ea-839b-22815faff1f1@172.66.47.132:443?type=ws&host=stf8
 trojan://8_%5DO5ff+7.%5D_@www.speedtest.net:8443?type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/trSrMbwCY0vjb1SWQg?ed%3D2560&security=tls&fp=randomized&sni=StF839dVVYOG9d2QA4-B8z6aHgn7B7QI.PAGES.DEV&alpn=http/1.1&allowInsecure=false#Aa64n-%20F%20-%20Domain%20:%208443
 trojan://8_%5DO5ff+7.%5D_@stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev:2087?type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/tryx8uMvriFs0bQmfF?ed%3D2560&security=tls&fp=randomized&sni=STF839dVvyOg9D2qa4-b8z6aHgn7B7Qi.paGeS.Dev&alpn=http/1.1&allowInsecure=false#Aa64n-%20Trojan%20F%20-%20Domain%20:%202087
 vless://b2f2f9f2-1864-48ea-839b-22815faff1f1@stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev:443?type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/pRXE5ot0RZaQSr7B?ed%3D2560&security=tls&fp=randomized&sni=stF839DvvyOg9d2qA4-B8z6Ahgn7B7QI.PAges.dEV&alpn=http/1.1&allowInsecure=false#%20Best%20Fragment%20%F0%9F%98%8
-vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:8443?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Misaka-cf-vless-TLS-8443
-vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:443?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Misaka-cf-vless-TLS-443
-vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:80?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf-vless-80
-vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2086?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf-vless-2086
-vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2082?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf-vless-2082
+type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Misaka-cf-vless-TLS-8443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@ghmm.pages.dev:443?flow=&type=ws&path=/yerz1mJKm73aS0dM?ed%3D2560&security=tls&fp=randomized&sni=ghmM.paGes.DEV&alpn=h2,http/1.1&allowInsecure=false#%E2%98%85%20Fragment%20Best%20Values
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@ghmm.pages.dev:443?flow=&type=ws&path=/yerz1mJKm73aS0dM?ed%3D2560&security=tls&fp=randomized&sni=ghmM.paGes.DEV&alpn=h2,http/1.1&allowInsecure=false#%E2%98%86%20Fragment%20Best%20Ping
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.92:443?flow=&type=ws&path=/eMMS72k2TPzYNiOo?ed%3D2560&security=tls&fp=randomized&sni=GHmM.PAGEs.dEV&alpn=h2,http/1.1&allowInsecure=false#Aa64n-0502
