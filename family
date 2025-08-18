@@ -1,9 +1,3 @@
-vless://ad061ff8-9382-4a99-9bf2-7dd484cbcfff@N-Iran-L.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%B3%F0%9F%87%B1%D9%87%D9%84%D9%86%D8%AF
-vless://ad061ff8-9382-4a99-9bf2-7dd484cbcfff@Helsinki-iran.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%AB%F0%9F%87%AE%D9%81%D9%84%D8%A7%D9%86%D8%AF
-vless://ad061ff8-9382-4a99-9bf2-7dd484cbcfff@U-Iran-K.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%AC%F0%9F%87%A7%D8%A8%D8%B1%DB%8C%D8%AA%D8%A7%D9%86%DB%8C%D8%A7
-vless://ad061ff8-9382-4a99-9bf2-7dd484cbcfff@T-Iran-R.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%B9%F0%9F%87%B7%D8%AA%D8%B1%DA%A9%DB%8C%D9%87
-vless://ad061ff8-9382-4a99-9bf2-7dd484cbcfff@U-Iran-S-A.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%BA%F0%9F%87%B8%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7
-vless://ad061ff8-9382-4a99-9bf2-7dd484cbcfff@D-Iran-E.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%A9%F0%9F%87%AA%D8%A2%D9%84%D9%85%D8%A7%D9%86
 
 trojan://7b8e8411-2594-44de-8276-7e0c1f6a27e7@horarios.pe:443?type=ws&host=aa64n2.rhyljiti.workers.dev&path=/tr5HgoUeqHXlx9j7Bl?ed%3D2560&security=tls&fp=randomized&sni=Aa64N2.RhyljITi.wOrKeRS.dEV&alpn=http/1.1&allowInsecure=false#Trojan%20F%20-%20Clean%20IP%20:%20443
 vless://7b8e8411-2594-44de-8276-7e0c1f6a27e7@kroschke.com:8443?type=ws&host=aa64n2.rhyljiti.workers.dev&path=/cdQ6WJbtcAYhhQT6?ed%3D2560&security=tls&fp=randomized&sni=aa64n2.rhyLjiTi.WorkERs.Dev&alpn=http/1.1&allowInsecure=false#VLESS%20F%20-%20Clean%20IP%20:%208443
