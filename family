@@ -175,3 +175,13 @@ vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:443?type=ws&host=new-110
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2083?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Misaka-cf-vless-TLS-2083
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2096?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Misaka-cf-vless-TLS-2096
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:8443?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Misaka-cf-vless-TLS-8443
+
+vless://7b8e8411-2594-44de-8276-7e0c1f6a27e7@188.114.98.144:80?type=ws&host=aa64n2.rhyljiti.workers.dev&path=/5f3QdfU5Oj91inKd?ed%3D2560&security=none#VLESS%20-%20Clean%20IP%20:%2080
+vless://7b8e8411-2594-44de-8276-7e0c1f6a27e7@45.131.209.95:8080?type=ws&host=aa64n2.rhyljiti.workers.dev&path=/5CGywfns9YsHROZP?ed%3D2560&security=none#VLESS%20-%20Clean%20IP%20:%208080
+vless://7b8e8411-2594-44de-8276-7e0c1f6a27e7@8.34.146.138:8080?type=ws&host=aa64n2.rhyljiti.workers.dev&path=/93fabGzAQWjrRoVq?ed%3D2560&security=none#VLESS%20-%20Clean%20IP%20:%208080
+vless://7b8e8411-2594-44de-8276-7e0c1f6a27e7@160.153.0.71:80?type=ws&host=aa64n2.rhyljiti.workers.dev&path=/LK6WoqvUByChY7rw?ed%3D2560&security=none#VLESS%20-%20Clean%20IP%20:%2080
+vless://7b8e8411-2594-44de-8276-7e0c1f6a27e7@buharkeyf1.com:80?type=ws&host=aa64n2.rhyljiti.workers.dev&path=/l8tAxCdTJx5i92xe?ed%3D2560&security=none#VLESS%20-%20Clean%20IP%20:%2080
+vless://7b8e8411-2594-44de-8276-7e0c1f6a27e7@www.speedtest.net:8080?type=ws&host=aa64n2.rhyljiti.workers.dev&path=/1wkK51LnxKQgPEjQ?ed%3D2560&security=none#VLESS%20-%20Domain%20:%208080
+vless://7b8e8411-2594-44de-8276-7e0c1f6a27e7@188.42.88.118:80?type=ws&host=aa64n2.rhyljiti.workers.dev&path=/n3zpMeJuwRRGbYEh?ed%3D2560&security=none#VLESS%20-%20Clean%20IP%20:%2080
+vless://7b8e8411-2594-44de-8276-7e0c1f6a27e7@172.67.174.24:80?type=ws&host=aa64n2.rhyljiti.workers.dev&path=/UcGPwnlk2OEITbSE?ed%3D2560&security=none#VLESS%20-%20IPv4%20:%2080
+vless://7b8e8411-2594-44de-8276-7e0c1f6a27e7@aa64n2.rhyljiti.workers.dev:80?type=ws&host=aa64n2.rhyljiti.workers.dev&path=/uqwyMpnUvmYpLwYy?ed%3D2560&security=none#VLESS%20-%20Domain%20:%2080
