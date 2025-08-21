@@ -18,8 +18,10 @@ vless://c93d4791-8299-4ab0-ad74-8ce59e2f0046@STAR-CDN.az9x99.ir:2053?type=ws&hos
 vless://c93d4791-8299-4ab0-ad74-8ce59e2f0046@STAR-CDN.az9x99.ir:2053?type=ws&host=dl.az9x99.ir&path=?ed%3D2048&security=tls&fp=random&sni=dl.az9x99.ir&alpn=h2#379%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%80%A2%20%E2%98%81%EF%B8%8F
 vless://c93d4791-8299-4ab0-ad74-8ce59e2f0046@dl.fastsoft98.ir:443?type=ws&host=dl.fastsoft98.ir&path=?ed%3D2048&security=tls&fp=random&sni=dl.fastsoft98.ir&alpn=h2#379%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%80%A2%20%E2%98%81%EF%B8%8F
 
-
-
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@3.239.182.131:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&spx=/#Aws
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@3.238.9.82:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&spx=/#Aws
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@47.129.64.85:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&spx=/#Aws
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@34.221.223.238:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&spx=/#Aws
 
 trojan://7b8e8411-2594-44de-8276-7e0c1f6a27e7@horarios.pe:443?type=ws&host=aa64n2.rhyljiti.workers.dev&path=/tr5HgoUeqHXlx9j7Bl?ed%3D2560&security=tls&fp=randomized&sni=Aa64N2.RhyljITi.wOrKeRS.dEV&alpn=http/1.1&allowInsecure=false#Trojan%20F%20-%20Clean%20IP%20:%20443
 vless://7b8e8411-2594-44de-8276-7e0c1f6a27e7@kroschke.com:8443?type=ws&host=aa64n2.rhyljiti.workers.dev&path=/cdQ6WJbtcAYhhQT6?ed%3D2560&security=tls&fp=randomized&sni=aa64n2.rhyLjiTi.WorkERs.Dev&alpn=http/1.1&allowInsecure=false#VLESS%20F%20-%20Clean%20IP%20:%208443
