@@ -73,8 +73,6 @@ vless://16248104-c4d8-478d-8ac7-826c059064c2@aa64n-new.rhyljiti.workers.dev:443?
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@www.digitalocean.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker.Aa64n
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@tasteatlas.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker.Aa64n
 vless://bm9uZTo3MDNiYjdjYi02Y2Q1LTQyNzItOTY0MC03ZmM2ZThmNzYyOWZAMjE3LjYwLjE4OC4xMzM6MTAwMw?remarks=%F0%9F%87%A6%F0%9F%87%B2%20AM%202&obfsParam=www.speedtest.net&path=/&obfs=http
-
-trojan://,T;'5W:%23R0y%3Eq(tx@www.speedtest.net:2082?type=ws&path=/trdl6hq8ktkoBo99qN?ed%3D2560&security=none#Trojan%20-%20Domain%20:%202082
 vless://899f5cbd-a4cb-49b1-aa16-cff610657cf5@aash.amiralinorozjam.workers.dev:2052?type=ws&host=aash.amiralinorozjam.workers.dev&path=/rl3msnikiak?ed%3D2048&security=none#.workers.dev-HTTP-2052
 vless://899f5cbd-a4cb-49b1-aa16-cff610657cf5@aash.amiralinorozjam.workers.dev:2082?type=ws&host=aash.amiralinorozjam.workers.dev&path=/rl3msnikiak?ed%3D2048&security=none#.workers.dev-HTTP-2082
 
@@ -98,7 +96,6 @@ vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?type=ws&host=smn.le
 vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?type=ws&host=mmd2.gerlemondns.info&path=/hjgfdws&security=tls&fp=chrome&sni=mmd2.gerlemondns.info#wo3-mmd
 vless://f69b2c89-c6ea-4df9-9ff8-1cb2d7acbc88@ipcf.amiralinorozjam.workers.dev:2095?type=ws&host=ipcf.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=none#ipcf
 
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?type=ws&host=zoomgov.vipren.biz.id&path=/193.123.81.105%3D443&security=none#ARISTA%F0%9F%8C%90+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall
 vless://b2f2f9f2-1864-48ea-839b-22815faff1f1@stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev:443?type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/pRXE5ot0RZaQSr7B?ed%3D2560&security=tls&fp=randomized&sni=stF839DvvyOg9d2qA4-B8z6Ahgn7B7QI.PAges.dEV&alpn=http/1.1&allowInsecure=false#Aa64n%20%F0%9F%87%A6%F0%9F%87%BF
 vless://b2f2f9f2-1864-48ea-839b-22815faff1f1@172.66.44.124:2083?type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/h0YSHTzENqjQOIfS?ed%3D2560&security=tls&fp=randomized&sni=StF839dVvYog9d2QA4-b8Z6AHgn7B7Qi.PaGeS.Dev&alpn=http/1.1&allowInsecure=false#Aa64n%20%F0%9F%87%A7%F0%9F%87%A9
 vless://YXV0bzo4NmM1MGUzYS01Yjg3LTQ5ZGQtYmQyMC0wM2M3ZjI3MzVlNDBAMTA0LjE4LjI2LjkwOjg0NDM?path=/client/connection/socket&remarks=%F0%9F%87%A9%F0%9F%87%AA%20Germany%F0%9F%94%A5&obfsParam=mycloudproject2025.site&obfs=websocket&tls=1&peer=mYClouDprOjeCt2025.sitEtype=tcp#Germany%F0%9F%87%A9%F0%9F%87%AA
