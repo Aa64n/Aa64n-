@@ -19,9 +19,7 @@ vless://c93d4791-8299-4ab0-ad74-8ce59e2f0046@STAR-CDN.az9x99.ir:2053?type=ws&hos
 vless://c93d4791-8299-4ab0-ad74-8ce59e2f0046@STAR-CDN.az9x99.ir:2053?type=ws&host=dl.az9x99.ir&path=?ed%3D2048&security=tls&fp=random&sni=dl.az9x99.ir&alpn=h2#379%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%80%A2%20%E2%98%81%EF%B8%8F
 vless://c93d4791-8299-4ab0-ad74-8ce59e2f0046@dl.fastsoft98.ir:443?type=ws&host=dl.fastsoft98.ir&path=?ed%3D2048&security=tls&fp=random&sni=dl.fastsoft98.ir&alpn=h2#379%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%80%A2%20%E2%98%81%EF%B8%8F
 
-vless://c6b88243-a3fc-57a1-a78f-c989a84476b7@41.216.182.162:443?type=ws&host=41.216.182.162&path=/vless&security=tls&fp=chrome&sni=zula.ir&allowInsecure=true#ARISTA%F0%9F%92%A5
-vless://aa435167-a592-44d1-9ba7-50521a3ddb99@138.124.15.58:2087?type=ws&host=138.124.15.58&path=/vless&security=tls&fp=chrome&sni=zula.ir&allowInsecure=true#ARISTA%F0%9F%92%A5
-vless://c2e5afa0-907f-4b26-a2e2-2c8f17d332de@185.58.115.104:2087?type=ws&host=185.58.115.104&path=/vless&security=tls&fp=chrome&sni=zula.ir&allowInsecure=true#ARISTA%F0%9F%92%A5
+
 vless://GKVCVNnu@151.101.3.8:80?type=xhttp&mode=auto&host=sdarkrd.global.ssl.fastly.net&path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN&security=none#%E1%B4%9C%C9%B4%C9%AA%E1%B4%9B%E1%B4%87%E1%B4%85%20%EA%9C%B1%E1%B4%9B%E1%B4%80%E1%B4%9B%E1%B4%87%EA%9C%B1%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C
 ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA@80.92.204.106:9097#DE2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443?type=tcp#Aa64n%F0%9F%87%B5%F0%9F%87%AC
@@ -76,7 +74,6 @@ vless://119c0dae-7113-4b8e-bab2-66d659230a7a@104.25.254.4:2087?type=ws&host=new-
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@benedict.ns.cloudflare.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n%20%F0%9F%87%AB%F0%9F%87%AE
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@162.159.36.104:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n%20%F0%9F%87%A9%F0%9F%87%AA
 vless://899f5cbd-a4cb-49b1-aa16-cff610657cf5@aash.amiralinorozjam.workers.dev:2083?type=ws&host=aash.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=tls&fp=random&sni=aash.amiralinorozjam.workers.dev#Aa64n%20%F0%9F%87%A7%F0%9F%87%AC
-vless://899f5cbd-a4cb-49b1-aa16-cff610657cf5@aash.amiralinorozjam.workers.dev:2096?type=ws&host=aash.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=tls&fp=random&sni=aash.amiralinorozjam.workers.dev#Aa64n🇦🇺
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@www.pcmag.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker%F0%9F%87%AC%F0%9F%87%B6
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.1.102:2053?type=ws&host=aa64-m.amiralinorozjam.workers.dev&path=/8U0FFbIzdOiYUDmf?ed%3D2560&security=tls&fp=randomized&sni=Aa64-m.AmIRalInoROZjAM.WorKeRS.DeV&alpn=h2,http/1.1#Aa64n-newbpb
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@aa64-m.amiralinorozjam.workers.dev:443?type=ws&host=aa64-m.amiralinorozjam.workers.dev&path=/CklZR1RAKMY5JwPs?ed%3D2560&security=tls&fp=randomized&sni=AA64-m.AMiraliNOROZjAM.WoRkeRS.DeV&alpn=h2,http/1.1#Aa64n-%20Best
