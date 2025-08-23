@@ -19,14 +19,6 @@ vless://c93d4791-8299-4ab0-ad74-8ce59e2f0046@STAR-CDN.az9x99.ir:2053?type=ws&hos
 vless://c93d4791-8299-4ab0-ad74-8ce59e2f0046@STAR-CDN.az9x99.ir:2053?type=ws&host=dl.az9x99.ir&path=?ed%3D2048&security=tls&fp=random&sni=dl.az9x99.ir&alpn=h2#379%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%80%A2%20%E2%98%81%EF%B8%8F
 vless://c93d4791-8299-4ab0-ad74-8ce59e2f0046@dl.fastsoft98.ir:443?type=ws&host=dl.fastsoft98.ir&path=?ed%3D2048&security=tls&fp=random&sni=dl.fastsoft98.ir&alpn=h2#379%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%80%A2%20%E2%98%81%EF%B8%8F
 
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@3.239.182.131:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&spx=/#Aws
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@3.238.9.82:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&spx=/#Aws
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@47.129.64.85:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&spx=/#Aws
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@34.205.84.138:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&spx=/#Aws
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@13.251.88.234:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&spx=/#Aws
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@13.212.163.163:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&spx=/#Aws
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@34.221.223.238:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&spx=/#Aws
-
 vless://c6b88243-a3fc-57a1-a78f-c989a84476b7@41.216.182.162:443?type=ws&host=41.216.182.162&path=/vless&security=tls&fp=chrome&sni=zula.ir&allowInsecure=true#ARISTA%F0%9F%92%A5
 vless://aa435167-a592-44d1-9ba7-50521a3ddb99@138.124.15.58:2087?type=ws&host=138.124.15.58&path=/vless&security=tls&fp=chrome&sni=zula.ir&allowInsecure=true#ARISTA%F0%9F%92%A5
 vless://c2e5afa0-907f-4b26-a2e2-2c8f17d332de@185.58.115.104:2087?type=ws&host=185.58.115.104&path=/vless&security=tls&fp=chrome&sni=zula.ir&allowInsecure=true#ARISTA%F0%9F%92%A5
