@@ -189,9 +189,3 @@ trojan://7b8e8411-2594-44de-8276-7e0c1f6a27e7@travelverse.com:443?type=ws&host=a
 trojan://7b8e8411-2594-44de-8276-7e0c1f6a27e7@aa64n2.rhyljiti.workers.dev:443?type=ws&host=aa64n2.rhyljiti.workers.dev&path=/trPrsV8TkjIjkERvKB?ed%3D2560&security=tls&fp=randomized&sni=AA64N2.RhyljITi.wOrkERS.deV&alpn=http/1.1&allowInsecure=false#Trojan%20F%20-%20Domain%20:%20443
 vless://7b8e8411-2594-44de-8276-7e0c1f6a27e7@operavps.com:2087?type=ws&host=aa64n2.rhyljiti.workers.dev&path=/u4HpLCoB2i4Ph2Li?ed%3D2560&security=tls&fp=randomized&sni=Aa64n2.RHyLJIti.wOrkerS.DeV&alpn=http/1.1&allowInsecure=false#VLESS%20F%20-%20Clean%20IP%20:%202087
 
-vless://c8d14f2c-fba8-4f2f-8aa6-eb59a17d89c3@cip4.digitall-id.com:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%AB%F0%9F%87%AE%D9%81%D9%84%D8%A7%D9%86%D8%AF
-vless://c8d14f2c-fba8-4f2f-8aa6-eb59a17d89c3@cip2.digitall-id.com:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%B3%F0%9F%87%B1%D9%87%D9%84%D9%86%D8%AF
-vless://c8d14f2c-fba8-4f2f-8aa6-eb59a17d89c3@cip5.digitall-id.com:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%A9%F0%9F%87%AA%D8%A2%D9%84%D9%85%D8%A7%D9%86
-vless://c8d14f2c-fba8-4f2f-8aa6-eb59a17d89c3@cip6.digitall-id.com:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%AC%F0%9F%87%A7%D8%A8%D8%B1%DB%8C%D8%AA%D8%A7%D9%86%DB%8C%D8%A7
-vless://c8d14f2c-fba8-4f2f-8aa6-eb59a17d89c3@cip3.digitall-id.com:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%B9%F0%9F%87%B7%D8%AA%D8%B1%DA%A9%DB%8C%D9%87
-vless://c8d14f2c-fba8-4f2f-8aa6-eb59a17d89c3@cip1.digitall-id.com:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%BA%F0%9F%87%B8%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7
