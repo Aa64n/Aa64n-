@@ -157,3 +157,8 @@ vless://7b8e8411-2594-44de-8276-7e0c1f6a27e7@aa64n2.rhyljiti.workers.dev:2086?ty
 vless://7b8e8411-2594-44de-8276-7e0c1f6a27e7@104.21.64.13:8080?type=ws&host=aa64n2.rhyljiti.workers.dev&path=/HqJt4uCLjBYEuett?ed%3D2560&security=none#VLESS%20-%20IPv4%20:%208080
 vless://7b8e8411-2594-44de-8276-7e0c1f6a27e7@172.67.174.24:8080?type=ws&host=aa64n2.rhyljiti.workers.dev&path=/hak4Rk8u7eKXvTg5?ed%3D2560&security=none#VLESS%20-%20IPv4%20:%208080
 vless://7b8e8411-2594-44de-8276-7e0c1f6a27e7@www.speedtest.net:8080?type=ws&host=aa64n2.rhyljiti.workers.dev&path=/kZYyv8iV2Vw9VM7K?ed%3D2560&security=none#VLESS%20-%20Domain%20:%208080
+
+hysteria2://7536baca-36be-4730-8c27-03470e0e35ca@els2.dimoyun.top:40001?sni=els1.dimoyun.top&insecure=1#hysteria%20
+hysteria2://7536baca-36be-4730-8c27-03470e0e35ca@dg.dimoyun.top:40001?sni=dg.dimoyun.top&insecure=1#hysteria%20
+hysteria2://7536baca-36be-4730-8c27-03470e0e35ca@els1.dimoyun.top:40001?sni=els1.dimoyun.top&insecure=1#hysteria%20
+hysteria2://7536baca-36be-4730-8c27-03470e0e35ca@rb.dimoyun.top:40001?sni=rb.dimoyun.top&insecure=1#hysteria%20
