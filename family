@@ -149,3 +149,5 @@ hysteria2://7536baca-36be-4730-8c27-03470e0e35ca@els2.dimoyun.top:40001?sni=els1
 hysteria2://7536baca-36be-4730-8c27-03470e0e35ca@dg.dimoyun.top:40001?sni=dg.dimoyun.top&insecure=1#hysteria%20
 hysteria2://7536baca-36be-4730-8c27-03470e0e35ca@els1.dimoyun.top:40001?sni=els1.dimoyun.top&insecure=1#hysteria%20
 hysteria2://7536baca-36be-4730-8c27-03470e0e35ca@rb.dimoyun.top:40001?sni=rb.dimoyun.top&insecure=1#hysteria%20
+
+vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?type=ws&path=/tqjkmwws&security=tls&allowInsecure=true#Turkey%20%F0%9F%87%B9%F0%9F%87%B7%20
