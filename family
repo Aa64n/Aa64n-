@@ -14,10 +14,9 @@ hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?obfs=sala
 
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REVFMVZJUFx1RDgzRFx1REVFMSIsDQogICJhZGQiOiAiNjUuMTA5LjIzMy4xNSIsDQogICJwb3J0IjogIjI5MzAxIiwNCiAgImlkIjogImQ0ZGE4MzU3LTY2NjEtNDMxMy05NDlkLTRlNmFlYzAwNjNlOSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.116.16.35:48172?type=tcp#Aa64n-0218
-vless://ebd74251-142d-5f4e-9d2a-3ac3c245a666@worker-nameless-pine-d223.lixaho3875.workErS.DEV:2083?type=ws&host=worker-nameless-pine-d223.lixaho3875.workErS.DEV&path=vless-ws/?ed%3D2048&security=tls&fp=chrome&sni=worker-nameless-pine-d223.lixaho3875.workErS.DEV&alpn=http/1.1#%F0%9F%93%A1%20Fast%20%E2%9A%A1%EF%B8%8FAa64n
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@104.17.68.85:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n_newworker%F0%9F%87%A8%F0%9F%87%B0
 
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.51:443?type=ws&path=/&security=tls&allowInsecure=true#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20ws+tls%20(f69)
+
 trojan://8_%5DO5ff+7.%5D_@172.66.47.132:2096?type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/tr1OYdUTyg7pm1FKvS?ed%3D2560&security=tls&fp=randomized&sni=sTf839dvvYog9D2Qa4-b8Z6AHGn7B7QI.pagEs.dev&alpn=http/1.1&allowInsecure=false#Trojan%20F%20-%20IPv4%20:%202096
 vless://b2f2f9f2-1864-48ea-839b-22815faff1f1@stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev:443?type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/CNZPvblVTDBOrvu7?ed%3D2560&security=tls&fp=randomized&sni=sTf839dvvYoG9D2qA4-b8z6AHGn7b7Qi.pagES.DEV&alpn=http/1.1&allowInsecure=false#F%20-%20Best%20Ping%20%F0%9F%92%A5
 vless://b2f2f9f2-1864-48ea-839b-22815faff1f1@stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev:443?type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/CNZPvblVTDBOrvu7?ed%3D2560&security=tls&fp=randomized&sni=sTf839dvvYoG9D2qA4-b8z6AHGn7b7Qi.pagES.DEV&alpn=http/1.1&allowInsecure=false#F%20-%20Best%20Fragment%20%F0%9F%98%8E
