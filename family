@@ -109,20 +109,6 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@ghmm.pages.dev:443?flow=&type=ws&pa
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.92:443?flow=&type=ws&path=/eMMS72k2TPzYNiOo?ed%3D2560&security=tls&fp=randomized&sni=GHmM.PAGEs.dEV&alpn=h2,http/1.1&allowInsecure=false#Aa64n-0502
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?flow=&type=ws&path=/T4GiX6H1fli4ExW2?ed%3D2560&security=tls&fp=randomized&sni=gHMm.paGeS.dEV&alpn=h2,http/1.1&allowInsecure=false#Aa64n-0502
 
-vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:8080?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf-vless-8080
-vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2053?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Misaka-cf-vless-TLS-2053
-vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2087?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Misaka-cf-vless-TLS-2087
-vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:80?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf-vless-80
-vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:8880?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf-vless-8880
-vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2052?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf-vless-2052
-vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2082?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf-vless-2082
-vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2086?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf-vless-2086
-vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2095?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf-vless-2095
-vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:443?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Misaka-cf-vless-TLS-443
-vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2083?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Misaka-cf-vless-TLS-2083
-vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2096?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Misaka-cf-vless-TLS-2096
-vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:8443?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Misaka-cf-vless-TLS-8443
-
 hysteria2://7536baca-36be-4730-8c27-03470e0e35ca@els2.dimoyun.top:40001?sni=els1.dimoyun.top&insecure=1#hysteria%20
 hysteria2://7536baca-36be-4730-8c27-03470e0e35ca@dg.dimoyun.top:40001?sni=dg.dimoyun.top&insecure=1#hysteria%20
 hysteria2://7536baca-36be-4730-8c27-03470e0e35ca@els1.dimoyun.top:40001?sni=els1.dimoyun.top&insecure=1#hysteria%20
@@ -131,11 +117,3 @@ vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDEiLCJ0eXBlIjoibm9uZSIsInNjeSI6ImF1dG8iLCJw
 vmess://eyJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsImlkIjoiZTdkNzJhOGQtMjZmMi00YjU0LWIzNjYtMGM0M2UwYmNiYTdkIiwidHlwZSI6Im5vbmUiLCJhZGQiOiIxNjUuMTQwLjIxNi4xNDEiLCJwcyI6IkFhNjRuJTIwJTNBJTNBJUYwJTlGJTg3JUJBJUYwJTlGJTg3JUI4In0=
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&host=lease-19.access.name.ng&path=/&security=tls&sni=lease-19.access.name.ng#Aa64n%20::%F0%9F%87%AC%F0%9F%87%A
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.166.102:990?type=tcp#Aa64n%20::%F0%9F%87%AC%F0%9F%87%B7
-
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.23:443?type=ws&path=/&security=tls&allowInsecure=true#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.23:443?type=ws&path=/&security=tls&allowInsecure=true#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.10:443?type=ws&path=/&security=tls&allowInsecure=true#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.26:443?type=ws&path=/&security=tls&allowInsecure=true#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.28:443?type=ws&path=/&security=tls&allowInsecure=true#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.22:443?type=ws&path=/&security=tls&allowInsecure=true#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.32:443?type=ws&path=/&security=tls&allowInsecure=true#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20
