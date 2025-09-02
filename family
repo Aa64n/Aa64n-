@@ -12,11 +12,7 @@ vless://c93d4791-8299-4ab0-ad74-8ce59e2f0046@dl.fastsoft98.ir:443?type=ws&host=d
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0#q_097
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0#q_096
 
-
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REVFMVZJUFx1RDgzRFx1REVFMSIsDQogICJhZGQiOiAiNjUuMTA5LjIzMy4xNSIsDQogICJwb3J0IjogIjI5MzAxIiwNCiAgImlkIjogImQ0ZGE4MzU3LTY2NjEtNDMxMy05NDlkLTRlNmFlYzAwNjNlOSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.116.16.35:48172?type=tcp#Aa64n-0218
-vless://119c0dae-7113-4b8e-bab2-66d659230a7a@104.17.68.85:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n_newworker%F0%9F%87%A8%F0%9F%87%B0
-
-
 trojan://8_%5DO5ff+7.%5D_@172.66.47.132:2096?type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/tr1OYdUTyg7pm1FKvS?ed%3D2560&security=tls&fp=randomized&sni=sTf839dvvYog9D2Qa4-b8Z6AHGn7B7QI.pagEs.dev&alpn=http/1.1&allowInsecure=false#Trojan%20F%20-%20IPv4%20:%202096
 vless://b2f2f9f2-1864-48ea-839b-22815faff1f1@stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev:443?type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/CNZPvblVTDBOrvu7?ed%3D2560&security=tls&fp=randomized&sni=sTf839dvvYoG9D2qA4-b8z6AHGn7b7Qi.pagES.DEV&alpn=http/1.1&allowInsecure=false#F%20-%20Best%20Ping%20%F0%9F%92%A5
 vless://b2f2f9f2-1864-48ea-839b-22815faff1f1@stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev:443?type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/CNZPvblVTDBOrvu7?ed%3D2560&security=tls&fp=randomized&sni=sTf839dvvYoG9D2qA4-b8z6AHGn7b7Qi.pagES.DEV&alpn=http/1.1&allowInsecure=false#F%20-%20Best%20Fragment%20%F0%9F%98%8E
