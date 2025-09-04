@@ -1,3 +1,4 @@
+
 vless://c93d4791-8299-4ab0-ad74-8ce59e2f0046@rezidental.az9x99.ir:2053?type=tcp&security=none#german%F0%9F%87%A9%F0%9F%87%AA%20%E2%80%A2%20%E2%98%81%EF%B8%8F-VIP
 vless://c93d4791-8299-4ab0-ad74-8ce59e2f0046@star-dc.az9x99.ir:2083?type=ws&host=star-cloud.az9x99.ir&path=?ed%3D2048&security=tls&fp=random&sni=star-cloud.az9x99.ir&alpn=h2#german%F0%9F%87%A9%F0%9F%87%AA%20%E2%80%A2%20%E2%98%81%EF%B8%8F-VIP
 vless://c93d4791-8299-4ab0-ad74-8ce59e2f0046@star.fastsoft98.ir:80?type=xhttp&mode=auto&host=b28cdn3foramindedicated.com&path=/scer&security=none#german%F0%9F%87%A9%F0%9F%87%AA%20%E2%80%A2%20%E2%98%81%EF%B8%8F-CDN
@@ -49,3 +50,6 @@ vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDEiLCJ0eXBlIjoibm9uZSIsInNjeSI6ImF1dG8iLCJw
 vmess://eyJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsImlkIjoiZTdkNzJhOGQtMjZmMi00YjU0LWIzNjYtMGM0M2UwYmNiYTdkIiwidHlwZSI6Im5vbmUiLCJhZGQiOiIxNjUuMTQwLjIxNi4xNDEiLCJwcyI6IkFhNjRuJTIwJTNBJTNBJUYwJTlGJTg3JUJBJUYwJTlGJTg3JUI4In0=
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&host=lease-19.access.name.ng&path=/&security=tls&sni=lease-19.access.name.ng#Aa64n%20::%F0%9F%87%AC%F0%9F%87%A
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.166.102:990?type=tcp#Aa64n%20::%F0%9F%87%AC%F0%9F%87%B7
+
+vless://id104428041@185.145.245.36:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=edge&sni=apple.com&pbk=wOSxr467-m4ivlNk1m10wf6k4LDqO2bAkN0SEoC0tCA&sid=ca34cd&spx=/6Vbr6ZGBYRb53Kw#Aa64n%20%F0%9F%87%B1%F0%9F%87%BB
+vless://id104428041@95.181.173.153:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=findlaw.com&pbk=NOxCvi9RXAiS1pC8Q3LxGMvvG_X4AvL-9CUr2IioPj4&sid=17&spx=/diZbkV4QC68Sx1A#aa64n%20%F0%9F%87%BA%F0%9F%87%B8
