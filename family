@@ -1,3 +1,14 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.49:8080?type=tcp#ARISTA%F0%9F%92%A5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080?type=tcp#ARISTA%F0%9F%92%A5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080?type=tcp#ARISTA%F0%9F%92%A5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080?type=tcp#ARISTA%F0%9F%92%A5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.166:8080?type=tcp#ARISTA%F0%9F%92%A5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@promo1o.bystrivpn.ru:443?type=tcp#ARISTA%F0%9F%92%A5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.185:8080?type=tcp#ARISTA%F0%9F%92%A5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.170:8080?type=tcp#ARISTA%F0%9F%92%A5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.190:8080?type=tcp#ARISTA%F0%9F%92%A5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.200:8080?type=tcp#ARISTA%F0%9F%92%A5
+vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@net2026.zanddynastyofpersia.org:443?type=ws&host=net2026.zanddynastyofpersia.org&path=/eJsVXFVZ6iavNx1EFxOyH861WH&security=tls&fp=chrome&sni=net2026.zanddynastyofpersia.org#ARISTA%F0%9F%92%A5
 
 vless://c93d4791-8299-4ab0-ad74-8ce59e2f0046@rezidental.az9x99.ir:2053?type=tcp&security=none#german%F0%9F%87%A9%F0%9F%87%AA%20%E2%80%A2%20%E2%98%81%EF%B8%8F-VIP
 vless://c93d4791-8299-4ab0-ad74-8ce59e2f0046@star-dc.az9x99.ir:2083?type=ws&host=star-cloud.az9x99.ir&path=?ed%3D2048&security=tls&fp=random&sni=star-cloud.az9x99.ir&alpn=h2#german%F0%9F%87%A9%F0%9F%87%AA%20%E2%80%A2%20%E2%98%81%EF%B8%8F-VIP
