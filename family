@@ -72,7 +72,7 @@ vless://64d73b4c-c837-40a0-8671-5b9b14d24dc6@94.141.123.233:443?flow=xtls-rprx-v
 vless://c6d71ba0-81be-4ed9-ae6e-424e39a8f5cd@194.87.29.240:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=82c8140feb118043#%F0%9F%87%A9%F0%9F%87%AAAa64n-5
 vless://c6d71ba0-81be-4ed9-ae6e-424e39a8f5cd@94.141.123.233:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=82c8140feb118043#%F0%9F%87%A9%F0%9F%87%AA%20Aa64n-6
 
-https://raw.githubusercontent.com/Newv2ray/new/refs/heads/main/iSegaro.txt
+vless://3d966801-579a-4ae4-ac29-a82b85c611c2@sv1.fasdata.top:7320?encryption=none&type=tcp&headerType=http&host=P30afzar.com&path=/&security=none#%F0%9F%87%A9%F0%9F%87%AA%20%D8%A2%D9%84%D9%85%D8%A7%D9%86%20%D9%86%DB%8C%D9%85%20%D8%A8%D9%87%D8%A7%20%F0%9F%87%A9%F0%9F%87%AA
 vless://3d966801-579a-4ae4-ac29-a82b85c611c2@sv3.deltafas.top:7322?encryption=none&type=tcp&headerType=http&host=P30afzar.com&path=/&security=none#%F0%9F%87%B9%F0%9F%87%B7%20%D8%AA%D8%B1%DA%A9%DB%8C%D9%87%20%D9%86%DB%8C%D9%85%20%D8%A8%D9%87%D8%A7%20%20%F0%9F%87%B9%F0%9F%87%B7
 vless://3d966801-579a-4ae4-ac29-a82b85c611c2@sv4.fasdata.top:7323?encryption=none&type=tcp&headerType=http&host=P30afzar.com&path=/&security=none#%F0%9F%87%AB%F0%9F%87%AE%20%D9%81%D9%86%D9%84%D8%A7%D9%86%D8%AF%20%20%D9%86%DB%8C%D9%85%E2%80%8C%D8%A8%D9%87%D8%A7%20%F0%9F%87%AB%F0%9F%87%AE
 vless://3d966801-579a-4ae4-ac29-a82b85c611c2@sv5.deltafas.top:7324?encryption=none&type=tcp&headerType=http&host=P30afzar.com&path=/&security=none#%F0%9F%87%AC%F0%9F%87%A7%20%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3%20%20%D9%86%DB%8C%D9%85%E2%80%8C%D8%A8%D9%87%D8%A7%20%F0%9F%87%AC%F0%9F%87%A7
