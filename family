@@ -56,6 +56,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYVFwSWRjTHd3dGI=@77.83.245.190:443?type=tcp
 hysteria2://7536baca-36be-4730-8c27-03470e0e35ca@els2.dimoyun.top:40001?sni=els1.dimoyun.top&insecure=1#hysteria%20
 hysteria2://7536baca-36be-4730-8c27-03470e0e35ca@dg.dimoyun.top:40001?sni=dg.dimoyun.top&insecure=1#hysteria%20
 hysteria2://7536baca-36be-4730-8c27-03470e0e35ca@els1.dimoyun.top:40001?sni=els1.dimoyun.top&insecure=1#hysteria%20
+hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@net2025.afsharidempire.uk:30205?obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2&sni=net2025.afsharidempire.uk&insecure=1#ARISTA%F0%9F%92%A5
+vless://5dc395f4-b434-4c57-88ab-31e793f0a5ce@104.19.193.139:8443?encryption=none&type=ws&host=hp-71.pages.dev&path=/proxyip%3D5.61.32.186&security=tls&fp=random&sni=hp-71.pages.dev&allowInsecure=true&fragment=1,40-60,30-50#ARISTA%F0%9F%92%A5
 hysteria2://7536baca-36be-4730-8c27-03470e0e35ca@rb.dimoyun.top:40001?sni=rb.dimoyun.top&insecure=1#hysteria%20
 vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDEiLCJ0eXBlIjoibm9uZSIsInNjeSI6ImF1dG8iLCJwcyI6IkFhNjRuJTIwJTNBJTNBJUYwJTlGJTg3JUJBJUYwJTlGJTg3JUI4IiwiaWQiOiJlN2Q3MmE4ZC0yNmYyLTRiNTQtYjM2Ni0wYzQzZTBiY2JhN2QiLCJwb3J0IjoiNDQzIiwibmV0IjoidGNwIn0=
 vmess://eyJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsImlkIjoiZTdkNzJhOGQtMjZmMi00YjU0LWIzNjYtMGM0M2UwYmNiYTdkIiwidHlwZSI6Im5vbmUiLCJhZGQiOiIxNjUuMTQwLjIxNi4xNDEiLCJwcyI6IkFhNjRuJTIwJTNBJTNBJUYwJTlGJTg3JUJBJUYwJTlGJTg3JUI4In0=
