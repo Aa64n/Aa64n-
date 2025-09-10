@@ -1,3 +1,12 @@
+vless://18882ca8-cee6-4955-ad0e-61c1c83b25ed@fun.pcapps.ir:2059?encryption=none&type=tcp&headerType=http&host=zula.ir&path=/&security=none#5%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Static%20ip%20(all%20net)
+vless://18882ca8-cee6-4955-ad0e-61c1c83b25ed@end.app9.ir:8855?encryption=none&type=tcp&headerType=http&host=zula.ir&path=/&security=none#4%20%F0%9F%87%AB%F0%9F%87%B7%20France%20(all%20net)%20
+vless://18882ca8-cee6-4955-ad0e-61c1c83b25ed@bio.app9.ir:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=refersion.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#1%20%F0%9F%87%AC%F0%9F%87%A7%20Londen%20(MCI)
+vless://18882ca8-cee6-4955-ad0e-61c1c83b25ed@download.pcapps.ir:2030?encryption=none&type=ws&host=skyroom.online&path=/?ed%3D2048&security=none#3%20%F0%9F%87%B7%F0%9F%87%BA%20Russ%20No%20ads%20youtube
+vless://18882ca8-cee6-4955-ad0e-61c1c83b25ed@speedy.pcapps.ir:80?encryption=none&type=xhttp&mode=auto&host=2.ir&path=/&security=none#8%20%F0%9F%87%AC%F0%9F%87%A7%20Londen%20cdn%20(all%20net)
+vless://18882ca8-cee6-4955-ad0e-61c1c83b25ed@cpu.pcapps.ir:2087?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=refersion.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#2%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20(MCi)
+vless://18882ca8-cee6-4955-ad0e-61c1c83b25ed@game.pcapps.ir:8095?encryption=none&type=ws&host=skyroom.online&path=/?ed%3D2048&security=none#6%20%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20(all%20net)
+vless://18882ca8-cee6-4955-ad0e-61c1c83b25ed@home.app9.ir:8866?encryption=none&type=tcp&headerType=http&host=zula.ir&path=/&security=none#7%20%F0%9F%87%A6%F0%9F%87%AA%20UAE%20(all%20net)
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.49:8080?type=tcp#ARISTA%F0%9F%92%A5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080?type=tcp#ARISTA%F0%9F%92%A5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080?type=tcp#ARISTA%F0%9F%92%A5
