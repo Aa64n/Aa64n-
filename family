@@ -17,18 +17,6 @@ vless://22eaee34-bb95-4803-8aa7-39544f066268@37.221.125.176:2053?encryption=none
 vless://21b76809-cafe-4b43-9aee-dce825db29b8@74.119.192.238:2096?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=google.com&pbk=rtY52YDRRIL8f_wYRQF9oWcpLWpGFRUNeXk2VfGyKHk&sid=e6ea40400719#O8
 vless://aca68426-d6ae-49aa-b40a-63133ae8d4e9@77.91.73.28:2053?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=google.com&pbk=Ip3YWTQ1SNny9vJfdLe4QC32lZQZStGNIbYqGRLmMys&sid=705b3ec8bacd#O9
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.49:8080?type=tcp#ARISTA%F0%9F%92%A5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080?type=tcp#ARISTA%F0%9F%92%A5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080?type=tcp#ARISTA%F0%9F%92%A5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080?type=tcp#ARISTA%F0%9F%92%A5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.166:8080?type=tcp#ARISTA%F0%9F%92%A5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@promo1o.bystrivpn.ru:443?type=tcp#ARISTA%F0%9F%92%A5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.185:8080?type=tcp#ARISTA%F0%9F%92%A5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.170:8080?type=tcp#ARISTA%F0%9F%92%A5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.190:8080?type=tcp#ARISTA%F0%9F%92%A5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.200:8080?type=tcp#ARISTA%F0%9F%92%A5
-vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@net2026.zanddynastyofpersia.org:443?type=ws&host=net2026.zanddynastyofpersia.org&path=/eJsVXFVZ6iavNx1EFxOyH861WH&security=tls&fp=chrome&sni=net2026.zanddynastyofpersia.org#ARISTA%F0%9F%92%A5
-
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0#q_097
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0#q_096
 vless://b2f2f9f2-1864-48ea-839b-22815faff1f1@172.66.44.124:2053?encryption=none&type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/zthH5nzmHgHxWpAA?ed%3D2560&security=tls&fp=randomized&sni=sTf839DVVYOG9D2qA4-B8z6AHgN7b7qi.PagEs.DeV&alpn=http/1.1&allowInsecure=false#Aa64n%20%F0%9F%87%AE%F0%9F%87%B7
