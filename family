@@ -1,11 +1,11 @@
-vless://18882ca8-cee6-4955-ad0e-61c1c83b25ed@fun.pcapps.ir:2059?encryption=none&type=tcp&headerType=http&host=zula.ir&path=/&security=none#5%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Static%20ip%20(all%20net)
-vless://18882ca8-cee6-4955-ad0e-61c1c83b25ed@end.app9.ir:8855?encryption=none&type=tcp&headerType=http&host=zula.ir&path=/&security=none#4%20%F0%9F%87%AB%F0%9F%87%B7%20France%20(all%20net)%20
-vless://18882ca8-cee6-4955-ad0e-61c1c83b25ed@bio.app9.ir:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=refersion.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#1%20%F0%9F%87%AC%F0%9F%87%A7%20Londen%20(MCI)
-vless://18882ca8-cee6-4955-ad0e-61c1c83b25ed@download.pcapps.ir:2030?encryption=none&type=ws&host=skyroom.online&path=/?ed%3D2048&security=none#3%20%F0%9F%87%B7%F0%9F%87%BA%20Russ%20No%20ads%20youtube
-vless://18882ca8-cee6-4955-ad0e-61c1c83b25ed@speedy.pcapps.ir:80?encryption=none&type=xhttp&mode=auto&host=2.ir&path=/&security=none#8%20%F0%9F%87%AC%F0%9F%87%A7%20Londen%20cdn%20(all%20net)
-vless://18882ca8-cee6-4955-ad0e-61c1c83b25ed@cpu.pcapps.ir:2087?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=refersion.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#2%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20(MCi)
-vless://18882ca8-cee6-4955-ad0e-61c1c83b25ed@game.pcapps.ir:8095?encryption=none&type=ws&host=skyroom.online&path=/?ed%3D2048&security=none#6%20%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20(all%20net)
-vless://18882ca8-cee6-4955-ad0e-61c1c83b25ed@home.app9.ir:8866?encryption=none&type=tcp&headerType=http&host=zula.ir&path=/&security=none#7%20%F0%9F%87%A6%F0%9F%87%AA%20UAE%20(all%20net)
+vless://7d37f26c-5bc4-4115-936b-0b2e8e51384e@bio.app9.ir:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=refersion.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#1%20%F0%9F%87%AC%F0%9F%87%A7%20Londen%20(MCI)
+vless://7d37f26c-5bc4-4115-936b-0b2e8e51384e@cpu.pcapps.ir:2087?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=refersion.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#2%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20(MCi)
+vless://7d37f26c-5bc4-4115-936b-0b2e8e51384e@download.pcapps.ir:2030?encryption=none&type=ws&host=skyroom.online&path=/?ed%3D2048&security=none#3%20%F0%9F%87%B7%F0%9F%87%BA%20Russ%20No%20ads%20youtube
+vless://7d37f26c-5bc4-4115-936b-0b2e8e51384e@download.pcapps.ir:2030?encryption=none&type=ws&host=skyroom.online&path=/?ed%3D2048&security=none#3%20%F0%9F%87%B7%F0%9F%87%BA%20Russ%20No%20ads%20youtube
+vless://7d37f26c-5bc4-4115-936b-0b2e8e51384e@fun.pcapps.ir:2059?encryption=none&type=tcp&headerType=http&host=zula.ir&path=/&security=none#5%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Static%20ip%20(all%20net)
+vless://7d37f26c-5bc4-4115-936b-0b2e8e51384e@game.pcapps.ir:8095?encryption=none&type=ws&host=skyroom.online&path=/?ed%3D2048&security=none#6%20%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20(all%20net)
+vless://7d37f26c-5bc4-4115-936b-0b2e8e51384e@home.app9.ir:8866?encryption=none&type=tcp&headerType=http&host=zula.ir&path=/&security=none#7%20%F0%9F%87%A6%F0%9F%87%AA%20UAE%20(all%20net)
+vless://7d37f26c-5bc4-4115-936b-0b2e8e51384e@speedy.pcapps.ir:80?encryption=none&type=xhttp&mode=auto&host=2.ir&path=/&security=none#8%20%F0%9F%87%AC%F0%9F%87%A7%20Londen%20cdn%20(all%20net)
 
 vless://e767db48-2698-4b46-bea6-0d5dacdeea11@185.138.164.110:2087?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=google.com&pbk=eEbUPOuGi1e3D7IBBKpi1uUIfme_GVUwvHwCFA9k9VU&sid=dec0e77deec1#O1
 vless://4aeeb047-c502-49ee-a9d9-aa5ba59e904e@185.138.164.144:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=google.com&pbk=7Fe-UDj0udCxkL5O23OTPrZckYIkEhOK5SqX8Lde0Xc&sid=8213c0319de7#O2
