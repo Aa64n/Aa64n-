@@ -7,6 +7,16 @@ vless://18882ca8-cee6-4955-ad0e-61c1c83b25ed@cpu.pcapps.ir:2087?encryption=none&
 vless://18882ca8-cee6-4955-ad0e-61c1c83b25ed@game.pcapps.ir:8095?encryption=none&type=ws&host=skyroom.online&path=/?ed%3D2048&security=none#6%20%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20(all%20net)
 vless://18882ca8-cee6-4955-ad0e-61c1c83b25ed@home.app9.ir:8866?encryption=none&type=tcp&headerType=http&host=zula.ir&path=/&security=none#7%20%F0%9F%87%A6%F0%9F%87%AA%20UAE%20(all%20net)
 
+vless://e767db48-2698-4b46-bea6-0d5dacdeea11@185.138.164.110:2087?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=google.com&pbk=eEbUPOuGi1e3D7IBBKpi1uUIfme_GVUwvHwCFA9k9VU&sid=dec0e77deec1#O1
+vless://4aeeb047-c502-49ee-a9d9-aa5ba59e904e@185.138.164.144:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=google.com&pbk=7Fe-UDj0udCxkL5O23OTPrZckYIkEhOK5SqX8Lde0Xc&sid=8213c0319de7#O2
+vless://5a846738-daf1-45ee-ab4a-05483bd8dfdd@185.138.164.145:2096?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=google.com&pbk=0XD-I_UKKectQQI4Wfaivn3Ls_2S2qceti2MQaDB-W4&sid=343af53b0233#O3
+vless://94685add-cda8-403d-871e-06c7a38e9d1d@185.138.164.146:2087?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=google.com&pbk=VVOAvVRuU3_LxiftduxnMbUNKHSOoR08erDTtwAMfUA&sid=d361d6e2cdff#O4
+vless://292a2386-a108-4861-b326-d8dc4d1bf7fb@185.138.164.147:2087?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=google.com&pbk=TNWDxuqwZ_jyloZIzfdaDuKEpRjMkU8IXaeBCbdIGlI&sid=269ec523bed9#O5
+vless://71bddebf-2419-4bfb-9495-210c1e1321d7@37.221.125.151:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=google.com&pbk=4qPXxQuOLg099Ki4MVWugAG8zhcCrOO2fVPJ81JWVnU&sid=4237b843ccb9#O6
+vless://22eaee34-bb95-4803-8aa7-39544f066268@37.221.125.176:2053?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=google.com&pbk=rrczK-qeGumR8ubzoY0W1rAVxF4V5uzvDr5xxq36WUo&sid=7040d20857d5#O7
+vless://21b76809-cafe-4b43-9aee-dce825db29b8@74.119.192.238:2096?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=google.com&pbk=rtY52YDRRIL8f_wYRQF9oWcpLWpGFRUNeXk2VfGyKHk&sid=e6ea40400719#O8
+vless://aca68426-d6ae-49aa-b40a-63133ae8d4e9@77.91.73.28:2053?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=google.com&pbk=Ip3YWTQ1SNny9vJfdLe4QC32lZQZStGNIbYqGRLmMys&sid=705b3ec8bacd#O9
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.49:8080?type=tcp#ARISTA%F0%9F%92%A5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080?type=tcp#ARISTA%F0%9F%92%A5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080?type=tcp#ARISTA%F0%9F%92%A5
