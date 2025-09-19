@@ -1,6 +1,5 @@
 vless://6670c88f-5c7e-4943-9a64-db673dfbd404@2.144.4.240:8081?encryption=none&type=tcp&headerType=http&path=/&security=none#Namava-Filimo-Filmnet%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20
 vless://668848ee-2b0d-4d0e-cfe5-a99f2ce72ee8@www.speedtest.net:2053?encryption=none&type=ws&host=khtls.armin-host.com&path=/free&security=tls&fp=chrome&sni=khtls.armin-host.com&alpn=http/1.1,h2&allowInsecure=true#هر روز آپدیت کنید💥
-vless://668848ee-2b0d-4d0e-cfe5-a99f2ce72ee8@www.speedtest.net:2053?encryption=none&type=ws&host=khtls.armin-host.com&path=/free&security=tls&fp=chrome&sni=khtls.armin-host.com&alpn=http/1.1,h2&allowInsecure=true#Aa64n
 
 vless://be9719df-672f-49c0-84f8-13eba3e7fc99@167.99.86.95:80?encryption=none&type=ws&path=/brkdvws&security=none#o1
 vless://586bb25e-30e7-4163-9d1b-79ffb263e090@167.71.137.233:80?encryption=none&type=ws&path=/zmnnzws&security=none#o2
@@ -40,11 +39,6 @@ trojan://8_%5DO5ff+7.%5D_@172.66.44.124:8443?type=ws&host=stf839dvvyog9d2qa4-b8z
 vless://b2f2f9f2-1864-48ea-839b-22815faff1f1@172.66.44.124:2087?type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/F8bj30Ku3ZF6f97m?ed%3D2560&security=tls&fp=randomized&sni=Stf839DVvyog9D2Qa4-b8Z6AhGN7b7qI.pAGES.dEv&alpn=http/1.1&allowInsecure=false#F%20-%20IPv4%20:%202087
 trojan://8_%5DO5ff+7.%5D_@stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev:2087?type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/tryx8uMvriFs0bQmfF?ed%3D2560&security=tls&fp=randomized&sni=STF839dVvyOg9D2qa4-b8z6aHgn7B7Qi.paGeS.Dev&alpn=http/1.1&allowInsecure=false#Aa64n-%20Trojan%20F%20-%20Domain%20:%202087
 vless://b2f2f9f2-1864-48ea-839b-22815faff1f1@stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev:443?type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/pRXE5ot0RZaQSr7B?ed%3D2560&security=tls&fp=randomized&sni=stF839DvvyOg9d2qA4-B8z6Ahgn7B7QI.PAges.dEV&alpn=http/1.1&allowInsecure=false#%20Best%20Fragment%20%F0%9F%98%8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYVFwSWRjTHd3dGI=@77.83.245.190:443?type=tcp#ARISTA%F0%9F%8C%90
-
-vless://5dc395f4-b434-4c57-88ab-31e793f0a5ce@104.19.193.139:8443?encryption=none&type=ws&host=hp-71.pages.dev&path=/proxyip%3D5.61.32.186&security=tls&fp=random&sni=hp-71.pages.dev&allowInsecure=true&fragment=1,40-60,30-50#ARISTA%F0%9F%92%A5
-hysteria2://7536baca-36be-4730-8c27-03470e0e35ca@rb.dimoyun.top:40001?sni=rb.dimoyun.top&insecure=1#hysteria%20
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.166.102:990?type=tcp#Aa64n%20::%F0%9F%87%AC%F0%9F%87%B7
 
 vless://5bcf762d-8204-4791-a7cf-1b816eceef61@194.87.29.240:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=bc97736f81817c41#%F0%9F%87%A9%F0%9F%87%AAAa64n-1
 vless://5bcf762d-8204-4791-a7cf-1b816eceef61@94.141.123.233:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=bc97736f81817c41#%F0%9F%87%A9%F0%9F%87%AAAa64n-2
@@ -55,7 +49,6 @@ vless://c6d71ba0-81be-4ed9-ae6e-424e39a8f5cd@94.141.123.233:443?flow=xtls-rprx-v
 
 vless://c2c5b83f-4892-c49f-b9d1-7af232611820@206.81.6.239:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=androidcentral.com&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&sid=6ea3daaac3d6bede#Aa64n🔥
 vless://02e46039-200d-4ae4-ac90-b0d619f72034@clyde.ns.cloudflare.com:443?encryption=none&type=ws&host=hayejanzade.info&path=/aafeuws&security=tls&fp=chrome&sni=hayejanzade.info&alpn=http/1.1#Aa64n%20%F0%9F%92%A5
-vless://c2c5b83f-4892-c49f-b9d1-7af232611820@64.227.32.13:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=www.latimes.com&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&sid=6ea3daaac3d6bede#Aa64n🌪️
 hysteria2://6U2Y9U20Yl@109.73.198.153:443?alpn=h3&fastopen=1&obfs=salamander&obfs-password=@CHANGE_IP1@CHANGE_IP1@CHANGE_IP1@CHANGE_IP1@CHANGE_IP1@CHANGE_IP1@CHANGE_IP1&sni=anymath.ir#@Aa64n🇩🇪Heystria2
 
 vless://7960071e-15ff-48d7-87cd-4b638650ba52@89.116.250.60:2087?encryption=none&type=ws&host=aa64n-newpbp.rhyljiti.workers.dev&path=/eyJqdW5rIjoidHdaVk02ajliUW5qUmsiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&security=tls&fp=randomized&sni=aA64N-NeWPbP.rHYljiTi.WORkerS.DEv&alpn=http/1.1&allowInsecure=false#Clean%20IP%20:%202087
