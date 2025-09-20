@@ -12,6 +12,8 @@ vless://04a49e08-6d28-4a86-b604-c013e330f3ea@bio.app9.ir:8443?encryption=none&fl
 vless://04a49e08-6d28-4a86-b604-c013e330f3ea@fun.pcapps.ir:2059?encryption=none&type=tcp&headerType=http&host=zula.ir&path=/&security=none#5%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Static%20ip%20(all%20net)
 vless://04a49e08-6d28-4a86-b604-c013e330f3ea@game.pcapps.ir:8095?encryption=none&type=ws&host=skyroom.online&path=/?ed%3D2048&security=none#6%20%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20(all%20net)
 
+vless://c14e2d3c-2b46-41da-99c4-380d525f57de@213.165.55.75:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=tgju.org&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#Aa64n
+vless://7d18fc67-1994-4f7e-8ff8-c024223f33bb@172.67.75.166:443?encryption=none&type=ws&host=revcloud.migacpi.org&path=/cbde4058-6b81-432b-8689-dd7ce10e479c&security=tls&fp=chrome&sni=revcloud.migacpi.org#Aa64n🇺🇸
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0#q_097
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0#q_096
 vless://b2f2f9f2-1864-48ea-839b-22815faff1f1@172.66.44.124:2053?encryption=none&type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/zthH5nzmHgHxWpAA?ed%3D2560&security=tls&fp=randomized&sni=sTf839DVVYOG9D2qA4-B8z6AHgN7b7qi.PagEs.DeV&alpn=http/1.1&allowInsecure=false#Aa64n%20%F0%9F%87%AE%F0%9F%87%B7
