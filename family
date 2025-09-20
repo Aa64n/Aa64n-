@@ -1,18 +1,6 @@
 vless://6670c88f-5c7e-4943-9a64-db673dfbd404@2.144.4.240:8081?encryption=none&type=tcp&headerType=http&path=/&security=none#Namava-Filimo-Filmnet%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20
 vless://668848ee-2b0d-4d0e-cfe5-a99f2ce72ee8@www.speedtest.net:2053?encryption=none&type=ws&host=khtls.armin-host.com&path=/free&security=tls&fp=chrome&sni=khtls.armin-host.com&alpn=http/1.1,h2&allowInsecure=true#هر روز آپدیت کنید💥
 
-vless://be9719df-672f-49c0-84f8-13eba3e7fc99@167.99.86.95:80?encryption=none&type=ws&path=/brkdvws&security=none#o1
-vless://586bb25e-30e7-4163-9d1b-79ffb263e090@167.71.137.233:80?encryption=none&type=ws&path=/zmnnzws&security=none#o2
-vless://30aa94de-0c4a-497c-b0b4-3a55d651c202@104.248.168.80:80?encryption=none&type=ws&path=/eahkfws&security=none#o3
-vless://9d5048f8-38e3-4fe8-8fa2-6867235e05c6@167.99.81.39:80?encryption=none&type=ws&path=/ebutrws&security=none#o4
-vless://ca85a162-eea4-453a-9958-86614fea3c66@51.178.253.210:2087?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=google.com&pbk=39LgaOmZQMDGQzHpm9yDoEkcLP7Q6eowUThTa3b2J1M&sid=f88085a265f2#O5
-vless://24874f25-fc42-48fb-9044-1903a274f16d@142.93.225.243:80?encryption=none&type=ws&path=/khijfws&security=none#o6
-vless://bcb3c177-8e77-43b5-8ee9-02f385c9c388@167.172.167.235:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=google.com&pbk=MQg6W_3XTq7X_wcQcqwyUoKNgwxedLZQvsl1tVNn7Uw&sid=f98a09735a37#O7
-vless://726c2932-0d31-4b1a-a53f-66d805fbfee6@45.140.167.253:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=google.com&pbk=4sRkOVWmoTKl8EUOR8NAAgMEFj_iND_IHih6mPsOVFY&sid=309077b07755#O8
-vless://eb4f0f16-19fb-4694-a68a-9575129cad58@165.22.79.213:80?encryption=none&type=ws&path=/megemws&security=none#o8
-vless://bc9a43a8-8110-4a80-a76b-5194b9a29438@159.89.29.63:80?encryption=none&type=ws&path=/mlmpdws&security=none#o9
-vless://83aa562c-8a5d-47d6-8d13-cc3a25860d93@164.92.131.181:80?encryption=none&type=ws&path=/uyiohws&security=none#o10
-
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0#q_097
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0#q_096
 vless://b2f2f9f2-1864-48ea-839b-22815faff1f1@172.66.44.124:2053?encryption=none&type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/zthH5nzmHgHxWpAA?ed%3D2560&security=tls&fp=randomized&sni=sTf839DVVYOG9D2qA4-B8z6AHgN7b7qi.PagEs.DeV&alpn=http/1.1&allowInsecure=false#Aa64n%20%F0%9F%87%AE%F0%9F%87%B7
