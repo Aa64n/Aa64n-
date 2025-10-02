@@ -57,4 +57,4 @@ vless://7960071e-15ff-48d7-87cd-4b638650ba52@205.233.181.237:80?encryption=none&
 vless://7960071e-15ff-48d7-87cd-4b638650ba52@aa64n-newpbp.rhyljiti.workers.dev:8080?encryption=none&type=ws&host=aa64n-newpbp.rhyljiti.workers.dev&path=/eyJqdW5rIjoid01WOVBDaFBBQiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D?ed%3D2560&security=none#VLESS%20-%20Domain%20:%208080
 vless://b2f2f9f2-1864-48ea-839b-22815faff1f1@172.66.47.132:443?encryption=none&type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/qAg9QHd6g8GpKL0f?ed%3D2560&security=tls&fp=randomized&sni=STf839dvVyog9D2Qa4-B8z6AhGN7b7Qi.paGEs.DEv&alpn=http/1.1&allowInsecure=false#Aa64n%20%F0%9F%87%BA%F0%9F%87%B8
 vless://b2f2f9f2-1864-48ea-839b-22815faff1f1@172.66.44.124:443?encryption=none&type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/PSVQiRnEiAdAnOyc?ed%3D2560&security=tls&fp=randomized&sni=Stf839Dvvyog9D2QA4-B8Z6AhGN7B7qI.PaGEs.dEv&alpn=http/1.1&allowInsecure=false#Aa64n%20%F0%9F%87%AC%F0%9F%87%A7
-
+ss://YWVzLTEyOC1nY206MTAwODY=@160.16.123.124:10087?type=tcp#Aa64n-ir
