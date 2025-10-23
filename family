@@ -9,14 +9,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.185:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.187:8080?type=tcp#%F0%9F%87%B3%F0%9F%87%B1-Amsterdam
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2M2JTbngxMGV1MWpxWVlsQUlsbklx@62.210.88.22:443?type=tcp#%F0%9F%87%AB%F0%9F%87%B7-Paris-292ms-Online%20S.A.S.
 
-vless://5dc3fdac-9384-4d14-8c15-e3250a0fde0a@162.159.153.42:443?encryption=none&type=ws&host=ym.ddff.me&path=/?ed%3D2560&security=tls&fp=random&sni=ym.ddff.me#%F0%9F%94%A5%20Cloudflare
-vless://5dc3fdac-9384-4d14-8c15-e3250a0fde0a@104.19.144.212:443?encryption=none&type=ws&host=ym.ddff.me&path=/?ed%3D2560&security=tls&fp=random&sni=ym.ddff.me#%F0%9F%94%A5%20Cloudflare
-vless://5dc3fdac-9384-4d14-8c15-e3250a0fde0a@162.159.152.225:443?encryption=none&type=ws&host=ym.ddff.me&path=/?ed%3D2560&security=tls&fp=random&sni=ym.ddff.me#%F0%9F%94%A5%20Cloudflare
-vless://5dc3fdac-9384-4d14-8c15-e3250a0fde0a@162.159.152.225:443?encryption=none&type=ws&host=ym.ddff.me&path=/?ed%3D2560&security=tls&fp=random&sni=ym.ddff.me#%F0%9F%94%A5%20Cloudflare
-vless://5dc3fdac-9384-4d14-8c15-e3250a0fde0a@162.159.39.250:443?encryption=none&type=ws&host=ym.ddff.me&path=/?mode%3Dauto%26direct%26proxyip%3DProxyIP.Oracle.cmliussss.net:443&security=tls&sni=ym.ddff.me&alpn=h3,h2,http/1.1#%F0%9F%94%A5%20Cloudflare
-vless://5dc3fdac-9384-4d14-8c15-e3250a0fde0a@162.159.153.156:443?encryption=none&type=ws&host=ym.ddff.me&path=/?ed%3D2560&security=tls&fp=random&sni=ym.ddff.me#%F0%9F%94%A5%20Cloudflare
-vless://5dc3fdac-9384-4d14-8c15-e3250a0fde0a@[2606:4700:3036:6ed4:ff6e:712c:4953:87a5]:443?encryption=none&type=ws&host=ym.ddff.me&path=/?ed%3D2560&security=tls&fp=random&sni=ym.ddff.me#%F0%9F%94%A5%20Cloudflare
-vless://5dc3fdac-9384-4d14-8c15-e3250a0fde0a@[2606:4700:3036:ef:92f:be51:8695:9fc5]:443?encryption=none&type=ws&host=ym.ddff.me&path=/?ed%3D2560&security=tls&fp=random&sni=ym.ddff.me#%F0%9F%94%A5%20Cloudflare
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@139.180.154.158:443?encryption=none&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3@WangCai2/?ed%3D2560&security=tls&sni=gaosir.unfeeling.sbs#%F0%9F%94%A5%20Cloudflare
 vless://08dad8a6-8a6c-4424-9d63-62f3a9bf7f4f@aa64n-ne.rhyljiti.workers.dev:443?encryption=none&type=ws&host=aa64n-ne.rhyljiti.workers.dev&path=ws&security=tls&fp=chrome&sni=aa64n-ne.rhyljiti.workers.dev#aa64n-ne.rhyljiti.workers.dev
 trojan://ROoDc2Luk68%7D6ftz@104.21.1.102:2095?type=ws&host=newbp.amiralinorozjam.workers.dev&path=/eyJqdW5rIjoiWkZVZnJQRmNnY1giLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&security=none#Aa64n🇬🇧
