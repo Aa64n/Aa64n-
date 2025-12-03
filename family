@@ -45,7 +45,7 @@ vless://c6d71ba0-81be-4ed9-ae6e-424e39a8f5cd@194.87.29.240:443?flow=xtls-rprx-vi
 vless://c6d71ba0-81be-4ed9-ae6e-424e39a8f5cd@94.141.123.233:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=82c8140feb118043#%F0%9F%87%A9%F0%9F%87%AA%20Aa64n-6
 vless://2b8cd10f-82f6-4103-89e2-27a2d5a2fc21@194.87.29.240:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=bc97736f81817c41#%F0%9F%87%A9%F0%9F%87%AAGermany%202
 
-
+vless://e382220d-7ecb-4063-89f3-fd5a4d46ee87@172.67.129.6:443?encryption=none&type=ws&host=newbp.amiralinorozjam.workers.dev&path=/eyJqdW5rIjoiN2pNV3BYYVZEYyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D?ed%3D2560&security=tls&fp=chrome&sni=NewbP.aMiRalINOrOZJAm.WOrKeRs.dEv&alpn=http/1.1&allowInsecure=false#VLESS%20-%20IPv4%20:%20443
 trojan://ROoDc2Luk68%7D6ftz@172.67.129.6:8080?type=ws&host=newbp.amiralinorozjam.workers.dev&path=/eyJqdW5rIjoiZUlCdzM4R0ZHd0liIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D?ed%3D2560&security=none#Trojan%20-%20IPv4%20:%208080
 trojan://ROoDc2Luk68%7D6ftz@newbp.amiralinorozjam.workers.dev:80?type=ws&host=newbp.amiralinorozjam.workers.dev&path=/eyJqdW5rIjoidzhoSkp5bkZxc0F5ZyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D?ed%3D2560&security=none#Trojan%20-%20Domain%20:%2080
 vless://e382220d-7ecb-4063-89f3-fd5a4d46ee87@172.67.129.6:2096?encryption=none&type=ws&host=newbp.amiralinorozjam.workers.dev&path=/eyJqdW5rIjoiTllPRUV1RHFiSSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D?ed%3D2560&security=tls&fp=chrome&sni=NeWBP.AMIRALiNOROZjaM.WoRkErs.DEV&alpn=http/1.1&allowInsecure=false#VLESS%20-%20IPv4%20:%202096
@@ -75,3 +75,11 @@ vless://7960071e-15ff-48d7-87cd-4b638650ba52@104.254.140.194:80?encryption=none&
 vless://7960071e-15ff-48d7-87cd-4b638650ba52@45.142.120.11:80?encryption=none&type=ws&host=aa64n-newpbp.rhyljiti.workers.dev&path=/eyJqdW5rIjoiTW5RNzVZcEdjZFZTViIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D?ed%3D2560&security=none#VLESS%20-%20Clean%20IP%20:%2080
 vless://7960071e-15ff-48d7-87cd-4b638650ba52@webmota.com:80?encryption=none&type=ws&host=aa64n-newpbp.rhyljiti.workers.dev&path=/eyJqdW5rIjoiZzVoeTV2Wk42dm9GeTR4WSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D?ed%3D2560&security=none#Aa64n🇫🇮
 vless://7960071e-15ff-48d7-87cd-4b638650ba52@horarios.pe:80?encryption=none&type=ws&host=aa64n-newpbp.rhyljiti.workers.dev&path=/eyJqdW5rIjoiOFFXTEtIUFpJc0tTSyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D?ed%3D2560&security=none#VLESS%20-%20Clean%20IP%20:%2080
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGd0lzV0hJSGxKYzZXcmpRRXh0Snd2@h110vpntr.outlinekeys.net:65262?type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Turkey
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxTDR6cmIzZlB6NDM1YklaYUR1d3dC@194.87.216.218:52571?type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands
+vless://e74dc1a5-7d48-400b-93c6-efb860b706fa@nla.tunnelguard.ru:443?encryption=none&type=xhttp&mode=auto&path=/&security=tls&fp=chrome&sni=nla.tunnelguard.ru&alpn=h2,http/1.1#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands
+vless://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?encryption=none&type=xhttp&mode=auto&path=/&security=tls&fp=firefox&sni=plb.tunnelguard.ru&alpn=h2,http/1.1#%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vmess://eyJuZXQiOiJ0Y3AiLCJwb3J0IjoiMzk2NTEiLCJwYXRoIjoiIiwicHMiOiIlRjAlOUYlODclQjklRjAlOUYlODclQjclMjBUdXJrZXkiLCJzY3kiOiJhdXRvIiwiYWRkIjoiNDUuODkuNTIuMjA3IiwiaG9zdCI6IiIsInR5cGUiOiJub25lIiwiaWQiOiJhYzRjMTJjNS00NWYyLTQzOTgtYTcxOC05OTgzOTQxZWRlMmIifQ==
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&type=grpc&mode=gun&security=tls&sni=pqh27v5.hiddendom.shop&alpn=h2#%F0%9F%87%BA%F0%9F%87%B2%20United%20States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZTdVZ1k4UlJNRTFiZXFjdEZhSUxR@62.133.60.60:7048?type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany
