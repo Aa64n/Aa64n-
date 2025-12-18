@@ -115,4 +115,10 @@ vless://c72094c8-4d7c-4d46-a752-cb57495d1b2e@54.36.116.59:443?encryption=none&ty
 vless://240026c6-3e97-4050-926d-8c2d06bd75c9@151.101.25.242:80?encryption=none&type=xhttp&host=jetfr228.global.ssl.fastly.net&path=/&security=none#VLESS
 vless://4394eb25-5dfc-4bf1-a363-1ae168e200b9@151.101.25.242:80?encryption=none&type=xhttp&host=jetde157.global.ssl.fastly.net&path=/&security=none#VLESS
 vless://4394eb25-5dfc-4bf1-a363-1ae168e200b9@151.101.25.242:80?encryption=none&type=xhttp&host=jetde157.global.ssl.fastly.net&path=/&security=none#VLESS
-vless://e25bd23b-22f0-4026-8883-59486d1761c5@151.101.25.242:80?encryption=none&type=xhttp&host=jetuk43.global.ssl.fastly.net&path=/&security=none#VLESS
+vless://e25bd23b-22f0-4026-8883-59486d1761c5@151.101.25.242:80?encryption=none&type=xhttp&host=jetuk43.global.ssl.fastly.net&path=/&security=none#VLESSm
+
+vless://f36fe051-6901-4ef6-a7be-4f515da33c94@51.77.111.215:443?encryption=none&type=xhttp&host=51.77.111.215&path=/@MaxFree---@MaxFree---@MaxFree---@MaxFree---@MaxFree&security=none#VLESS
+vless://26d8dc70-467e-4071-933d-4c8c8941328f@51.89.230.46:443?encryption=none&type=xhttp&host=51.89.230.46&path=/@MaxFree---@MaxFree---@MaxFree---@MaxFree---@MaxFree&security=none#VLESS
+vless://e8bd1601-d897-4dba-8b24-838752a6ec47@57.128.160.231:443?encryption=none&type=xhttp&host=57.128.160.231&path=/@MaxFree---@MaxFree---@MaxFree---@MaxFree---@MaxFree&security=none#VLESS
+vless://29267952-e97b-4f23-9998-b084d934338d@trt.fastlynew.hosting-ip.com:80?encryption=none&type=xhttp&host=blazeft123your-name.global.ssl.fastly.net&path=/&security=none#VLESS
+vless://67456b60-2a9e-4287-8808-c1ea5706403e@trt.fastlynew.hosting-ip.com:80?encryption=none&type=xhttp&host=blazeus150your-name.global.ssl.fastly.net&path=/&security=none#VLESS
