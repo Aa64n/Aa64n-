@@ -1,5 +1,4 @@
-vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.28.151:4248?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ads.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#Test
-vless://a4a941bd-fe1f-4e2e-81ad-2244e73da639@95.38.210.6:12241?encryption=none&type=tcp&headerType=none&security=none#Test%20new
+
 vless://598277a9-a7aa-4397-affd-e1ea12e8300f@193.111.76.140:6060?encryption=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=shop.ftmsoft.com&alpn=h2,http/1.1#🥹روزانه آپدیت کنید
 vless://34155f4a-b42f-4961-9268-df5069fca1ff@185.97.119.25:80?encryption=none&type=ws&path=/&security=none#ARISTA%F0%9F%8C%90
 vless://SERVERNETT-SERVERNETT1@sdct.sernett.ir:80?encryption=none&type=xhttp&mode=auto&path=/#ARISTA%F0%9F%8C%90
