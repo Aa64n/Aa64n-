@@ -16,3 +16,5 @@ vless://9b7ff7a4-7437-4688-9063-3d73ca4f8498@tr.speeditest.ir:81?encryption=none
 vless://9b7ff7a4-7437-4688-9063-3d73ca4f8498@s2.gmax12.ir:4450?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=excoino.com&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic#%F0%9F%87%A9%F0%9F%87%AA%20Germany%E2%9E%81
 vless://9b7ff7a4-7437-4688-9063-3d73ca4f8498@spain.novaads.shop:42525?encryption=none&type=tcp&headerType=http&host=excoino.com&path=/&security=none#%F0%9F%87%AA%F0%9F%87%B8%20Spain
 vless://9b7ff7a4-7437-4688-9063-3d73ca4f8498@am2.speeditest.ir:81?encryption=none&type=tcp&headerType=http&host=excoino.com&path=/&security=none#%F0%9F%87%A6%F0%9F%87%B2%20Armenia%E2%9E%81%20(NoAds)
+
+vless://d86b806e-9888-47dc-9592-55ce80b3f35a@146.19.130.156:443?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.google.com&pbk=MyBYEHdiEqNf7Z7XscPwANWvXKTUIC3W4Sv2_tmRih0&sid=d6afa855f8c4#Aa64n_020
