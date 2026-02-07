@@ -14,6 +14,14 @@ vless://c6d71ba0-81be-4ed9-ae6e-424e39a8f5cd@213.165.54.4:443?encryption=none&fl
 vless://309c4bd0-7430-b8aa-2238-1075e9e29370@13.38.94.206:20096?encryption=none&type=tcp&security=reality&fp=chrome&sni=wikipedia.org&pbk=RlpFwwJWAb7YPkfaLyZcycZol3ejIdH8yLe0TXsJ_QA&sid=50a3&spx=/#Aa64n%20%E2%9D%B6%2010
 vless://afbff11a-7db7-41de-9026-cb8cf2626d21@109.122.255.62:8083?security=&encryption=none&host=excoino.com&headerType=http&type=tcp#Testing
 
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0#hysteria%20
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0#hysteria%20
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0#hysteria%20
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0#hysteria%20
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0#hysteria%20
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.16.250.22:2096?encryption=none&type=ws&host=ca.adobe-connect.top&path=/&security=tls&fp=chrome&sni=ca.adobe-connect.top#hysteria%20
+
+
 trojan://%7DDnPdj%7BpF0JfTnnY@www.speedtest.net:8443?type=ws&host=ghm.gh-ghnbari6264.workers.dev&path=/eyJqdW5rIjoiSmFvNkRidjNvIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D?ed%3D2560&security=tls&fp=chrome&sni=gHM.gH-GHnbARI6264.WORKeRs.DEV&alpn=http/1.1&allowInsecure=false#Aa64n-40411
 trojan://%7DDnPdj%7BpF0JfTnnY@www.speedtest.net:2053?type=ws&host=ghm.gh-ghnbari6264.workers.dev&path=/eyJqdW5rIjoic294N2dheE51ZE1GMSIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D?ed%3D2560&security=tls&fp=chrome&sni=ghM.gH-ghnbARi6264.wOrKerS.DEV&alpn=http/1.1&allowInsecure=false#Aa64n%20%F0%9F%87%AE%F0%9F%87%B7
 vless://28e96d9a-56d0-481a-a07c-b015009a0593@ghm.gh-ghnbari6264.workers.dev:8443?encryption=none&type=ws&host=ghm.gh-ghnbari6264.workers.dev&path=/eyJqdW5rIjoiNDNuV0ZVYmY2aE8iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&security=tls&fp=chrome&sni=ghm.GH-GHnbARi6264.WORkErs.dev&alpn=http/1.1&allowInsecure=false#Aa64n%E2%80%A6%F0%9F%87%AB%F0%9F%87%AE
