@@ -10,7 +10,7 @@ vless://002accb526534fcab24a72b0ea1cff59@176.125.240.166:443?security=reality&en
 vless://5bb062fe-4bd8-4783-814b-d9a15435e2df@86.54.30.51:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.com#3
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.94.79.161:8443?path=%2F%3Fed%3D2560%26Telegram&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#1
 vless://62d2aba5-6565-4994-b19c-f664b5715b25@fans2.mahoshid.ir:9560?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#new%F0%9F%87%A9%F0%9F%87%AA
-
+vless://afbff11a-7db7-41de-9026-cb8cf2626d21@109.122.255.62:8083?security=&encryption=none&host=excoino.com&headerType=http&type=tcp#Testing
 
 trojan://%7DDnPdj%7BpF0JfTnnY@www.speedtest.net:8443?type=ws&host=ghm.gh-ghnbari6264.workers.dev&path=/eyJqdW5rIjoiSmFvNkRidjNvIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D?ed%3D2560&security=tls&fp=chrome&sni=gHM.gH-GHnbARI6264.WORKeRs.DEV&alpn=http/1.1&allowInsecure=false#Aa64n-40411
 trojan://%7DDnPdj%7BpF0JfTnnY@www.speedtest.net:2053?type=ws&host=ghm.gh-ghnbari6264.workers.dev&path=/eyJqdW5rIjoic294N2dheE51ZE1GMSIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D?ed%3D2560&security=tls&fp=chrome&sni=ghM.gH-ghnbARi6264.wOrKerS.DEV&alpn=http/1.1&allowInsecure=false#Aa64n%20%F0%9F%87%AE%F0%9F%87%B7
