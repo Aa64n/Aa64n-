@@ -4,21 +4,7 @@ vless://64d73b4c-c837-40a0-8671-5b9b14d24dc6@178.17.50.111:12345?encryption=none
 vless://c6d71ba0-81be-4ed9-ae6e-424e39a8f5cd@178.17.50.111:12345?encryption=none&type=tcp&security=none#Aa64n family ♛
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#Aa64n family ♛
 
-vless://926b8fc8-cb95-4f65-816b-1a736c547966@AUR2.TORPROSPEED.IR:8440?encryption=none&type=xhttp&mode=auto&security=reality&fp=firefox&sni=stackoverflow.com&pbk=C8T_rENHVHgvklynPdF0oVbovX6rFi_6tA3MwI6vMn4&sid=8c6a044199a51b22&spx=/#Aa64n family ♛
-
 vless://a0891e86-ce1f-4e1b-e47c-84c890f1b130@18.185.94.14:443?encryption=none&type=tcp#Aa64n%20%F0%9F%87%BA%F0%9F%87%B8
-vless://0154d742-3233-4c61-f81c-7407fcf28b87@3.70.253.134:443?encryption=none&type=tcp#Aa64n%20%F0%9F%87%BA%F0%9F%87%B8
-vless://620e45f4-92f1-4be6-e118-3bc515509320@3.121.71.21:28279?encryption=none&type=tcp#Aa64n%20%F0%9F%87%BA%F0%9F%87%B8
-vless://dacb912c-39ef-4fe0-d720-fadaa53111c0@3.72.6.34:443?encryption=none&type=tcp#Aa64n%20%F0%9F%87%B9%F0%9F%87%B7
-vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@3.71.1.237:443?encryption=none&type=tcp#Aa64n%20%F0%9F%87%B9%F0%9F%87%B7
-vless://de524de8-06a2-4026-c602-651f0304151b@3.70.171.93:443?encryption=none&type=tcp#Aa64n%20%F0%9F%87%A9%F0%9F%87%AA
-vless://8c06ed2a-5b7c-4d8a-8d5b-c2a7fa4a2e65@104.248.242.98:41541?encryption=none&type=tcp#Aa64n%20%F0%9F%87%A9%F0%9F%87%AA
-vless://7396c077-f5cb-4808-84ca-92f268d79b3d@3.64.178.32:443?encryption=none&type=tcp#Aa64n%20%F0%9F%87%B7%F0%9F%87%BA
-vless://eea43b1a-4411-4ff7-f5b4-a860a81cad63@3.123.128.216:28706?encryption=none&type=tcp#Aa64n%20%F0%9F%87%B7%F0%9F%87%BA
-vless://3cadf249-13a2-413f-867a-a802964f914d@3.75.247.161:443?encryption=none&type=tcp#Aa64n%20%F0%9F%87%B7%F0%9F%87%BA
-vless://7b471aa5-9344-4567-96a9-82bec6427f85@3.79.115.193:443?encryption=none&type=tcp#Aa64n%20%F0%9F%87%B7%F0%9F%87%BA
-vless://4bb175e9-436c-4449-a5db-3ccbfcb28022@3.125.6.39:29044?encryption=none&type=tcp#Aa64n%20%F0%9F%87%A9%F0%9F%87%AA
-
 vless://133d44b7-170e-41cd-a0cc-0b35470823bb@kh2.mahdi383ir.website:32916?encryption=none&fp=firefox&pbk=tQwZ96ULPZim00dZUVBxCl1wRkVjULRVbho7_Z2FQFw&security=reality&sid=7f269d8b&sni=tgju.org&spx=%2FbIY4VqHdzLcp92t&type=tcp#Aa64n family♛
 vless://fe595ea9-e641-46db-cf94-38afef601315@cf.mahdi383ir.website:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&host=kh2d2db3vlp4ldh885do6w0pp5286wqow0p0kdg.mahdi383ir.website&path=%2Fmahdi_383ir&security=tls&sni=kh2dmg6jzcc3tk5qjk88uua1mqmllu3ab8ftomg.mahdi383ir.website&type=ws#Aa64n family♛
 vless://454b5a81-0059-4c34-91aa-6979133c44bb@cf.mahdi383ir.website:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&host=kh2ub4exbwbpq51iohzjy4qm0ptab2h9ir3rdwg.mahdi383ir.website&path=%2Fmahdi_383ir&security=tls&sni=kh2p2brr97af0whs7sbbqqqkq50plzcuajrfz41.mahdi383ir.website&type=httpupgrade#Aa64n family♛
