@@ -3,25 +3,8 @@ vless://64d73b4c-c837-40a0-8671-5b9b14d24dc6@178.17.50.111:443?encryption=none&f
 vless://64d73b4c-c837-40a0-8671-5b9b14d24dc6@178.17.50.111:12345?encryption=none&♛
 vless://c6d71ba0-81be-4ed9-ae6e-424e39a8f5cd@178.17.50.111:12345?encryption=none&type=tcp&security=none#Aa64n family ♛
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#Aa64n family ♛
-
 vless://a0891e86-ce1f-4e1b-e47c-84c890f1b130@18.185.94.14:443?encryption=none&type=tcp#Aa64n%20%F0%9F%87%BA%F0%9F%87%B8
-vless://133d44b7-170e-41cd-a0cc-0b35470823bb@kh2.mahdi383ir.website:32916?encryption=none&fp=firefox&pbk=tQwZ96ULPZim00dZUVBxCl1wRkVjULRVbho7_Z2FQFw&security=reality&sid=7f269d8b&sni=tgju.org&spx=%2FbIY4VqHdzLcp92t&type=tcp#Aa64n family♛
-vless://fe595ea9-e641-46db-cf94-38afef601315@cf.mahdi383ir.website:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&host=kh2d2db3vlp4ldh885do6w0pp5286wqow0p0kdg.mahdi383ir.website&path=%2Fmahdi_383ir&security=tls&sni=kh2dmg6jzcc3tk5qjk88uua1mqmllu3ab8ftomg.mahdi383ir.website&type=ws#Aa64n family♛
-vless://454b5a81-0059-4c34-91aa-6979133c44bb@cf.mahdi383ir.website:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&host=kh2ub4exbwbpq51iohzjy4qm0ptab2h9ir3rdwg.mahdi383ir.website&path=%2Fmahdi_383ir&security=tls&sni=kh2p2brr97af0whs7sbbqqqkq50plzcuajrfz41.mahdi383ir.website&type=httpupgrade#Aa64n family♛
-vless://4ad9f903-cbb1-47db-a0cf-04590acba843@cf.mahdi383ir.website:2086?encryption=none&host=kh2vx4uoqq6dl793v0coq7hop082lo2lx8g96a4.mahdi383ir.website&mode=auto&path=%2Fmahdi_383ir&security=none&type=xhttp#Aa64n family
-vless://4b449ca5-55fd-4c23-8da4-661d4e17537a@cf.mahdi383ir.website:443?alpn=h2&encryption=none&fp=firefox&host=kh2j1ox4ax6x2jiwiss3dku249y4x72uqjy622h.mahdi383ir.website&mode=stream-up&path=%2Fmahdi_383ir&security=tls&sni=kh290ybijxxqx2l6w692x8zmygwdx248rr6gjft.mahdi383ir.website&type=xhttp#Aa64n family♛
-vless://28cdbb46-1309-45fb-92f0-6a761bc30236@kh2.mahdi383ir.website:31232?authority=&encryption=none&fp=firefox&pbk=YMUFe3eUfODM1B0huGgXNxdZLtQczEzSHS3a1TJXyGQ&security=reality&serviceName=&sid=f09e&sni=tgju.org&spx=%2FZYdctK320vJbVnV&type=grpc#Aa64n family♛
-vless://8209efd3-4026-411e-da46-37e3ba13383f@kh2.mahdi383ir.website:64286?authority=&encryption=none&security=none&serviceName=mahdi_383ir&type=grpc#Aa64n family♛
-vless://48ce9313-4913-4100-eedf-bccf3f956dec@cf.mahdi383ir.website:2082?encryption=none&host=kh23h5k47xoocggw85cwt1mkdzi9vad4zoe2kfk.mahdi383ir.website&path=%2Fmahdi_383ir&security=none&type=ws#Aa64n family♛
-vless://b345a751-61fd-42c4-c7d8-c18cc117210f@cf.mahdi383ir.website:2082?host=kh2w7vurh3iplepp5zkyjtwclmwuvvp0iwgpvwy.mahdi383ir.website&path=%2Fmahdi_383ir&security=none&type=httpupgrade#Aa64n family♛
-vless://c583e7f8-9807-43b6-dac7-ca7ae5623546@kh2.mahdi383ir.website:9090?encryption=none&fp=firefox&pbk=tQwZ96ULPZim00dZUVBxCl1wRkVjULRVbho7_Z2FQFw&security=reality&sid=5c&sni=tgju.org&spx=%2F1ztHUK59mYC6v14&type=tcp#Aa64n family♛
-vless://c3ffa4ee-fbbe-45e3-f737-db2f381f557e@cf.mahdi383ir.website:2053?alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&host=kh2tiyozkxybazdibomyhih.mahdi383ir.website&path=%2F&security=tls&sni=kh2tiyozkxybazdibomyhih.mahdi383ir.website&type=ws#Aa64n family♛
-vless://efd44eff-9b17-4380-ab8c-ba3a631b41f2@104.24.3.77:8080?encryption=none&type=ws&host=new140411.amiralinorozjam.workers.dev&path=/eyJqdW5rIjoibFNoVGlsdk5FT28iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&security=none#Aa64n family♛
-vless://5a923f93-30d2-4f8b-ba28-afc637901e54@cf.mahdi383ir.website:2083?alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&host=kh2tiyozkxybazdibomyhih.mahdi383ir.website&path=%2F&security=tls&sni=kh2tiyozkxybazdibomyhih.mahdi383ir.website&type=ws#Aa64n family♛
-vless://e9fd407a-a1e1-4a37-e840-01bffa1d0edd@cf.mahdi383ir.website:2087?alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&host=kh2tiyozkxybazdibomyhih.mahdi383ir.website&path=%2F&security=tls&sni=kh2tiyozkxybazdibomyhih.mahdi383ir.website&type=ws#Aa64n family♛
-vless://cdddbb3f-5481-4d12-e3ee-597f97910d21@cf.mahdi383ir.website:2096?alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&host=kh2tiyozkxybazdibomyhih.mahdi383ir.website&path=%2F&security=tls&sni=kh2tiyozkxybazdibomyhih.mahdi383ir.website&type=ws#Aa64n family♛
-vless://8edf51a7-a211-428d-9685-e6c71959ab9f@cf.mahdi383ir.website:8443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&host=kh2tiyozkxybazdibomyhih.mahdi383ir.website&path=%2F&security=tls&sni=kh2tiyozkxybazdibomyhih.mahdi383ir.website&type=ws#Aa64n family♛
-vless://2ab1ecad-6666-4c70-813f-d951f9bf49d7@cf.mahdi383ir.website:443?alpn=h2%2Chttp%2F1.1&authority=&encryption=none&fp=firefox&security=tls&serviceName=mahdi_383ir&sni=kh2qpj1y59gx1wu1kzz4l3l8120phu8l68v64b1.mahdi383ir.website&type=grpc#Aa64n family♛
+
 
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0# 🇩🇪Aa64n family♛
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0# 🇩🇪Aa64n family♛
