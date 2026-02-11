@@ -23,21 +23,11 @@ vless://cdddbb3f-5481-4d12-e3ee-597f97910d21@cf.mahdi383ir.website:2096?alpn=h2%
 vless://8edf51a7-a211-428d-9685-e6c71959ab9f@cf.mahdi383ir.website:8443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&host=kh2tiyozkxybazdibomyhih.mahdi383ir.website&path=%2F&security=tls&sni=kh2tiyozkxybazdibomyhih.mahdi383ir.website&type=ws#Aa64n family♛
 vless://2ab1ecad-6666-4c70-813f-d951f9bf49d7@cf.mahdi383ir.website:443?alpn=h2%2Chttp%2F1.1&authority=&encryption=none&fp=firefox&security=tls&serviceName=mahdi_383ir&sni=kh2qpj1y59gx1wu1kzz4l3l8120phu8l68v64b1.mahdi383ir.website&type=grpc#Aa64n family♛
 
-vless://002accb526534fcab24a72b0ea1cff59@176.125.240.166:443?security=reality&encryption=none&pbk=GgiY38LjRI1hS1LKhdqvtJ5SDDO436GvihG-TzEI2XE&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=aabbccdd#Aa64n family♛
-vless://5bb062fe-4bd8-4783-814b-d9a15435e2df@86.54.30.51:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.com#Aa64n family♛
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.94.79.161:8443?path=%2F%3Fed%3D2560%26Telegram&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#Aa64n family♛
-vless://62d2aba5-6565-4994-b19c-f664b5715b25@fans2.mahoshid.ir:9560?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#Aa64n family♛
-vless://c6d71ba0-81be-4ed9-ae6e-424e39a8f5cd@213.165.54.4:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=safari&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=fc7a526a7e61ba3b#Aa64n family♛
-vless://309c4bd0-7430-b8aa-2238-1075e9e29370@13.38.94.206:20096?encryption=none&type=tcp&security=reality&fp=chrome&sni=wikipedia.org&pbk=RlpFwwJWAb7YPkfaLyZcycZol3ejIdH8yLe0TXsJ_QA&sid=50a3&spx=/#Aa64n family♛
-vless://afbff11a-7db7-41de-9026-cb8cf2626d21@109.122.255.62:8083?security=&encryption=none&host=excoino.com&headerType=http&type=tcp#Aa64n family♛
-
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0# 🇩🇪Aa64n family♛
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0# 🇩🇪Aa64n family♛
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0# 🇩🇪Aa64n family♛
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0# 🇩🇪Aa64n family♛
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0# 🇩🇪Aa64n family♛
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.16.250.22:2096?encryption=none&type=ws&host=ca.adobe-connect.top&path=/&security=tls&fp=chrome&sni=ca.adobe-connect.top#🇭🇺Aa64n family♛
-
 
 trojan://%7DDnPdj%7BpF0JfTnnY@www.speedtest.net:8443?type=ws&host=ghm.gh-ghnbari6264.workers.dev&path=/eyJqdW5rIjoiSmFvNkRidjNvIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D?ed%3D2560&security=tls&fp=chrome&sni=gHM.gH-GHnbARI6264.WORKeRs.DEV&alpn=http/1.1&allowInsecure=false#🇮🇷Aa64n family♛
 trojan://%7DDnPdj%7BpF0JfTnnY@www.speedtest.net:2053?type=ws&host=ghm.gh-ghnbari6264.workers.dev&path=/eyJqdW5rIjoic294N2dheE51ZE1GMSIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D?ed%3D2560&security=tls&fp=chrome&sni=ghM.gH-ghnbARi6264.wOrKerS.DEV&alpn=http/1.1&allowInsecure=false#🇮🇩Aa64n family♛
