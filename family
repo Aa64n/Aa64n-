@@ -29,12 +29,21 @@ vless://115e24e4-fc6b-4d89-8f55-05eb00770001@www.speedtest.net:8443?mode=auto&pa
 vless://115e24e4-fc6b-4d89-8f55-05eb00770001@www.speedtest.net:8443?mode=auto&path=%2Ft.me%2FVip_fragment_v2ray&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ic.imsoon.io.&fp=chrome&type=xhttp&allowInsecure=0&sni=ic.imsoon.io#Aa64n meli net
 vless://Vip_fragment_v2ray@www.speedtest.net:443?mode=auto&path=%2Ft.me%2FVip_fragment_v2ray&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ic.imsoon.io.&fp=chrome&type=xhttp&allowInsecure=0&sni=ic.imsoon.io#Aa64n meli net
 
-trojan://Nova-Proxy@173.245.49.39:443?type=ws&host=newpanel.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=random&sni=newpanel.amiralinorozjam.workers.dev&fragment=1,40-60,30-50#Nova-eWyqv
-trojan://Nova-Proxy@103.21.244.233:443?type=ws&host=newpanel.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=random&sni=newpanel.amiralinorozjam.workers.dev&fragment=1,40-60,30-50#Nova-nJwJn
-trojan://Nova-Proxy@172.67.123.217:443?type=ws&host=newpanel.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=random&sni=newpanel.amiralinorozjam.workers.dev&fragment=1,40-60,30-50#Nova-KVisM
-trojan://Nova-Proxy@104.25.217.209:443?type=ws&host=newpanel.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=random&sni=newpanel.amiralinorozjam.workers.dev&fragment=1,40-60,30-50#Nova-tBWPN
-trojan://Nova-Proxy@190.93.244.56:443?type=ws&host=newpanel.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=random&sni=newpanel.amiralinorozjam.workers.dev&fragment=1,40-60,30-50#Nova-kauov
-trojan://Nova-Proxy@103.21.244.38:443?type=ws&host=newpanel.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=random&sni=newpanel.amiralinorozjam.workers.dev&fragment=1,40-60,30-50#Nova-3WKHO
+trojan://Nova-Proxy@173.245.49.39:443?type=ws&host=newpanel.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=random&sni=newpanel.amiralinorozjam.workers.dev&fragment=1,40-60,30-50#Nova-eWyqv🇩🇪
+trojan://Nova-Proxy@103.21.244.233:443?type=ws&host=newpanel.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=random&sni=newpanel.amiralinorozjam.workers.dev&fragment=1,40-60,30-50#Nova-nJwJn🇩🇪
+trojan://Nova-Proxy@172.67.123.217:443?type=ws&host=newpanel.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=random&sni=newpanel.amiralinorozjam.workers.dev&fragment=1,40-60,30-50#Nova-KVisM🇫🇮
+trojan://Nova-Proxy@104.25.217.209:443?type=ws&host=newpanel.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=random&sni=newpanel.amiralinorozjam.workers.dev&fragment=1,40-60,30-50#Nova-tBWPN🇫🇮
+trojan://Nova-Proxy@190.93.244.56:443?type=ws&host=newpanel.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=random&sni=newpanel.amiralinorozjam.workers.dev&fragment=1,40-60,30-50#Nova-kauov🇮🇷
+trojan://Nova-Proxy@103.21.244.38:443?type=ws&host=newpanel.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=random&sni=newpanel.amiralinorozjam.workers.dev&fragment=1,40-60,30-50#Nova-3WKHO🇮🇷
+trojan://Nova-Proxy@104.21.219.28:443?type=ws&host=newpanel.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=random&sni=newpanel.amiralinorozjam.workers.dev&fragment=1,40-60,30-50#Nova-AaUf9🇬🇧
+trojan://Nova-Proxy@104.20.55.173:443?type=ws&host=newpanel.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=random&sni=newpanel.amiralinorozjam.workers.dev&fragment=1,40-60,30-50#Nova-SMwSu🇬🇧
+trojan://Nova-Proxy@198.41.199.243:443?type=ws&host=newpanel.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=random&sni=newpanel.amiralinorozjam.workers.dev&fragment=1,40-60,30-50#Nova-uptxv🇷🇺
+trojan://Nova-Proxy@104.25.16.122:443?type=ws&host=newpanel.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=random&sni=newpanel.amiralinorozjam.workers.dev&fragment=1,40-60,30-50#Nova-cF5YQ🇷🇺
+trojan://Nova-Proxy@188.114.96.149:443?type=ws&host=newpanel.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=random&sni=newpanel.amiralinorozjam.workers.dev&fragment=1,40-60,30-50#Nova-SDO0h🇯🇵
+trojan://Nova-Proxy@198.41.202.23:443?type=ws&host=newpanel.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=random&sni=newpanel.amiralinorozjam.workers.dev&fragment=1,40-60,30-50#Nova-KXyLI🇦🇲
+trojan://Nova-Proxy@104.18.124.218:443?type=ws&host=newpanel.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=random&sni=newpanel.amiralinorozjam.workers.dev&fragment=1,40-60,30-50#Nova-10H0N🇧🇬
+trojan://Nova-Proxy@104.21.233.71:443?type=ws&host=newpanel.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=random&sni=newpanel.amiralinorozjam.workers.dev&fragment=1,40-60,30-50#Nova-qUYmV🇳🇴
+
 
 trojan://%7DDnPdj%7BpF0JfTnnY@www.speedtest.net:8443?type=ws&host=ghm.gh-ghnbari6264.workers.dev&path=/eyJqdW5rIjoiSmFvNkRidjNvIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D?ed%3D2560&security=tls&fp=chrome&sni=gHM.gH-GHnbARI6264.WORKeRs.DEV&alpn=http/1.1&allowInsecure=false#🇮🇷Aa64n family♛
 trojan://%7DDnPdj%7BpF0JfTnnY@www.speedtest.net:2053?type=ws&host=ghm.gh-ghnbari6264.workers.dev&path=/eyJqdW5rIjoic294N2dheE51ZE1GMSIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D?ed%3D2560&security=tls&fp=chrome&sni=ghM.gH-ghnbARi6264.wOrKerS.DEV&alpn=http/1.1&allowInsecure=false#🇮🇩Aa64n family♛
