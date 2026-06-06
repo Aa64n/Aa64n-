@@ -1,15 +1,15 @@
 
-vless://21e95772-aacd-4934-bc2b-e0517bb572f7@94.101.178.125:80?type=tcp&encryption=none&security=none#shanbe
-vless://21e95772-aacd-4934-bc2b-e0517bb572f7@94.101.178.125:80?type=tcp&encryption=none&security=none#new2
-vless://c9085d5f-1139-4741-ae84-b5a67d2127c9@94.101.178.125:80?type=tcp&encryption=none&security=none#New
+vless://21e95772-aacd-4934-bc2b-e0517bb572f7@94.101.178.125:80?type=tcp&encryption=none&security=none#family
+vless://21e95772-aacd-4934-bc2b-e0517bb572f7@94.101.178.125:80?type=tcp&encryption=none&security=none#family
+vless://c9085d5f-1139-4741-ae84-b5a67d2127c9@94.101.178.125:80?type=tcp&encryption=none&security=none#family
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.25:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=qq&allowInsecure=1&type=tcp&headerType=none#family
 hysteria2://Masir_Sefid@195.15.253.119:1040?obfs=salamander&obfs-password=Masir_Sefid&sni=free2.masir-sefid-1.my&insecure=0#family
 hysteria2://Masir_Sefid@195.15.253.119:4040?obfs=salamander&obfs-password=Masir_Sefid&sni=free2.masir-sefid-1.my&insecure=0#family
 hysteria2://Masir_Sefid@195.15.253.119:443?obfs=salamander&obfs-password=Masir_Sefid&sni=free2.masir-sefid-1.my&insecure=0#family
 hysteria2://Masir_Sefid@195.15.253.119:8880?obfs=salamander&obfs-password=Masir_Sefid&sni=free2.masir-sefid-1.my&insecure=0#family
 vless://e72dfecf-7d26-4065-94cc-3fc6ce2d8314@195.15.253.119:443?encryption=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=free2.masir-sefid-1.my&alpn=h2,http/1.1#family
-vless://c9085d5f-1139-4741-ae84-b5a67d2127c9@94.101.178.125:80?type=tcp&encryption=none&security=none#Outone--ew5z6v4lmnializade
-vless://21e95772-aacd-4934-bc2b-e0517bb572f7@94.101.178.125:80?type=tcp&encryption=none&security=none#Outone--k3xcqmvwmnializade
+vless://c9085d5f-1139-4741-ae84-b5a67d2127c9@94.101.178.125:80?type=tcp&encryption=none&security=none#family
+vless://21e95772-aacd-4934-bc2b-e0517bb572f7@94.101.178.125:80?type=tcp&encryption=none&security=none#family
 vless://1648373d-3c33-4006-b5fc-e1ca501b5223@FI-Nginx-AlphaOmega-Team.AlphaOmegaCompany-PowerFull.IR:443?encryption=none&type=httpupgrade&host=FI-Nginx-AlphaOmega-Team.AlphaOmegaCompany-PowerFull.IR.&path=/wss9000?ed%3D2560&security=tls&fp=firefox&sni=FI-Nginx-AlphaOmega-Team.AlphaOmegaCompany-PowerFull.IR.&alpn=h3,h2,http/1.1#family
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#%E2%9C%85%20%40Sparkynet1%2010
 vless://afc941a0-b6b4-42d1-b284-d59a42f083fd@194.58.41.65:443?encryption=none&security=reality&sni=www.microsoft.com&fp=chrome&pbk=cjCwI7alv-GUgef0TW7i-S7jNgnIoZ6aooGYH7Nopxs&sid=deadbeef&type=grpc&authority=&serviceName=GrpcFuckRKN&mode=gun#family
@@ -27,11 +27,11 @@ vless://6c556382-a2a1-4a8f-a99a-4323095fa562@mortal.vipafi.xyz:48503?encryption=
 
 vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&sid=83&type=tcp&headerType=none#family
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.242:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=chrome&allowInsecure=1&type=tcp&headerType=none#family
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#%E2%9C%85%20%40Sparkynet1%209
-vless://ea484535-0170-4ec8-bb3c-a9dbaa7412d7@146.103.96.63:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=v843042.hosted-by-vdsina.com&pbk=wlYNxgezkkjoIEXATEBsOo7rZu5qkQaCOqDrysvuGR4&sid=46e746366ed5c1b9&type=tcp&headerType=none#%E2%9C%85%20%40Sparkynet1%201
-trojan://humanity@216.24.57.7:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%E2%9C%85%20%40Sparkynet1%202
-vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?encryption=none&security=reality&sni=yastatic.net&fp=chrome&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&sid=5e841fab&type=tcp&headerType=none#%E2%9C%85%20%40Sparkynet1%205
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.240:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=qq&allowInsecure=1&type=tcp&headerType=none#%E2%9C%85%20%40Sparkynet1%206
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#family
+vless://ea484535-0170-4ec8-bb3c-a9dbaa7412d7@146.103.96.63:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=v843042.hosted-by-vdsina.com&pbk=wlYNxgezkkjoIEXATEBsOo7rZu5qkQaCOqDrysvuGR4&sid=46e746366ed5c1b9&type=tcp&headerType=none#family
+trojan://humanity@216.24.57.7:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#family
+vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?encryption=none&security=reality&sni=yastatic.net&fp=chrome&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&sid=5e841fab&type=tcp&headerType=none#family
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.240:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=qq&allowInsecure=1&type=tcp&headerType=none#family
 vless://cca617a2-ede0-4855-a2ef-cc7f218ba75d@long-forest.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=winter-pine.long-forest.ru&fp=chrome&pbk=GFKdmtxlB5JubXEfTy6PNIeuqN8ys53SPwV3zat3Fzg&sid=3c6a5f13df37ed6e&type=tcp&headerType=none#family
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.25:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=qq&allowInsecure=1&type=tcp&headerType=none#family
 
