@@ -5,3 +5,5 @@ trojan://Masir_Sefid@188.213.130.212:2083?type=tcp&headerType=none&security=real
 vless://3d663ca2-98b2-4f2b-8652-c527b12bebfc@45.85.118.1:80?encryption=none&type=ws&host=orange-truth-c6d1.rhyljiti.workers.dev&path=/eyJqdW5rIjoiRVF4cEpmc1Y2SFUzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D?ed%3D2560&security=none#family
 vless://3d663ca2-98b2-4f2b-8652-c527b12bebfc@104.16.195.250:80?encryption=none&type=ws&host=orange-truth-c6d1.rhyljiti.workers.dev&path=/eyJqdW5rIjoiUUVpbmV5NU56IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D?ed%3D2560&security=none#family
 vless://3d663ca2-98b2-4f2b-8652-c527b12bebfc@104.29.124.101:80?encryption=none&type=ws&host=orange-truth-c6d1.rhyljiti.workers.dev&path=/eyJqdW5rIjoiVjBwVjN1TEMwd3JZNVciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&security=none#family
+vless://ddd360cb-27b1-475b-9b18-1ffd26eb5059@95.38.162.159:27865?encryption=none&type=tcp&security=none#new
+vless://11a23754-da96-44cb-af5d-7bff5d9cf18f@anten.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=ifilm.televebion.sbs#new test
