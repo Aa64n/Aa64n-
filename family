@@ -16,3 +16,8 @@ vless://1a6b9b6e-0724-49b0-9bb6-e8cdb27e28b9@62.220.122.178:441?security=&encryp
 vless://a93df7ad-7ebf-4271-8183-31efc390cfe3@62.220.122.178:442?security=&encryption=none&headerType=&type=tcp#AT-4
 vless://c88507c7-d57c-4baf-bc71-e118a6ee4ea2@62.220.122.147:441?security=&encryption=none&headerType=&type=tcp#AT-5
 vless://45d14516-4d2a-49f9-b71f-7bdd1a6cc3a8@62.220.122.147:442?security=&encryption=none&headerType=&type=tcp#AT-6
+vmess://eyJwYXRoIjoiXC8iLCJwcyI6IiVGMCU5RiU4NyVCQSVGMCU5RiU4NyVCOCUyMFVTJTIwMiIsInBvcnQiOiIxODAwMCIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwic2N5IjoiYWVzLTEyOC1nY20iLCJuZXQiOiJ0Y3AiLCJhZGQiOiI2Ny4yMjAuODUuNDYifQ==
+vmess://eyJzY3kiOiJhdXRvIiwiYWRkIjoiMTQwLjgzLjUxLjE2MSIsIm5ldCI6IndzIiwicGF0aCI6IlwvY2N0djEzLm0zdTgiLCJpZCI6IjY3MzNjMzU3LWJhMTEtNGU5Zi1mMDBmLTdkODdmMjc3NmZmOSIsInBzIjoiJUYwJTlGJTg3JUFGJUYwJTlGJTg3JUI1JTIwSlAlMjA2IiwicG9ydCI6IjI1Njg2In0=
+trojan://humanity@www.calmloud.com:443?type=ws&path=/assignment&security=tls&fp=chrome&alpn=http/1.1#%F0%9F%87%BA%F0%9F%87%B8%20US%2016
+trojan://humanity@www.calmloud.com:443?type=ws&host=www.calmloud.com&path=//assignment&security=tls&sni=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B8%20US%2017
+vmess://eyJwcyI6IiVGMCU5RiU4NyVCQSVGMCU5RiU4NyVCOCUyMFVTJTIwMjQiLCJhZGQiOiIxNTUuMjU0LjEyNi4yNDkiLCJpZCI6ImEwMzA4NDJhLWQyOWEtNGVhOS1hNzc2LTE0ZmM0YjllMTAyZCIsInBvcnQiOiI2MDAxIiwic2N5IjoiIn0=
