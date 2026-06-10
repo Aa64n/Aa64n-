@@ -9,3 +9,4 @@ vless://ddd360cb-27b1-475b-9b18-1ffd26eb5059@95.38.162.159:27865?encryption=none
 vless://11a23754-da96-44cb-af5d-7bff5d9cf18f@anten.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=ifilm.televebion.sbs#new test
 vless://8f6e9139-ed50-4323-afe8-b84f7ce47473@188.114.97.6:443?mode=packet-up&path=%2Fapiii&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=op.sonicc.online#test 1903
 vless://ddd360cb-27b1-475b-9b18-1ffd26eb5059@95.38.162.159:27865?encryption=none&type=tcp&security=none#test 1903
+vless://cdb6b503-b395-4a03-988b-758515b38fbe@mail.erwinhoda.shop:2083?type=ws&encryption=none&path=%2F&host=mail.erwinhoda.shop&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=mail.erwinhoda.shop#new
