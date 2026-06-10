@@ -21,3 +21,4 @@ vmess://eyJzY3kiOiJhdXRvIiwiYWRkIjoiMTQwLjgzLjUxLjE2MSIsIm5ldCI6IndzIiwicGF0aCI6
 trojan://humanity@www.calmloud.com:443?type=ws&path=/assignment&security=tls&fp=chrome&alpn=http/1.1#%F0%9F%87%BA%F0%9F%87%B8%20US%2016
 trojan://humanity@www.calmloud.com:443?type=ws&host=www.calmloud.com&path=//assignment&security=tls&sni=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B8%20US%2017
 vmess://eyJwcyI6IiVGMCU5RiU4NyVCQSVGMCU5RiU4NyVCOCUyMFVTJTIwMjQiLCJhZGQiOiIxNTUuMjU0LjEyNi4yNDkiLCJpZCI6ImEwMzA4NDJhLWQyOWEtNGVhOS1hNzc2LTE0ZmM0YjllMTAyZCIsInBvcnQiOiI2MDAxIiwic2N5IjoiIn0=
+vless://3d663ca2-98b2-4f2b-8652-c527b12bebfc@104.18.161.144:80?encryption=none&type=ws&host=orange-truth-c6d1.rhyljiti.workers.dev&path=/eyJqdW5rIjoiOXRCSnJIWno3QiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D?ed%3D2560&security=none#VLESS%20-%20Clean%20IP%20:%2080
