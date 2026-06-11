@@ -21,15 +21,7 @@ vless://3d663ca2-98b2-4f2b-8652-c527b12bebfc@104.16.195.250:80?encryption=none&t
 vless://3d663ca2-98b2-4f2b-8652-c527b12bebfc@104.29.124.101:80?encryption=none&type=ws&host=orange-truth-c6d1.rhyljiti.workers.dev&path=/eyJqdW5rIjoiVjBwVjN1TEMwd3JZNVciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&security=none#family
 vless://ddd360cb-27b1-475b-9b18-1ffd26eb5059@95.38.162.159:27865?encryption=none&type=tcp&security=none#new
 vless://11a23754-da96-44cb-af5d-7bff5d9cf18f@anten.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=ifilm.televebion.sbs#new test
-vless://8f6e9139-ed50-4323-afe8-b84f7ce47473@188.114.97.6:443?mode=packet-up&path=%2Fapiii&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=op.sonicc.online#test 1903
-vless://ddd360cb-27b1-475b-9b18-1ffd26eb5059@95.38.162.159:27865?encryption=none&type=tcp&security=none#test 1903
 vless://cdb6b503-b395-4a03-988b-758515b38fbe@mail.erwinhoda.shop:2083?type=ws&encryption=none&path=%2F&host=mail.erwinhoda.shop&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=mail.erwinhoda.shop#new
-vless://8165d12c-27da-4276-85d5-e9d5fe656f6a@62.220.122.180:441?security=&encryption=none&headerType=&type=tcp#AT-1
-vless://4cdc3b46-c70c-46b2-a171-8cf5fda70177@62.220.122.180:442?security=&encryption=none&headerType=&type=tcp#AT-2
-vless://1a6b9b6e-0724-49b0-9bb6-e8cdb27e28b9@62.220.122.178:441?security=&encryption=none&headerType=&type=tcp#AT-3
-vless://a93df7ad-7ebf-4271-8183-31efc390cfe3@62.220.122.178:442?security=&encryption=none&headerType=&type=tcp#AT-4
-vless://c88507c7-d57c-4baf-bc71-e118a6ee4ea2@62.220.122.147:441?security=&encryption=none&headerType=&type=tcp#AT-5
-vless://45d14516-4d2a-49f9-b71f-7bdd1a6cc3a8@62.220.122.147:442?security=&encryption=none&headerType=&type=tcp#AT-6
 vmess://eyJwYXRoIjoiXC8iLCJwcyI6IiVGMCU5RiU4NyVCQSVGMCU5RiU4NyVCOCUyMFVTJTIwMiIsInBvcnQiOiIxODAwMCIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwic2N5IjoiYWVzLTEyOC1nY20iLCJuZXQiOiJ0Y3AiLCJhZGQiOiI2Ny4yMjAuODUuNDYifQ==
 vmess://eyJzY3kiOiJhdXRvIiwiYWRkIjoiMTQwLjgzLjUxLjE2MSIsIm5ldCI6IndzIiwicGF0aCI6IlwvY2N0djEzLm0zdTgiLCJpZCI6IjY3MzNjMzU3LWJhMTEtNGU5Zi1mMDBmLTdkODdmMjc3NmZmOSIsInBzIjoiJUYwJTlGJTg3JUFGJUYwJTlGJTg3JUI1JTIwSlAlMjA2IiwicG9ydCI6IjI1Njg2In0=
 trojan://humanity@www.calmloud.com:443?type=ws&path=/assignment&security=tls&fp=chrome&alpn=http/1.1#%F0%9F%87%BA%F0%9F%87%B8%20US%2016
