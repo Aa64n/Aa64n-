@@ -20,14 +20,6 @@ vless://3d663ca2-98b2-4f2b-8652-c527b12bebfc@45.85.118.1:80?encryption=none&type
 vless://3d663ca2-98b2-4f2b-8652-c527b12bebfc@104.16.195.250:80?encryption=none&type=ws&host=orange-truth-c6d1.rhyljiti.workers.dev&path=/eyJqdW5rIjoiUUVpbmV5NU56IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D?ed%3D2560&security=none#family
 vless://3d663ca2-98b2-4f2b-8652-c527b12bebfc@104.29.124.101:80?encryption=none&type=ws&host=orange-truth-c6d1.rhyljiti.workers.dev&path=/eyJqdW5rIjoiVjBwVjN1TEMwd3JZNVciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&security=none#family
 vless://ddd360cb-27b1-475b-9b18-1ffd26eb5059@95.38.162.159:27865?encryption=none&type=tcp&security=none#new
-vless://11a23754-da96-44cb-af5d-7bff5d9cf18f@anten.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=ifilm.televebion.sbs#new test
-vless://cdb6b503-b395-4a03-988b-758515b38fbe@mail.erwinhoda.shop:2083?type=ws&encryption=none&path=%2F&host=mail.erwinhoda.shop&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=mail.erwinhoda.shop#new
-vmess://eyJwYXRoIjoiXC8iLCJwcyI6IiVGMCU5RiU4NyVCQSVGMCU5RiU4NyVCOCUyMFVTJTIwMiIsInBvcnQiOiIxODAwMCIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwic2N5IjoiYWVzLTEyOC1nY20iLCJuZXQiOiJ0Y3AiLCJhZGQiOiI2Ny4yMjAuODUuNDYifQ==
-vmess://eyJzY3kiOiJhdXRvIiwiYWRkIjoiMTQwLjgzLjUxLjE2MSIsIm5ldCI6IndzIiwicGF0aCI6IlwvY2N0djEzLm0zdTgiLCJpZCI6IjY3MzNjMzU3LWJhMTEtNGU5Zi1mMDBmLTdkODdmMjc3NmZmOSIsInBzIjoiJUYwJTlGJTg3JUFGJUYwJTlGJTg3JUI1JTIwSlAlMjA2IiwicG9ydCI6IjI1Njg2In0=
-trojan://humanity@www.calmloud.com:443?type=ws&path=/assignment&security=tls&fp=chrome&alpn=http/1.1#%F0%9F%87%BA%F0%9F%87%B8%20US%2016
-trojan://humanity@www.calmloud.com:443?type=ws&host=www.calmloud.com&path=//assignment&security=tls&sni=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B8%20US%2017
-vmess://eyJwcyI6IiVGMCU5RiU4NyVCQSVGMCU5RiU4NyVCOCUyMFVTJTIwMjQiLCJhZGQiOiIxNTUuMjU0LjEyNi4yNDkiLCJpZCI6ImEwMzA4NDJhLWQyOWEtNGVhOS1hNzc2LTE0ZmM0YjllMTAyZCIsInBvcnQiOiI2MDAxIiwic2N5IjoiIn0=
-vless://3d663ca2-98b2-4f2b-8652-c527b12bebfc@104.18.161.144:80?encryption=none&type=ws&host=orange-truth-c6d1.rhyljiti.workers.dev&path=/eyJqdW5rIjoiOXRCSnJIWno3QiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D?ed%3D2560&security=none#VLESS%20-%20Clean%20IP%20:%2080
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#%E2%9C%85%20%40Sparkynet1%2010
 vless://afc941a0-b6b4-42d1-b284-d59a42f083fd@194.58.41.65:443?encryption=none&security=reality&sni=www.microsoft.com&fp=chrome&pbk=cjCwI7alv-GUgef0TW7i-S7jNgnIoZ6aooGYH7Nopxs&sid=deadbeef&type=grpc&authority=&serviceName=GrpcFuckRKN&mode=gun#%E2%9C%85%20%40Sparkynet1%2012
