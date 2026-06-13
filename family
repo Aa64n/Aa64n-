@@ -31,7 +31,7 @@ vless://6c09488f-5d0c-47de-b953-6e0af3ed4c33@cdn2.portalcode.ir:2095?encryption=
 vless://6c09488f-5d0c-47de-b953-6e0af3ed4c33@cdn3.portalcode.ir:2095?encryption=none&security=none&type=httpupgrade&headerType=none&path=%2F&host=kalamld.monopolitass.ir#family
 vless://6c09488f-5d0c-47de-b953-6e0af3ed4c33@cdn4.portalcode.ir:2095?encryption=none&security=none&type=httpupgrade&headerType=none&path=%2F&host=pl1.monopolitass.ir#family
 
-vless://32f1b878-3b34-4070-863e-055a3cc714bc@1.1.1.1:1000?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%E2%9C%85taksub_config5%7C%F0%9F%93%8A191.92%20GB%7C%E2%8F%B33
+vless://32f1b878-3b34-4070-863e-055a3cc714bc@1.1.1.1:1000?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#family
 vless://32f1b878-3b34-4070-863e-055a3cc714bc@165.215.250.12:2095?encryption=none&security=none&type=httpupgrade&headerType=none&path=%2F&host=gr1.monopolitass.ir#family
 vless://32f1b878-3b34-4070-863e-055a3cc714bc@Gerip1.portalcode.ir:11332?encryption=none&security=reality&type=xhttp&headerType=none&path=%2F&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%22256000-512000%22%2C%22uplinkChunkSize%22%3A%224000-64000%22%7D&sni=play.google.com&fp=firefox&pbk=vMaaFCRp4ogjDWMgZs0Jyb-Hyj-TOISV_5TxUi8AYWo&sid=dd1dca907a35b4c8#family
 vless://32f1b878-3b34-4070-863e-055a3cc714bc@Flip1.portalcode.ir:11332?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=www.intel.com&fp=qq&pbk=PwLfuXKEbt1nbT1xllVnqHiMLNaDL1lgzOCDkdGFQVw&sid=660a099cf2585cef#family
