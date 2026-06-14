@@ -1,4 +1,5 @@
 hysteria2://Vzwjltp8Gn@201.51.25.33:8443?security=tls&insecure=1&sni=www.google.com&alpn=h3&obfs=salamander&obfs-password=99bnbo2buuk7t7domvhnwywtf6p1hvsbemetksddp7bqouw89i&fastopen=1#Test
+vless://2ee0d2aa-867e-a77e-9538-2edfc0b242aa@four04-rd37.onrender.com:443?path=%2Fws%2F2ee0d2aa-867e-a77e-9538-2edfc0b242aa&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=four04-rd37.onrender.com&fp=chrome&type=ws&allowInsecure=0&sni=four04-rd37.onrender.com#test2
 
 vless://78f89cec-ca7e-48f2-bfe6-669dbb272567@1.1.1.1:1000?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%E2%9C%85taksub_config3%7C%F0%9F%93%8A100.14%20GB%7C%E2%8F%B32
 vless://78f89cec-ca7e-48f2-bfe6-669dbb272567@165.215.250.12:2095?encryption=none&security=none&type=httpupgrade&headerType=none&path=%2F&host=gr1.monopolitass.ir#%F0%9F%94%84%20%D9%84%D8%B7%D9%81%D8%A7%D9%8B%20%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%DA%A9%20%D8%AE%D9%88%D8%AF%20%D8%B1%D8%A7%20%D9%87%D8%B1%20%D8%B1%D9%88%D8%B2%20%D8%A8%D9%87%E2%80%8C%D8%B1%D9%88%D8%B2%D8%B1%D8%B3%D8%A7%D9%86%DB%8C%20%DA%A9%D9%86%DB%8C%D8%AF.
