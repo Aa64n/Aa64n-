@@ -1,6 +1,6 @@
 hysteria2://Vzwjltp8Gn@201.51.25.33:8443?security=tls&insecure=1&sni=www.google.com&alpn=h3&obfs=salamander&obfs-password=99bnbo2buuk7t7domvhnwywtf6p1hvsbemetksddp7bqouw89i&fastopen=1#Test
 vless://2ee0d2aa-867e-a77e-9538-2edfc0b242aa@four04-rd37.onrender.com:443?path=%2Fws%2F2ee0d2aa-867e-a77e-9538-2edfc0b242aa&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=four04-rd37.onrender.com&fp=chrome&type=ws&allowInsecure=0&sni=four04-rd37.onrender.com#test2
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80?security=none&type=ws&headerType=&path=%2F&host=max-gb1.global.ssl.fastly.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5Bfast%F0%9F%9F%A24%5D
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80?security=none&type=ws&headerType=&path=%2F&host=max-gb1.global.ssl.fastly.net#Aa64n
 
 vless://6c09488f-5d0c-47de-b953-6e0af3ed4c33@1.1.1.1:1000?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Aa64n
 vless://6c09488f-5d0c-47de-b953-6e0af3ed4c33@165.215.250.12:2095?encryption=none&security=none&type=httpupgrade&headerType=none&path=%2F&host=gr1.monopolitass.ir#Aa64n
