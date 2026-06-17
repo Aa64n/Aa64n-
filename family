@@ -1,4 +1,10 @@
 vless://382874cf-38f0-48a2-a1ca-592710b006fc@140.248.185.253:443?path=%2F&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#test
+vless://XpnTeam-kwu2@23.235.42.246:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8US
+ss://Y2hhY2hhMjAtcG9seTEzMDU6U2ZmWmtMcUwraGI2MmF1SysxdVVjdWZpbnVManQ4RTgrUHJjZFJEMWNLND0@net10.shaygan.site:8080#%F0%9F%87%A6%F0%9F%87%AAAE
+vless://91679c30-bc1f-35e4-2cb2-ff0358e3d823@tmesubgift.up.railway.app:443?path=%2Fws%2F91679c30-bc1f-35e4-2cb2-ff0358e3d823&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#%F0%9F%87%BA
+vless://de8f907c-53cc-40da-b9eb-87775b31258e@185.143.233.222:8080?path=%2F&security=none&encryption=none&host=free.tradepal.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7IR-%F0%9F%9A%80%40
+
+
 
 vless://bfd6c195-e37e-40ed-b962-c3ea4ac0f5df@37.139.34.63:23356?encryption=none&type=grpc&security=reality&mode=gun&serviceName=api&fp=edge&sni=apple.com&pbk=KtHJA0ZiW3VEPTjGQOlT3NlXZWlqAPHKHqki_IGX3Wk&sid=483d116ad48a4091#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
 vless://bfd6c195-e37e-40ed-b962-c3ea4ac0f5df@37.139.34.63:23356?encryption=none&type=grpc&security=reality&mode=gun&serviceName=api&fp=firefox&sni=apple.com&pbk=KtHJA0ZiW3VEPTjGQOlT3NlXZWlqAPHKHqki_IGX3Wk&sid=483d116ad48a4091#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
