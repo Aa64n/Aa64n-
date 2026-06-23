@@ -4,12 +4,7 @@ vless://Masir_Sefid@37.156.44.205:8443?security=reality&encryption=none&pbk=mK5Q
 vless://Masir_Sefid@83.228.200.66:443?security=reality&encryption=none&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&headerType=none&fp=chrome&spx=%2Fx9v13tGqXqfOiWp&type=tcp&sni=store.steampowered.com&sid=082b5cbbd0d4f2fa#Aa64n🏴
 vless://Masir_Sefid@83.228.200.66:8443?security=reality&encryption=none&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&headerType=none&fp=chrome&spx=%2Fx9v13tGqXqfOiWp&type=tcp&sni=store.steampowered.com&sid=082b5cbbd0d4f2fa#Aa64n🏴
 
-vless://b830dc97-840b-46cd-b667-e5e01427a10b@xfinland1.cloudlimits.ir:80?encryption=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE+Finland+%F0%9F%94%97+Direct
-vless://b830dc97-840b-46cd-b667-e5e01427a10b@ray2.monkeykart.ir:443?encryption=none&type=ws&host=ray2.monkeykart.ir&path=/api/v1/stream&security=tls&fp=chrome&sni=ray2.monkeykart.ir#%F0%9F%87%AB%F0%9F%87%AE+Finland+%E2%9A%A1+Ray+II
-vless://b830dc97-840b-46cd-b667-e5e01427a10b@ray.monkeykart.ir:443?encryption=none&type=ws&host=ray.monkeykart.ir&path=/api/v1/stream&security=tls&fp=chrome&sni=ray.monkeykart.ir#%F0%9F%87%AB%F0%9F%87%AE+Finland+%E2%9A%A1+Ray+I
-vless://b830dc97-840b-46cd-b667-e5e01427a10b@xgermany1.cloudlimits.ir:80?encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA+Germany+%F0%9F%94%97+Direct
-trojan://b830dc97-840b-46cd-b667-e5e01427a10b@xgermany1.monkeykart.ir:443?type=ws&host=xgermany1.monkeykart.ir&path=/akdkSHDKhas&security=tls&fp=chrome&sni=xgermany1.monkeykart.ir#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%98%81%EF%B8%8F%20Cloud
-trojan://b830dc97-840b-46cd-b667-e5e01427a10b@xfinland1.monkeykart.ir:443?type=ws&host=xfinland1.monkeykart.ir&path=/kasdsagdjk&security=tls&fp=chrome&sni=xfinland1.monkeykart.ir#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%98%81%EF%B8%8F%20Cloud
+trojan://b830dc97-840b-46cd-b667-e5e01427a10b@xgermany1.monkeykart.ir:443?type=ws&host=xgermany1.monkeykart.ir&path=/akdkSHDKhas&security=tls&fp=chrome&sni=xgermany1.monkeykart.ir#%F0%9F%87%A9%F0%9F%87%AA%20Germany
 
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.130.125.126:443?path=%2Frdfgtws&security=tls&encryption=none&host=vangoghhh.info&type=ws&sni=vangoghhh.info#%F0%9F%87%A9%F0%9F%87%AA
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#%F0%9F%87%A9%F0%9F%87%AA
