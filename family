@@ -2,4 +2,5 @@ vless://f90417b5-d7ce-4af7-8476-3b3d8c276223@104.17.54.44:2053?encryption=none&t
 vless://f90417b5-d7ce-4af7-8476-3b3d8c276223@104.16.146.114:8443?encryption=none&type=ws&host=shrill-poetry-f70c.gh-ghanbari62.workers.dev&path=/&security=tls&fp=chrome&sni=shrill-poetry-f70c.gh-ghanbari62.workers.dev#Aa64n
 vless://f90417b5-d7ce-4af7-8476-3b3d8c276223@57.129.47.72:8443?encryption=none&type=ws&host=shrill-poetry-f70c.gh-ghanbari62.workers.dev&path=/&security=tls&fp=chrome&sni=shrill-poetry-f70c.gh-ghanbari62.workers.dev#Aa64n%20
 
-
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@tjsp.hhxaf.cc.cd:443?type=ws&path=/&security=tls&sni=tjsp.hhxaf.cc.cd#%F0%9F%87%BA%F0%9F%87%B8%20US%202
+vmess://eyJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InRjcCIsInBvcnQiOiIxODAwMCIsInBzIjoiJUYwJTlGJTg3JUJBJUYwJTlGJTg3JUI4JTIwVVMlMjAxMSIsImFkZCI6IjY3LjIyMC45NS4zIiwicGF0aCI6IlwvIiwic2N5IjoiYWVzLTEyOC1nY20ifQ==
