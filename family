@@ -4,12 +4,18 @@ vless://f90417b5-d7ce-4af7-8476-3b3d8c276223@104.17.54.44:2053?encryption=none&t
 vless://f90417b5-d7ce-4af7-8476-3b3d8c276223@104.16.146.114:8443?encryption=none&type=ws&host=shrill-poetry-f70c.gh-ghanbari62.workers.dev&path=/&security=tls&fp=chrome&sni=shrill-poetry-f70c.gh-ghanbari62.workers.dev#Aa64n
 vless://f90417b5-d7ce-4af7-8476-3b3d8c276223@57.129.47.72:8443?encryption=none&type=ws&host=shrill-poetry-f70c.gh-ghanbari62.workers.dev&path=/&security=tls&fp=chrome&sni=shrill-poetry-f70c.gh-ghanbari62.workers.dev#Aa64n%20
 
+vless://3fa92976-551b-4805-b59e-e4f09db85e71@127.0.0.1:28618?encryption=none&host=127.0.0.1&path=%2F&security=none&type=ws#VpnStore%20-TG_8943272221_GmOz9LH
+vless://3fa92976-551b-4805-b59e-e4f09db85e71@d-a.lorqina.ir:2086?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=GR4Vf2qGFrq56Q1Z1YyxmvUrcpbBtw02fkDKv43KbUo&security=reality&sid=0b41f63c0ee9&sni=www.yahoo.com&spx=%2FjeXXTVCas0WjMj7&type=tcp#Reality%20-%20Germany%20%F0%9F%87%A9%F0%9F%87%AA%40germany-TG_8943272221_GmOz9LH
+vless://3fa92976-551b-4805-b59e-e4f09db85e71@u-s.lorqina.ir:12347?encryption=none&host=u-s.lorqina.ir&path=%2Fed%3D250&security=none&type=ws#ws%20-%20USA%20%F0%9F%87%BA%F0%9F%87%B8-TG_8943272221_GmOz9LH
+vless://3fa92976-551b-4805-b59e-e4f09db85e71@d-a.lorqina.ir:2082?encryption=none&host=d-a.lorqina.ir&path=%2Fed%3D250&security=none&type=ws#ws%20-%20Germany%20%F0%9F%87%A9%F0%9F%87%AA%40germany-TG_8943272221_GmOz9LH
+vless://3fa92976-551b-4805-b59e-e4f09db85e71@p-l.lorqina.ir:28978?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3uy61O2m5gnick-92Ce7OE-28ED3EVa1I4UVdW4T_1M&security=reality&sid=e1c581bbf42a&sni=www.yahoo.com&spx=%2FzNtoc8SrFve7Vqe&type=tcp#Poland%20%F0%9F%87%B5%F0%9F%87%B1%40poland-TG_8943272221_GmOz9LH
+vless://3fa92976-551b-4805-b59e-e4f09db85e71@t-r.lorqina.ir:2082?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qfi1IF21_4YMTUOdvhWNnh4oREPEfrEwe2SmEuw-6Sk&security=reality&sid=8d779a91b4d669f6&sni=www.yahoo.com&spx=%2FW6zaqIneKuDIAem&type=tcp#Reality%20-%20Turkey%20%F0%9F%87%B9%F0%9F%87%B7-TG_8943272221_GmOz9LH
+vless://3fa92976-551b-4805-b59e-e4f09db85e71@all.lorqina.ir:8880?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dISkAZV3LXVBa9yM02MoyFqajSLFqXrTj74ywRzKjiY&security=reality&sid=af83d5&sni=www.yahoo.com&spx=%2Fbx1K58k4X8xr3jm&type=tcp#Reality%20-%20Finland%20%F0%9F%87%AB%F0%9F%87%AE-TG_8943272221_GmOz9LH
+vless://3fa92976-551b-4805-b59e-e4f09db85e71@u-s.lorqina.ir:8080?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=T3vWH0zPUrOsgdK7cvEEnMbS3LIJDxQ17_L_GhmZJ0E&security=reality&sid=87b73235&sni=www.yahoo.com&spx=%2Fcsoy0wLL5bRwbXR&type=tcp#Reality%20-%20USA%20%F0%9F%87%BA%F0%9F%87%B8-TG_8943272221_GmOz9LH-423.99GB%F0%9F%93%8A-88D%2C3H%E2%8F%B3
 
 trojan://Mitivpn@151.101.56.6:443?path=%2Ffastly%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#new test
 vless://57152cbd-c714-5a00-8f44-07721fde8db5@217.179.5.62:443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#new teat
 vless://ef5e8ad2-9f17-4337-b4b3-9a91ea96f115@45.95.0.219:46292?security=&encryption=none&headerType=none&type=tcpnew teat
-
-
 
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@tjsp.hhxaf.cc.cd:443?type=ws&path=/&security=tls&sni=tjsp.hhxaf.cc.cd#%F0%9F%87%BA%F0%9F%87%B8%20US%202
 vmess://eyJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InRjcCIsInBvcnQiOiIxODAwMCIsInBzIjoiJUYwJTlGJTg3JUJBJUYwJTlGJTg3JUI4JTIwVVMlMjAxMSIsImFkZCI6IjY3LjIyMC45NS4zIiwicGF0aCI6IlwvIiwic2N5IjoiYWVzLTEyOC1nY20ifQ==
