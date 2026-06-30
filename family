@@ -12,3 +12,5 @@ vless://ef5e8ad2-9f17-4337-b4b3-9a91ea96f115@45.95.0.219:46292?security=&encrypt
 vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=6ba85179e30d4fc2#new test
 trojan://Mitivpn@151.101.56.6:443?path=%2Fde%3Dmitivpn&security=tls&alpn=h2&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#new test
 trojan://Mitivpn@151.101.110.219:443?path=%2Fde%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#new test
+
+vless://b4cd1c5e-9d41-4bef-8640-8361ca22d70e@GerGame2.soltankabos.ir:34821?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#%F0%9F%8E%AEOnly%20Game%E2%9D%97
