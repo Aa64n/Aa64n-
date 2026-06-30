@@ -8,10 +8,6 @@ trojan://Mitivpn@151.101.56.6:443?path=%2Ffastly%3Dmitivpn&security=tls&alpn=htt
 vless://57152cbd-c714-5a00-8f44-07721fde8db5@217.179.5.62:443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#new teat
 vless://ef5e8ad2-9f17-4337-b4b3-9a91ea96f115@45.95.0.219:46292?security=&encryption=none&headerType=none&type=tcpnew teat
 
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@tjsp.hhxaf.cc.cd:443?type=ws&path=/&security=tls&sni=tjsp.hhxaf.cc.cd#%F0%9F%87%BA%F0%9F%87%B8%20US%202
-vmess://eyJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InRjcCIsInBvcnQiOiIxODAwMCIsInBzIjoiJUYwJTlGJTg3JUJBJUYwJTlGJTg3JUI4JTIwVVMlMjAxMSIsImFkZCI6IjY3LjIyMC45NS4zIiwicGF0aCI6IlwvIiwic2N5IjoiYWVzLTEyOC1nY20ifQ==
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@tjsp.hhxaf.cc.cd:443?type=ws&path=/&security=tls&sni=tjsp.hhxaf.cc.cd#%F0%9F%87%BA%F0%9F%87%B8%20US%202
-
 vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=6ba85179e30d4fc2#new test
 trojan://Mitivpn@151.101.56.6:443?path=%2Fde%3Dmitivpn&security=tls&alpn=h2&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#new test
 trojan://Mitivpn@151.101.110.219:443?path=%2Fde%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#new test
