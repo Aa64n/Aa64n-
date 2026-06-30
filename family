@@ -11,3 +11,8 @@ vless://ef5e8ad2-9f17-4337-b4b3-9a91ea96f115@45.95.0.219:46292?security=&encrypt
 vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=6ba85179e30d4fc2#new test
 trojan://Mitivpn@151.101.56.6:443?path=%2Fde%3Dmitivpn&security=tls&alpn=h2&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#new test
 trojan://Mitivpn@151.101.110.219:443?path=%2Fde%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#new test
+
+trojan://RW9ApzRi2YpNmukvJYr839OR0Dku6yT8@193.233.136.157:2095?security=reality&type=tcp&headerType=none&sni=www.yahoo.com&fp=chrome&pbk=ngleDSKZ2uhcdaYeIUSVG4SQY3RqgeFYXjm6nY3QJQ4&sid=7052c4bd7aa85053#2_%F0%9D%97%99%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1%F0%9F%87%AB%F0%9F%87%AE
+vless://a35cd89c-7494-48e8-ab87-d3748a42c228@51.91.161.218:443?encryption=none&security=none&type=tcp&headerType=none#3_%F0%9F%87%AB%F0%9F%87%B7Franc
+trojan://RW9ApzRi2YpNmukvJYr839OR0Dku6yT8@155.103.71.224:2095?security=reality&type=tcp&headerType=none&sni=www.yahoo.com&fp=chrome&pbk=ngleDSKZ2uhcdaYeIUSVG4SQY3RqgeFYXjm6nY3QJQ4&sid=7052c4bd7aa85053#4_%F0%9F%87%B9%F0%9F%87%B7T%C3%BCrkiye
+trojan://RW9ApzRi2YpNmukvJYr839OR0Dku6yT8@93.115.240.146:2095?security=reality&type=tcp&headerType=none&sni=www.yahoo.com&fp=chrome&pbk=ngleDSKZ2uhcdaYeIUSVG4SQY3RqgeFYXjm6nY3QJQ4&sid=d8969f220ae60765#%F0%9F%87%A6%F0%9F%87%B2%20Armenia
