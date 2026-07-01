@@ -55,3 +55,13 @@ trojan://4naxa-Rl1yXOAP1x5OsEbYqtHS79BVFJ@193.233.136.157:2095?security=reality&
 vless://bab331c3-364a-4764-b41b-a52d072b28be@51.91.161.218:443?encryption=none&security=none&type=tcp&headerType=none#3_%F0%9F%87%AB%F0%9F%87%B7Franc
 trojan://4naxa-Rl1yXOAP1x5OsEbYqtHS79BVFJ@155.103.71.224:2095?security=reality&type=tcp&headerType=none&sni=www.yahoo.com&fp=chrome&pbk=ngleDSKZ2uhcdaYeIUSVG4SQY3RqgeFYXjm6nY3QJQ4&sid=d8969f220ae60765#4_%F0%9F%87%B9%F0%9F%87%B7T%C3%BCrkiye
 trojan://4naxa-Rl1yXOAP1x5OsEbYqtHS79BVFJ@93.115.240.146:2095?security=reality&type=tcp&headerType=none&sni=www.yahoo.com&fp=chrome&pbk=ngleDSKZ2uhcdaYeIUSVG4SQY3RqgeFYXjm6nY3QJQ4&sid=d8969f220ae60765#%F0%9F%87%A6%F0%9F%87%B2%20Armenia
+
+vless://08dece95-fba2-4f48-b4aa-2633f367c9b0@127.0.0.1:28618?encryption=none&host=127.0.0.1&path=%2F&security=none&type=ws#VpnStore%20-TG_8943272221_0qBiUYe
+vless://08dece95-fba2-4f48-b4aa-2633f367c9b0@127.0.0.1:41505?encryption=none&security=none&type=tcp#%E2%8F%AB%D8%B3%D8%A7%D8%A8%20%D8%B1%D8%A7%20%D8%A8%D8%B5%D9%88%D8%B1%D8%AA%20%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87%20%D8%A7%D9%BE%D8%AF%DB%8C%D8%AA%20%DA%A9%D9%86%DB%8C%D8%AF%E2%86%95%EF%B8%8F-TG_8943272221_0qBiUYe
+vless://08dece95-fba2-4f48-b4aa-2633f367c9b0@allnets.lorqina.ir:31369?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20ws-TG_8943272221_0qBiUYe
+vless://08dece95-fba2-4f48-b4aa-2633f367c9b0@allnets.lorqina.ir:11600?encryption=none&host=allnets.lorqina.ir&path=%2Fedp%3D3054&security=none&type=ws#%F0%9F%87%A6%F0%9F%87%BFAzarbaijan%20-%20ws-TG_8943272221_0qBiUYe
+vless://08dece95-fba2-4f48-b4aa-2633f367c9b0@allnets.lorqina.ir:21959?encryption=none&security=none&type=tcp#USA%20%20%F0%9F%87%BA%F0%9F%87%B8-TG_8943272221_0qBiUYe
+vless://08dece95-fba2-4f48-b4aa-2633f367c9b0@allnets.lorqina.ir:20279?encryption=none&security=none&type=tcp#Turkey%20%F0%9F%87%B9%F0%9F%87%B7-TG_8943272221_0qBiUYe
+vless://08dece95-fba2-4f48-b4aa-2633f367c9b0@allnets.lorqina.ir:41391?encryption=none&security=none&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE-TG_8943272221_0qBiUYe
+vless://08dece95-fba2-4f48-b4aa-2633f367c9b0@allnets.lorqina.ir:42470?encryption=none&security=none&type=tcp#Germany%20%F0%9F%87%A9%F0%9F%87%AA-TG_8943272221_0qBiUYe
+vless://08dece95-fba2-4f48-b4aa-2633f367c9b0@allnets.lorqina.ir:28228?encryption=none&security=none&type=tcp#Poland%20%F0%9F%87%B5%F0%9F%87%B1-TG_8943272221_0qBiUYe
