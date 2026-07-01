@@ -5,7 +5,10 @@ vless://64b7b148-63e8-42c1-8921-46ebe0279ea2@104.20.27.136:2095?path=%2F%3Fed%3D
 vless://f90417b5-d7ce-4af7-8476-3b3d8c276223@104.16.146.114:8443?encryption=none&type=ws&host=shrill-poetry-f70c.gh-ghanbari62.workers.dev&path=/&security=tls&fp=chrome&sni=shrill-poetry-f70c.gh-ghanbari62.workers.dev#Aa64n
 vless://f90417b5-d7ce-4af7-8476-3b3d8c276223@57.129.47.72:8443?encryption=none&type=ws&host=shrill-poetry-f70c.gh-ghanbari62.workers.dev&path=/&security=tls&fp=chrome&sni=shrill-poetry-f70c.gh-ghanbari62.workers.dev#Aa64n%20
 
-vless://9319c8e5-8394-4873-8e75-1ed5a23563ee@185.143.232.201:443?alpn=h3&fp=random&host=test-ariav.mc.filimo.cam&path=%2F0c16c6ec32586a51&security=tls&sni=test-ariav.mc.filimo.cam&type=ws#test-1004
+vless://eecdb13a-156e-4e4a-ae82-701c9a769505@104.17.51.108:2053?encryption=none&type=ws&host=node-8682474174-84369c.kianazimi491.workers.dev&path=/&security=tls&fp=chrome&sni=node-8682474174-84369c.kianazimi491.workers.dev#ersal
+vless://eecdb13a-156e-4e4a-ae82-701c9a769505@8.39.125.190:443?encryption=none&type=ws&host=node-8682474174-84369c.kianazimi491.workers.dev&path=/&security=tls&fp=chrome&sni=node-8682474174-84369c.kianazimi491.workers.dev#ersal
+vless://eecdb13a-156e-4e4a-ae82-701c9a769505@104.17.211.156:443?encryption=none&type=ws&host=node-8682474174-84369c.kianazimi491.workers.dev&path=/&security=tls&fp=chrome&sni=node-8682474174-84369c.kianazimi491.workers.dev#ersal
+vless://eecdb13a-156e-4e4a-ae82-701c9a769505@104.17.191.51:2096?encryption=none&type=ws&host=node-8682474174-84369c.kianazimi491.workers.dev&path=/&security=tls&fp=chrome&sni=node-8682474174-84369c.kianazimi491.workers.dev#ersal
 
 trojan://Mitivpn@151.101.56.6:443?path=%2Ffastly%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#new test
 vless://57152cbd-c714-5a00-8f44-07721fde8db5@217.179.5.62:443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#new teat
