@@ -1,3 +1,4 @@
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL&security=tls&encryption=none&insecure=0&host=kingcloud.biack.ir&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#test1104
 trojan://humanity@89.116.46.8:443?type=ws&host=www.calmloud.com&path=/assignment&security=tls&fp=chrome&sni=www.calmloud.com&alpn=http/1.1#%D8%AA%D8%B3%D9%84%DB%8C%D8%AA%20%D8%A7%DB%8C%D8%A7%D9%85%E2%98%80%EF%B8%8F
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@64.31.63.244:8881?#Paris%20-%20804
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@109.104.154.163:2375?#Amsterdam%20-%203373
