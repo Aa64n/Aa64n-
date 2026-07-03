@@ -1,15 +1,4 @@
-vless://5e8add97-7e48-458a-a000-32d0d6fa253e@49.12.223.56:77?security=reality&encryption=none&pbk=YIS21Us01vvEWciseLt5XTs1XxHw8qb7VTieHiU62Tk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=7624e21b69ee5f0f#test1204
-trojan://xb7lzBD1UAkOKgx14LgiCUGSSIrU0LX3@193.233.136.157:2095?security=reality&type=tcp&headerType=none&sni=www.yahoo.com&fp=chrome&pbk=ngleDSKZ2uhcdaYeIUSVG4SQY3RqgeFYXjm6nY3QJQ4&sid=7052c4bd7aa85053#2_%F0%9D%97%99%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1%F0%9F%87%AB%F0%9F%87%AE
-vless://33dcbf12-5c4e-4270-8bf1-a8ebfd3b3370@51.91.161.218:443?encryption=none&security=none&type=tcp&headerType=none#3_%F0%9F%87%AB%F0%9F%87%B7Franc
-trojan://xb7lzBD1UAkOKgx14LgiCUGSSIrU0LX3@155.103.71.224:2095?security=reality&type=tcp&headerType=none&sni=www.yahoo.com&fp=chrome&pbk=ngleDSKZ2uhcdaYeIUSVG4SQY3RqgeFYXjm6nY3QJQ4&sid=d8969f220ae60765#4_%F0%9F%87%B9%F0%9F%87%B7T%C3%BCrkiye
-trojan://xb7lzBD1UAkOKgx14LgiCUGSSIrU0LX3@93.115.240.146:2095?security=reality&type=tcp&headerType=none&sni=www.yahoo.com&fp=chrome&pbk=ngleDSKZ2uhcdaYeIUSVG4SQY3RqgeFYXjm6nY3QJQ4&sid=7052c4bd7aa85053#%F0%9F%87%A6%F0%9F%87%B2%20Armenia
 
-vless://a5c05c1e-aa68-443f-8598-09800244bd4b@188.114.98.193:443?path=%2FLiL%3Fed%3D512&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#new1204
-vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D%23TELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy%3Fed%3D512&security=tls&alpn=h3&encryption=none&insecure=1&fp=firefox&type=ws&allowInsecure=1&sni=kingcloud.biack.ir#new1204
-trojan://SoftNetConnect@147.45.70.129:8443?type=tcp&security=reality&headerType=none&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&sid=c7&spx=%2F#new1204
-
-
-vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL&security=tls&encryption=none&insecure=0&host=kingcloud.biack.ir&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#test1104
 trojan://humanity@89.116.46.8:443?type=ws&host=www.calmloud.com&path=/assignment&security=tls&fp=chrome&sni=www.calmloud.com&alpn=http/1.1#%D8%AA%D8%B3%D9%84%DB%8C%D8%AA%20%D8%A7%DB%8C%D8%A7%D9%85%E2%98%80%EF%B8%8F
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@64.31.63.244:8881?#Paris%20-%20804
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@109.104.154.163:2375?#Amsterdam%20-%203373
@@ -27,9 +16,3 @@ vless://eecdb13a-156e-4e4a-ae82-701c9a769505@104.17.51.108:2053?encryption=none&
 vless://eecdb13a-156e-4e4a-ae82-701c9a769505@8.39.125.190:443?encryption=none&type=ws&host=node-8682474174-84369c.kianazimi491.workers.dev&path=/&security=tls&fp=chrome&sni=node-8682474174-84369c.kianazimi491.workers.dev#ersal
 vless://eecdb13a-156e-4e4a-ae82-701c9a769505@104.17.211.156:443?encryption=none&type=ws&host=node-8682474174-84369c.kianazimi491.workers.dev&path=/&security=tls&fp=chrome&sni=node-8682474174-84369c.kianazimi491.workers.dev#ersal
 vless://eecdb13a-156e-4e4a-ae82-701c9a769505@104.17.191.51:2096?encryption=none&type=ws&host=node-8682474174-84369c.kianazimi491.workers.dev&path=/&security=tls&fp=chrome&sni=node-8682474174-84369c.kianazimi491.workers.dev#ersal
-
-vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=6ba85179e30d4fc2#new test
-trojan://Mitivpn@151.101.56.6:443?path=%2Fde%3Dmitivpn&security=tls&alpn=h2&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#new test
-trojan://Mitivpn@151.101.110.219:443?path=%2Fde%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#new test
-
-vless://235bd217-72ee-400d-eecc-c3979da1c848@s1.zynavo.ir:2087?allowInsecure=1&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=sub.zynavo.ir&mode=auto&path=%2FBetForward&pcs=cfaf89f7dc2bc4364ecd891d7937642c0ae54a91536850ab6b32a68064c8b084&security=tls&sni=sub.zynavo.ir&type=xhttp&x_padding_bytes=100-1000#test1204
