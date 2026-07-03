@@ -102,3 +102,4 @@ vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&
 trojan://Mitivpn@151.101.56.6:443?path=%2Fde%3Dmitivpn&security=tls&alpn=h2&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#new test
 trojan://Mitivpn@151.101.110.219:443?path=%2Fde%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#new test
 
+vless://235bd217-72ee-400d-eecc-c3979da1c848@s1.zynavo.ir:2087?allowInsecure=1&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=sub.zynavo.ir&mode=auto&path=%2FBetForward&pcs=cfaf89f7dc2bc4364ecd891d7937642c0ae54a91536850ab6b32a68064c8b084&security=tls&sni=sub.zynavo.ir&type=xhttp&x_padding_bytes=100-1000#test1204
