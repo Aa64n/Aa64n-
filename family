@@ -102,9 +102,3 @@ vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&
 trojan://Mitivpn@151.101.56.6:443?path=%2Fde%3Dmitivpn&security=tls&alpn=h2&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#new test
 trojan://Mitivpn@151.101.110.219:443?path=%2Fde%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#new test
 
-trojan://y5KQE43FBYx0RdoPfxBUrjpkc3qHLTc2@193.233.136.157:2095?security=reality&type=tcp&headerType=none&sni=www.yahoo.com&fp=chrome&pbk=ngleDSKZ2uhcdaYeIUSVG4SQY3RqgeFYXjm6nY3QJQ4&sid=d8969f220ae60765#2_%F0%9D%97%99%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1%F0%9F%87%AB%F0%9F%87%AE
-vless://16d90bcc-3475-45d4-bb0a-791edbf54844@51.91.161.218:443?encryption=none&security=none&type=tcp&headerType=none#3_%F0%9F%87%AB%F0%9F%87%B7Franc
-trojan://y5KQE43FBYx0RdoPfxBUrjpkc3qHLTc2@155.103.71.224:2095?security=reality&type=tcp&headerType=none&sni=www.yahoo.com&fp=chrome&pbk=ngleDSKZ2uhcdaYeIUSVG4SQY3RqgeFYXjm6nY3QJQ4&sid=d8969f220ae60765#4_%F0%9F%87%B9%F0%9F%87%B7T%C3%BCrkiye
-trojan://y5KQE43FBYx0RdoPfxBUrjpkc3qHLTc2@93.115.240.146:2095?security=reality&type=tcp&headerType=none&sni=www.yahoo.com&fp=chrome&pbk=ngleDSKZ2uhcdaYeIUSVG4SQY3RqgeFYXjm6nY3QJQ4&sid=7052c4bd7aa85053#%F0%9F%87%A6%F0%9F%87%B2%20Armenia
-
-
