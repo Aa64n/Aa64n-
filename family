@@ -50,3 +50,15 @@ vless://ce32f5ec-307e-4d3b-b21f-25018fdb7d96@sho1781056.dadashinet10.ir:2044?enc
 vless://ce32f5ec-307e-4d3b-b21f-25018fdb7d96@Nkoihgf.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%87%B9%F0%9F%87%B7%20%F0%9D%97%9C%F0%9D%98%80%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%AF%F0%9D%98%82%F0%9D%97%B91
 vless://ce32f5ec-307e-4d3b-b21f-25018fdb7d96@aoe5119534.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%87%A6%F0%9F%87%AA%20%F0%9D%97%97%F0%9D%98%82%F0%9D%97%AF%F0%9D%97%AE%F0%9D%97%B6
 vless://ce32f5ec-307e-4d3b-b21f-25018fdb7d96@udf4532193.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%87%BA%F0%9F%87%B8%20Dallas
+
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.12.31.220:443?encryption=none&type=ws&security=tls&path=%2Frdfgtws&host=vangoghhh.info&sni=vangoghhh.info&insecure=0&allowInsecure=0#1https://t.me/ConfigX2ray
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.131.211.136:443?encryption=none&type=ws&security=tls&path=%2Frdfgtws&host=vangoghhh.info&sni=vangoghhh.info&insecure=0&allowInsecure=0#2https://t.me/ConfigX2ray
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.80.111.60:443?encryption=none&type=ws&security=tls&path=%2Frdfgtws&host=vangoghhh.info&sni=vangoghhh.info&insecure=0&allowInsecure=0#3https://t.me/ConfigX2ray
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.145:443?type=tcp&security=tls&headerType=none&insecure=0&allowInsecure=0#4https://t.me/ConfigX2ray
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.42.89.157:443?encryption=none&type=ws&security=tls&path=%2F&host=vpn47.cc.cd&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0#5https://t.me/ConfigX2ray
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.7.215:443?encryption=none&type=ws&security=tls&path=%2F&host=vpn47.cc.cd&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0#6https://t.me/ConfigX2ray
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.7.215:443?encryption=none&type=ws&security=tls&path=%2F&host=vpn47.cc.cd&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0#7https://t.me/ConfigX2ray
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.8.211.14:443?encryption=none&type=ws&security=tls&path=%2F&host=vpn47.cc.cd&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0#9https://t.me/ConfigX2ray
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca27.speedmeter.shop:8880?encryption=none&type=grpc&mode=gun#10https://t.me/ConfigX2ray
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?encryption=none&type=ws&security=tls&path=%2Frdfgtws&host=vangoghhh.info&sni=vangoghhh.info&insecure=0&allowInsecure=0#11https://t.me/ConfigX2ray
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?encryption=none&type=ws&security=tls&path=%2Frdfgtws&host=vangoghhh.info&sni=vangoghhh.info&insecure=0&allowInsecure=0#12https://t.me/ConfigX2ray
