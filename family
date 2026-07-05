@@ -18,10 +18,10 @@ vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.18.153.10:443?encryption=none&t
 vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.70:2096?encryption=none&type=ws&host=sp.linuxdododo.ccwu.cc&path=/proxyip&security=tls&fp=chrome&sni=sp.linuxdododo.ccwu.cc#ARISTA
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?encryption=none&type=ws&path=/LiL?ed&security=tls&fp=firefox&sni=kingcloud.biack.ir&alpn=h3#ARISTA
 
-vless://eecdb13a-156e-4e4a-ae82-701c9a769505@104.17.51.108:2053?encryption=none&type=ws&host=node-8682474174-84369c.kianazimi491.workers.dev&path=/&security=tls&fp=chrome&sni=node-8682474174-84369c.kianazimi491.workers.dev#ersal
-vless://eecdb13a-156e-4e4a-ae82-701c9a769505@8.39.125.190:443?encryption=none&type=ws&host=node-8682474174-84369c.kianazimi491.workers.dev&path=/&security=tls&fp=chrome&sni=node-8682474174-84369c.kianazimi491.workers.dev#ersal
-vless://eecdb13a-156e-4e4a-ae82-701c9a769505@104.17.211.156:443?encryption=none&type=ws&host=node-8682474174-84369c.kianazimi491.workers.dev&path=/&security=tls&fp=chrome&sni=node-8682474174-84369c.kianazimi491.workers.dev#ersal
-vless://eecdb13a-156e-4e4a-ae82-701c9a769505@104.17.191.51:2096?encryption=none&type=ws&host=node-8682474174-84369c.kianazimi491.workers.dev&path=/&security=tls&fp=chrome&sni=node-8682474174-84369c.kianazimi491.workers.dev#ersal
+vless://eecdb13a-156e-4e4a-ae82-701c9a769505@104.17.151.25:443?encryption=none&type=ws&host=node-8682474174-84369c.kianazimi491.workers.dev&path=/&security=tls&fp=chrome&sni=node-8682474174-84369c.kianazimi491.workers.dev#Aa64n-ersal
+vless://eecdb13a-156e-4e4a-ae82-701c9a769505@104.17.122.47:443?encryption=none&type=ws&host=node-8682474174-84369c.kianazimi491.workers.dev&path=/&security=tls&fp=chrome&sni=node-8682474174-84369c.kianazimi491.workers.dev#Aa64n-ersal
+vless://eecdb13a-156e-4e4a-ae82-701c9a769505@104.16.251.255:2053?encryption=none&type=ws&host=node-8682474174-84369c.kianazimi491.workers.dev&path=/&security=tls&fp=chrome&sni=node-8682474174-84369c.kianazimi491.workers.dev#Aa64n-ersal
+vless://eecdb13a-156e-4e4a-ae82-701c9a769505@104.26.2.108:443?encryption=none&type=ws&host=node-8682474174-84369c.kianazimi491.workers.dev&path=/&security=tls&fp=chrome&sni=node-8682474174-84369c.kianazimi491.workers.dev#Aa64n-ersal
 
 vless://a665dc0e-cedf-42bd-a201-97073deb571a@24cafe.ir:80?encryption=none&type=ws&host=zeus-panel-ibde7n.gh-ghanbari62.workers.dev&path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=none#Aa64n%20%20%7C%20%E2%80%8E24cafe.ir%20%7C%20%E2%80%8E80
 vless://a665dc0e-cedf-42bd-a201-97073deb571a@172.67.151.133:80?encryption=none&type=ws&host=zeus-panel-ibde7n.gh-ghanbari62.workers.dev&path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=none#Aa64n%20%20%7C%20%E2%80%8E172.67.151.133%20%7C%20%E2%80%8E80
