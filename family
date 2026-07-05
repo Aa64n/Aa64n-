@@ -14,9 +14,13 @@ vless://64b7b148-63e8-42c1-8921-46ebe0279ea2@104.20.27.136:2095?path=%2F%3Fed%3D
 vless://f90417b5-d7ce-4af7-8476-3b3d8c276223@104.16.146.114:8443?encryption=none&type=ws&host=shrill-poetry-f70c.gh-ghanbari62.workers.dev&path=/&security=tls&fp=chrome&sni=shrill-poetry-f70c.gh-ghanbari62.workers.dev#Aa64n
 vless://f90417b5-d7ce-4af7-8476-3b3d8c276223@57.129.47.72:8443?encryption=none&type=ws&host=shrill-poetry-f70c.gh-ghanbari62.workers.dev&path=/&security=tls&fp=chrome&sni=shrill-poetry-f70c.gh-ghanbari62.workers.dev#Aa64n%20
 
-vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.18.153.10:443?encryption=none&type=ws&host=nbhhh.mrcool.kdns.fr&path=/proxyip&security=tls&sni=nbhhh.mrcool.kdns.fr#ARISTA
-vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.70:2096?encryption=none&type=ws&host=sp.linuxdododo.ccwu.cc&path=/proxyip&security=tls&fp=chrome&sni=sp.linuxdododo.ccwu.cc#ARISTA
-vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?encryption=none&type=ws&path=/LiL?ed&security=tls&fp=firefox&sni=kingcloud.biack.ir&alpn=h3#ARISTA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:8080?type=tcp#ARISTA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080?type=tcp#ARISTA
+trojan://Ldbgt4IUYv0S+5cFrG4vcWEbvdf8RgPGmoIXhnnOEh4=@65.109.208.236:54673?type=tcp&security=none#ARISTA
+vmess://eyJzY3kiOiJhdXRvIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwidHlwZSI6Im5vbmUiLCJwb3J0IjoiMTgwIiwicHMiOiJBUklTVEEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJob3N0IjoiIn0=
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&sni=hy2.aspidnet.xyz&insecure=0#ARISTA
+vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?encryption=none&type=tcp&headerType=none&host=/?BIA_TELEGRAM@vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr&security=reality&fp=firefox&sni=prod.de-node-01.security-sbrf.ru&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&sid=db04ce8bdb8900f1#ARISTA
+
 
 vless://eecdb13a-156e-4e4a-ae82-701c9a769505@104.17.151.25:443?encryption=none&type=ws&host=node-8682474174-84369c.kianazimi491.workers.dev&path=/&security=tls&fp=chrome&sni=node-8682474174-84369c.kianazimi491.workers.dev#Aa64n-ersal
 vless://eecdb13a-156e-4e4a-ae82-701c9a769505@104.17.122.47:443?encryption=none&type=ws&host=node-8682474174-84369c.kianazimi491.workers.dev&path=/&security=tls&fp=chrome&sni=node-8682474174-84369c.kianazimi491.workers.dev#Aa64n-ersal
