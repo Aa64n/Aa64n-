@@ -7,6 +7,8 @@ vless://f8cae104-2eaa-4b16-b258-65be28281b70@u-cvds-s-vfdsds-a-dc.codesystem.ir:
 vless://f8cae104-2eaa-4b16-b258-65be28281b70@145.239.30.75:2026?encryption=none&security=reality&type=tcp&headerType=none&sni=yahoo.com&fp=firefox&pbk=484wYbkS2hs2WSdXmk2-bOeKZkdBbzdD7uZ1WmRIEj8&sid=ca930e5d4a603c6a#%F0%9F%87%B5%F0%9F%87%B1%20%F0%9D%97%A3%F0%9D%97%BC%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1%20Reality
 vless://f8cae104-2eaa-4b16-b258-65be28281b70@ca.codinos.ir:2026?encryption=none&security=reality&type=tcp&headerType=none&sni=yahoo.com&fp=chrome&pbk=484wYbkS2hs2WSdXmk2-bOeKZkdBbzdD7uZ1WmRIEj8&sid=ca930e5d4a603c6a#%F0%9F%87%A8%F0%9F%87%A6%20%F0%9D%97%96%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%AE%F0%9D%97%B1%F0%9D%97%AE%20Reality
 
+vless://e1c7f7ce-5bf8-41a8-87d5-896d2659f08a@turki.gelqino.ir:17830?encryption=none&host=&path=%2Fvless&security=none&type=ws#Turki-vip
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:8080?type=tcp#ARISTA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080?type=tcp#ARISTA
 trojan://Ldbgt4IUYv0S+5cFrG4vcWEbvdf8RgPGmoIXhnnOEh4=@65.109.208.236:54673?type=tcp&security=none#ARISTA
