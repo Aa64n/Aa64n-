@@ -1,6 +1,8 @@
-vless://6ac4e892-2204-4330-9cd0-7c137f86dfab@smd.softupdl.ir:55974?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=Play.google.com#%F0%9F%87%B9%F0%9F%87%B7%20Turkey
-vless://6ac4e892-2204-4330-9cd0-7c137f86dfab@smd.softupdl.ir:56792?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%87%B3%F0%9F%87%B1Netherland
-vless://6ac4e892-2204-4330-9cd0-7c137f86dfab@smd.softupdl.ir:13908?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=Play.google.com#%F0%9F%87%AB%F0%9F%87%B7France
+vless://6ac4e892-2204-4330-9cd0-7c137f86dfab@Samd.softupdl.ir:55974?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=Play.google.com#%F0%9F%87%B9%F0%9F%87%B7%20Turkey
+vless://6ac4e892-2204-4330-9cd0-7c137f86dfab@Samd.softupdl.ir:56792?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%87%B3%F0%9F%87%B1Netherland
+vless://6ac4e892-2204-4330-9cd0-7c137f86dfab@Samd.softupdl.ir:13908?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=Play.google.com#%F0%9F%87%AB%F0%9F%87%B7France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4UkxZZDc4NFF4V2MzYV9NSW9ScE0wSnBpVnhpSlc5eg==@Google.com:15877#Aa64n
+
 
 trojan://4aFbwy5BHa@151.101.34.144:443?type=xhttp&mode=packet-up&host=edgezvx.global.ssl.fastly.net&path=/db&security=tls&fp=firefox&sni=global.fastly.com&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN#ARISTA
 trojan://itX52H4tiA@151.101.34.144:443?type=xhttp&mode=packet-up&host=networkzvx.global.ssl.fastly.net&path=/da&security=tls&fp=firefox&sni=global.fastly.com&alpn=h2,http/1.1#ARISTA
