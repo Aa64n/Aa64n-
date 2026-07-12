@@ -2,12 +2,11 @@ vless://6ac4e892-2204-4330-9cd0-7c137f86dfab@smd.softupdl.ir:55974?encryption=no
 vless://6ac4e892-2204-4330-9cd0-7c137f86dfab@smd.softupdl.ir:56792?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%87%B3%F0%9F%87%B1Netherland
 vless://6ac4e892-2204-4330-9cd0-7c137f86dfab@smd.softupdl.ir:13908?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=Play.google.com#%F0%9F%87%AB%F0%9F%87%B7France
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:8080?type=tcp#ARISTA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080?type=tcp#ARISTA
-trojan://Ldbgt4IUYv0S+5cFrG4vcWEbvdf8RgPGmoIXhnnOEh4=@65.109.208.236:54673?type=tcp&security=none#ARISTA
-vmess://eyJzY3kiOiJhdXRvIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwidHlwZSI6Im5vbmUiLCJwb3J0IjoiMTgwIiwicHMiOiJBUklTVEEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJob3N0IjoiIn0=
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&sni=hy2.aspidnet.xyz&insecure=0#ARISTA
-vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?encryption=none&type=tcp&headerType=none&host=/?BIA_TELEGRAM@vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr&security=reality&fp=firefox&sni=prod.de-node-01.security-sbrf.ru&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&sid=db04ce8bdb8900f1#ARISTA
+trojan://4aFbwy5BHa@151.101.34.144:443?type=xhttp&mode=packet-up&host=edgezvx.global.ssl.fastly.net&path=/db&security=tls&fp=firefox&sni=global.fastly.com&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN#ARISTA
+trojan://itX52H4tiA@151.101.34.144:443?type=xhttp&mode=packet-up&host=networkzvx.global.ssl.fastly.net&path=/da&security=tls&fp=firefox&sni=global.fastly.com&alpn=h2,http/1.1#ARISTA
+trojan://humanity@162.159.38.119:443?type=ws&host=www.calmloud.com&path=/assignment&security=tls&sni=www.calmloud.com#ARISTA
+vmess://eyJwcyI6IkFSSVNUQSIsInBhdGgiOiIiLCJpZCI6Ijk1OGY1OTQwLWRlM2QtNDQ2Ni1iYjMwLWI2MDU5OTNkYjI3ZSIsImFkZCI6IjIuMjYuNy41OSIsInNjeSI6ImF1dG8iLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiMTEwIn0=
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?encryption=none&type=ws&host=vangoghhh.info&path=/rdfgtws&security=tls&sni=vangoghhh.info#ARISTA
 
 vless://ce7b5735-4bff-4d44-b81f-9b3a89f7209b@104.21.29.235:8080?encryption=none&type=ws&host=zeus-panel-zri42l.gh-ghanbari62.workers.dev&path=/PANEL_ZEUS&security=none&fragment=200-3000,1-2,#Aa64n%20%20%7C%20%E2%80%8E104.21.29.235%20%7C%20%E2%80%8E8080
 vless://ce7b5735-4bff-4d44-b81f-9b3a89f7209b@172.67.208.226:80?encryption=none&type=ws&host=zeus-panel-zri42l.gh-ghanbari62.workers.dev&path=/PANEL_ZEUS&security=none&fragment=200-3000,1-2,#Aa64n%20%20%7C%20%E2%80%8E172.67.208.226%20%7C%20%E2%80%8E80
