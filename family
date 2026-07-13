@@ -1,3 +1,4 @@
+socks://Og==@62.60.210.173:1080?type=tcp#socks
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.108.90:22222?encryption=none&type=tcp&headerType=none&security=none#new%20configuration%20
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.156.92.136:22222?encryption=none&type=tcp&headerType=none&security=none#new%20configuration%20
 trojan://MITIVPN@162.159.38.62:443?type=ws&host=bvck-oizksj-sWin-usje-C-o.Maqror.ir&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN%3DU-s-W&security=tls&fp=chrome&sni=Win-use-Cv-o.Maqror.ir&alpn=http/1.1#new%20configuration%20
