@@ -4,7 +4,7 @@ vless://6ac4e892-2204-4330-9cd0-7c137f86dfab@Samd.softupdl.ir:13908?encryption=n
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4UkxZZDc4NFF4V2MzYV9NSW9ScE0wSnBpVnhpSlc5eg==@Google.com:15877#Aa64n
 
 
-trojan://4aFbwy5BHa@151.101.34.144:443?type=xhttp&mode=packet-up&host=edgezvx.global.ssl.fastly.net&path=/db&security=tls&fp=firefox&sni=global.fastly.com&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN#ARISTA
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ0LVRldHMiLAogICJhZGQiOiAicGFycnN3ZWIuc2l0ZSIsCiAgInBvcnQiOiA0NDMsCiAgImlkIjogIjkzNzJkNmFkLTEwNzItNDE0Yy05YTY0LTY2YzFjMGUwMjQyNyIsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogInRjcCIsCiAgInRscyI6ICJub25lIiwKICAidHlwZSI6ICJub25lIgp9
 trojan://itX52H4tiA@151.101.34.144:443?type=xhttp&mode=packet-up&host=networkzvx.global.ssl.fastly.net&path=/da&security=tls&fp=firefox&sni=global.fastly.com&alpn=h2,http/1.1#ARISTA
 trojan://humanity@162.159.38.119:443?type=ws&host=www.calmloud.com&path=/assignment&security=tls&sni=www.calmloud.com#ARISTA
 vmess://eyJwcyI6IkFSSVNUQSIsInBhdGgiOiIiLCJpZCI6Ijk1OGY1OTQwLWRlM2QtNDQ2Ni1iYjMwLWI2MDU5OTNkYjI3ZSIsImFkZCI6IjIuMjYuNy41OSIsInNjeSI6ImF1dG8iLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiMTEwIn0=
