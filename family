@@ -5,6 +5,10 @@ trojan://MITIVPN@162.159.38.62:443?type=ws&host=bvck-oizksj-sWin-usje-C-o.Maqror
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.119:8443?encryption=none&type=ws&host=t1s1.rittbo.kdns.fr&path=/&security=tls&fp=chrome&sni=t1s1.rittbo.kdns.fr#new%20configuration%20
 vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@199.232.9.94:443?encryption=none&type=ws&host=hamshahriesfahan.com&path=/vip1%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed%3D512&security=tls&fp=chrome&sni=speedtest.net&alpn=h2&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e#new%20configuration%20
 
+vless://10ccd4b1-d394-4836-bb86-aae27e4e3887@Samd.softupdl.ir:55974?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=Play.google.com#%F0%9F%87%B9%F0%9F%87%B7%20Turkey
+vless://10ccd4b1-d394-4836-bb86-aae27e4e3887@Samd.softupdl.ir:56792?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%87%B3%F0%9F%87%B1Netherland
+vless://10ccd4b1-d394-4836-bb86-aae27e4e3887@Samd.softupdl.ir:13908?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=Play.google.com#%F0%9F%87%AB%F0%9F%87%B7France
+
 trojan://itX52H4tiA@151.101.34.144:443?type=xhttp&mode=packet-up&host=networkzvx.global.ssl.fastly.net&path=/da&security=tls&fp=firefox&sni=global.fastly.com&alpn=h2,http/1.1#ARISTA
 trojan://humanity@162.159.38.119:443?type=ws&host=www.calmloud.com&path=/assignment&security=tls&sni=www.calmloud.com#ARISTA
 vmess://eyJwcyI6IkFSSVNUQSIsInBhdGgiOiIiLCJpZCI6Ijk1OGY1OTQwLWRlM2QtNDQ2Ni1iYjMwLWI2MDU5OTNkYjI3ZSIsImFkZCI6IjIuMjYuNy41OSIsInNjeSI6ImF1dG8iLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiMTEwIn0=
