@@ -1,8 +1,4 @@
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.exodnsdir.xyz:8880?encryption=none&security=none&type=grpc&mode=gun&authority=&serviceName=#🇩🇪All¹¹ | @BigSmoke_Config
-vless://0a268813-7200-4d23-9851-74568928fc82@xn--dash-4o53c.xn--ir-nz82a.netbazshop.ir:2095?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#🇩🇪All¹² | @BigSmoke_Config
-vless://ccdd1c00-219c-43ba-b7e2-fc6d2fdf4ebb@65.109.167.134:80?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#🇩🇪All¹³ | @BigSmoke_Config
-vless://1b73f053-2709-4698-bbec-cb20e8a5f288@panel3.nanaweb.ir:3031?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#🇩🇪All¹⁴ | @BigSmoke_Config
-vless://b5de4c73-c3b6-4b46-8cab-d25b12c9d6bc@euo1r.pastilbastani.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#🇩🇪All¹⁵ | @BigSmoke_Config
+
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.44.159:443?security=reality&encryption=none&pbk=RurLbpOTStqCjS3lhwB0d3MEZ3629j3atv_r1dT5zjM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=5.oncloudnineservicestreang.com&sid=273940fba6ad8250#%F0%9D%9A%8B%F0%9D%9A%95%F0%9D%9A%8A%F0%9D%9A%8C%F0%9D%9A%94%20%F0%9D%9A%8B%F0%9D%9A%98%F0%9D%9A%A1%20%20
 vless://73796e63-0000-4000-8000-000000000000@104.16.174.164:443?path=%2Fsync&security=tls&encryption=none&insecure=0&host=wireguard.ahmad-kh5716.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=wireguard.ahmad-kh5716.workers.dev#new test3🎱
 vless://ehda@69.46.46.157:443?path=%2Fws%2Fehda&security=tls&encryption=none&alpn=http%2F1.1&host=node-6917430897-46d9b7-production.up.railway.app&fp=chrome&type=ws&sni=node-6917430897-46d9b7-production.up.railway.app#new test2✨🔥
@@ -27,15 +23,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@194.124.229.13
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@184.75.221.134:1080#%40V2_MOD_SHOP-17
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@217.138.213.38:1080#%40V2_MOD_SHOP-20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@89.187.160.73:1080#%40V2_MOD_SHOP-19
-Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.212.170.58:1080#%40V2_MOD_SHOP-21
-vless://1b73f053-2709-4698-bbec-cb20e8a5f288@gov.viranix.ir:10043?security=reality&encryption=none&pbk=RsO3PRzPHqGLfioO6C1kQOWatqjo15KnUUbkdE7VKEs&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=8ffa8cbc6d67cffa#Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%87%A9%F0%9F%87%AA
-vless://1b73f053-2709-4698-bbec-cb20e8a5f288@gov.viranix.ir:1080?security=reality&encryption=none&pbk=RsO3PRzPHqGLfioO6C1kQOWatqjo15KnUUbkdE7VKEs&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=8ffa8cbc6d67cffa#Germany%20%F0%9F%87%A9%F0%9F%87%AA
-vless://1b73f053-2709-4698-bbec-cb20e8a5f288@gov.viranix.ir:10015?security=reality&encryption=none&pbk=RsO3PRzPHqGLfioO6C1kQOWatqjo15KnUUbkdE7VKEs&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=8ffa8cbc6d67cffa#Belgium%20-%20Brussels%20%F0%9F%87%A7%F0%9F%87%AA
-vless://1b73f053-2709-4698-bbec-cb20e8a5f288@gov-eu.viranix.ir:3031?security=&encryption=none&headerType=http&type=tcp#Germany%20-%202%20%F0%9F%87%A9%F0%9F%87%AA
-vless://1b73f053-2709-4698-bbec-cb20e8a5f288@gov.viranix.ir:10071?security=reality&encryption=none&pbk=RsO3PRzPHqGLfioO6C1kQOWatqjo15KnUUbkdE7VKEs&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=8ffa8cbc6d67cffa#Monaco%20-%20Monte%20Carlo%20%F0%9F%87%B2%F0%9F%87%A8
-vless://1b73f053-2709-4698-bbec-cb20e8a5f288@h1.zynovax.ir:1080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Germany%20-%20%D9%85%D9%88%D9%82%D8%AA%20%F0%9F%87%A9%F0%9F%87%AA
-vless://1b73f053-2709-4698-bbec-cb20e8a5f288@n2.zynovax.ir:1080?security=reality&encryption=none&pbk=jDj_1a2AOXOZ_bRkgqvb0tMXjTier75usgndNVdOHTU&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=2926c493071e7380#Turkey%20-%20gaming%20%F0%9F%87%B9%F0%9F%87%B7%20
-vless://1b73f053-2709-4698-bbec-cb20e8a5f288@gov.viranix.ir:10068?security=reality&encryption=none&pbk=RsO3PRzPHqGLfioO6C1kQOWatqjo15KnUUbkdE7VKEs&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=8ffa8cbc6d67cffa#Marocco%20-%20Rabat%20%F0%9F%87%B2%F0%9F%87%A6
 
 vless://a515a71a-428d-45ef-8a41-8bbe04616e0e@104.17.118.132:2083?encryption=none&type=ws&host=nova-pearl-cloud-6a58.gh-ghanbari62.workers.dev&path=/&security=tls&fp=chrome&sni=nova-pearl-cloud-6a58.gh-ghanbari62.workers.dev#new%20panel-fast✨🔥✨
 vless://a515a71a-428d-45ef-8a41-8bbe04616e0e@104.17.118.132:2083?encryption=none&type=ws&host=nova-pearl-cloud-6a58.gh-ghanbari62.workers.dev&path=/&security=tls&fp=chrome&sni=nova-pearl-cloud-6a58.gh-ghanbari62.workers.dev#new%20panel-fast✨🔥✨
