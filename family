@@ -115,35 +115,33 @@ vless://7e7639c3-5993-4081-b627-9c82bb406373@piotr.ns.cloudflare.com:443?encrypt
 vless://7e7639c3-5993-4081-b627-9c82bb406373@piotr.ns.cloudflare.com:443?encryption=none&security=tls&type=ws&sni=octopusss3.net&host=octopusss3.net&path=%2Fpfyfbws#Octopus
 vless://7270612b-49f6-4b04-999c-34d8263da767@meg.ns.cloudflare.com:443?encryption=none&security=tls&type=ws&sni=amoomohammaddd.net&host=amoomohammaddd.net&path=%2Faymdlws#Octopus//Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:8080#%E2%9A%BD%EF%B8%8F
 
-vless://7617fc5b-a84f-40ee-8e8c-c82b70a7a545@188.166.172.30:27511?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-79
-vless://0de1fd60-8b9c-45ae-a5dc-6b20340736e6@46.101.114.157:51962?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-90
-vless://eceae996-62a5-4e44-8f42-a103405fcc38@138.68.132.249:11616?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-93
-vless://48830385-d494-4248-999a-3ab38aa42101@167.172.56.43:25128?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-71
-vless://0f92959b-d771-4c1c-9c90-5386ccc825dc@68.183.37.178:24491?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-70
-vless://0de1fd60-8b9c-45ae-a5dc-6b20340736e6@206.189.29.248:51962?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-91
-vless://76b6e40e-52b3-4c8a-9fbd-5d0d7768aa92@178.62.73.217:35742?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-85
-vless://48830385-d494-4248-999a-3ab38aa42101@104.248.129.145:25128?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-89
-vless://128976e2-485d-4403-93c0-d1dc82cddcf0@46.101.120.87:28018?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-87
-vless://d031fbc9-aaf4-4ef1-9be1-b9225cc1d845@164.90.223.158:57777?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-83
-vless://eceae996-62a5-4e44-8f42-a103405fcc38@209.38.165.167:11616?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-80
-vless://76b6e40e-52b3-4c8a-9fbd-5d0d7768aa92@178.128.168.167:35742?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-97
-vless://108de013-7e4b-44b3-b89e-38b1d2598332@134.122.74.81:40631?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-90
-vless://997db23c-4368-4d82-bd25-508ed8a6ed4e@165.227.155.232:27416?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-97
-vless://997db23c-4368-4d82-bd25-508ed8a6ed4e@138.68.161.93:27416?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-97
-vless://87c7fbdb-47d2-4f21-8d8e-04124df819ea@209.38.236.125:32012?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-79
-vless://108de013-7e4b-44b3-b89e-38b1d2598332@134.209.181.209:40631?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-76
-vless://76b6e40e-52b3-4c8a-9fbd-5d0d7768aa92@138.68.164.17:35742?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-90
-vless://48830385-d494-4248-999a-3ab38aa42101@134.209.27.111:25128?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-74
-vless://eceae996-62a5-4e44-8f42-a103405fcc38@159.65.17.106:11616?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-82
-vless://0f92959b-d771-4c1c-9c90-5386ccc825dc@64.227.47.100:24491?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-91
-vless://997db23c-4368-4d82-bd25-508ed8a6ed4e@64.226.99.167:27416?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-85
-vless://d031fbc9-aaf4-4ef1-9be1-b9225cc1d845@188.166.169.185:57777?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-80
-vless://0de1fd60-8b9c-45ae-a5dc-6b20340736e6@188.166.144.133:51962?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-86
-vless://617bc80e-7028-4dd5-b6b2-949c035688af@188.166.153.101:39723?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-70
-vless://eceae996-62a5-4e44-8f42-a103405fcc38@104.248.162.9:11616?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-70
-vless://76b6e40e-52b3-4c8a-9fbd-5d0d7768aa92@142.93.104.247:35742?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-93
-vless://23a15ab8-f78e-4a46-a82a-abefb74d21e7@167.172.189.61:41015?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-79
-vless://48830385-d494-4248-999a-3ab38aa42101@207.154.194.175:25128?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-99
-vless://d031fbc9-aaf4-4ef1-9be1-b9225cc1d845@138.68.142.225:57777?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-95
-
-
+vless://23a15ab8-f78e-4a46-a82a-abefb74d21e7@138.68.70.170:41015?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-89
+vless://4ae8a113-195a-47e3-8156-e2ffaf4a0f78@138.68.169.0:22805?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-78
+vless://108de013-7e4b-44b3-b89e-38b1d2598332@139.59.167.228:40631?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-81
+vless://d031fbc9-aaf4-4ef1-9be1-b9225cc1d845@167.71.60.165:57777?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-87
+vless://48830385-d494-4248-999a-3ab38aa42101@165.227.172.164:25128?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-84
+vless://4ae8a113-195a-47e3-8156-e2ffaf4a0f78@64.226.117.52:22805?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-75
+vless://617bc80e-7028-4dd5-b6b2-949c035688af@164.90.167.52:39723?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-88
+vless://128976e2-485d-4403-93c0-d1dc82cddcf0@46.101.26.183:28018?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-84
+vless://48830385-d494-4248-999a-3ab38aa42101@167.172.181.241:25128?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-99
+vless://997db23c-4368-4d82-bd25-508ed8a6ed4e@178.62.31.194:27416?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-90
+vless://0f92959b-d771-4c1c-9c90-5386ccc825dc@167.71.131.235:24491?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-73
+vless://128976e2-485d-4403-93c0-d1dc82cddcf0@165.227.136.218:28018?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-82
+vless://0de1fd60-8b9c-45ae-a5dc-6b20340736e6@206.189.127.220:51962?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-93
+vless://128976e2-485d-4403-93c0-d1dc82cddcf0@142.93.101.174:28018?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-78
+vless://617bc80e-7028-4dd5-b6b2-949c035688af@165.232.108.230:39723?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-95
+vless://d031fbc9-aaf4-4ef1-9be1-b9225cc1d845@206.81.20.187:57777?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-83
+vless://128976e2-485d-4403-93c0-d1dc82cddcf0@167.99.84.37:28018?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-98
+vless://128976e2-485d-4403-93c0-d1dc82cddcf0@134.209.250.126:28018?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-80
+vless://4ae8a113-195a-47e3-8156-e2ffaf4a0f78@134.122.72.103:22805?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-78
+vless://eceae996-62a5-4e44-8f42-a103405fcc38@138.68.159.63:11616?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-99
+vless://997db23c-4368-4d82-bd25-508ed8a6ed4e@167.99.200.73:27416?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-91
+vless://997db23c-4368-4d82-bd25-508ed8a6ed4e@139.59.142.242:27416?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-88
+vless://76b6e40e-52b3-4c8a-9fbd-5d0d7768aa92@178.128.33.39:35742?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-99
+vless://617bc80e-7028-4dd5-b6b2-949c035688af@138.68.129.105:39723?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-96
+vless://23a15ab8-f78e-4a46-a82a-abefb74d21e7@165.232.122.216:41015?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-94
+vless://617bc80e-7028-4dd5-b6b2-949c035688af@134.209.178.90:39723?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-90
+vless://108de013-7e4b-44b3-b89e-38b1d2598332@178.62.81.126:40631?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-81
+vless://4ae8a113-195a-47e3-8156-e2ffaf4a0f78@167.99.83.70:22805?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-77
+vless://0de1fd60-8b9c-45ae-a5dc-6b20340736e6@167.172.101.101:51962?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-88
+vless://eceae996-62a5-4e44-8f42-a103405fcc38@46.101.37.179:11616?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-75
