@@ -9,53 +9,7 @@ vless://c8dcbe44-5714-4f99-8d7a-aadebea34abf@91.103.140.243:443?encryption=none&
 vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.164.191.236:666?encryption=none&security=tls&sni=43.164.191.236&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=43.164.191.236&path=%2Fproxy#Aa64n✨
 vless://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#Aa64n✨
 
-socks://MTExOjExMQ@47.76.229.132:11310#new socks✨
 vless://1aa1b792-e3ca-4264-85b0-b0e629e00485@164.92.189.67:35252?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-88
-vless://272444ec-f61c-44df-b1d1-828c5d70320b@138.68.190.151:52746?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-73
-vless://fabbb79a-013a-4c50-a0bb-ad8dd14149b8@159.89.111.27:54034?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-81
-vless://fabbb79a-013a-4c50-a0bb-ad8dd14149b8@161.35.42.150:54034?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-75
-vless://78cbdda8-82ee-49e8-9c7a-d864a41a3fb5@64.227.40.60:17981?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-91
-vless://6d238427-e07d-4820-9782-bfe47ecf05c9@159.65.50.180:18319?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-72
-vless://b587b950-ecfb-47ce-a842-358c7a93d131@167.172.182.70:38476?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-80
-vless://272444ec-f61c-44df-b1d1-828c5d70320b@104.248.47.56:52746?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-93
-vless://6d238427-e07d-4820-9782-bfe47ecf05c9@164.92.191.119:18319?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-78
-vless://fabbb79a-013a-4c50-a0bb-ad8dd14149b8@178.62.116.235:54034?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-94
-vless://223b9714-7384-4460-bbeb-81ceaedab7f5@164.90.174.51:23470?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-74
-vless://272444ec-f61c-44df-b1d1-828c5d70320b@157.230.23.88:52746?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-85
-vless://9432b345-529f-4236-b0b8-4b57aece9a82@161.35.46.14:25619?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-83
-vless://d1e3c253-7d5e-4bd5-9f16-52787a63bb65@164.92.250.37:23519?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-87
-vless://272444ec-f61c-44df-b1d1-828c5d70320b@46.101.48.60:52746?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-97
-vless://ce8a5060-f085-4184-9923-1bda47df105a@46.101.199.85:27607?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-85
-vless://78cbdda8-82ee-49e8-9c7a-d864a41a3fb5@206.189.127.118:17981?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-75
-vless://272444ec-f61c-44df-b1d1-828c5d70320b@164.90.162.117:52746?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-87
-vless://347df683-e72d-4929-aa75-d7e87025a5bc@165.22.18.215:28003?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-75
-vless://347df683-e72d-4929-aa75-d7e87025a5bc@46.101.94.214:28003?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-99
-vless://b587b950-ecfb-47ce-a842-358c7a93d131@178.128.39.89:38476?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-76
-vless://9432b345-529f-4236-b0b8-4b57aece9a82@164.92.206.40:25619?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-76
-vless://1aa1b792-e3ca-4264-85b0-b0e629e00485@161.35.160.202:35252?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-74
-vless://b587b950-ecfb-47ce-a842-358c7a93d131@144.126.206.73:38476?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-88
-vless://ce8a5060-f085-4184-9923-1bda47df105a@188.166.159.34:27607?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-94
-vless://347df683-e72d-4929-aa75-d7e87025a5bc@138.68.164.144:28003?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-73
-vless://79b80d30-6837-48cf-8259-f284f9ec306b@139.59.211.200:42593?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-91
-vless://9432b345-529f-4236-b0b8-4b57aece9a82@144.126.202.102:25619?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United Kingdom D-91
-vless://a3ea6d27-87a4-4553-9a0d-34e0e7317c07@164.90.166.213:26809?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-99
-vless://fabbb79a-013a-4c50-a0bb-ad8dd14149b8@164.92.192.14:54034?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#Germany D-99
-
-vless://f1799fcb-213c-44fb-aa18-07c8be0c1297@betty.ns.cloudflare.com:443?encryption=none&security=tls&type=ws&sni=avro.skin&host=avro.skin&path=%2Facmbdws#Mouse
-vless://3d33c5d1-8072-43fa-9c67-cd578c01f80c@wanda.ns.cloudflare.com:443?encryption=none&security=tls&type=ws&sni=qivo.skin&host=qivo.skin&path=%2Fbhvgyws#Mouse
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@bradley.ns.cloudflare.com:443?encryption=none&security=tls&type=ws&sni=syvo.skin&host=syvo.skin&path=%2Fjdhfyws#Mouse
-vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@meg.ns.cloudflare.com:443?encryption=none&security=tls&type=ws&sni=wishe.info&host=wishe.info&path=%2Ftixvuws#Mouse
-vless://061fce9e-b2a1-49ad-b5ca-c324ca056719@clyde.ns.cloudflare.com:443?encryption=none&security=tls&type=ws&sni=dooors.info&host=dooors.info&path=%2Fuxtsows#Ultra
-vless://061fce9e-b2a1-49ad-b5ca-c324ca056719@clyde.ns.cloudflare.com:443?encryption=none&security=tls&type=ws&sni=dooors.info&host=dooors.info&path=%2Fuxtsows#Ultra
-vless://e77965cf-ccf6-4aa9-ba3c-cbe60afef954@meg.ns.cloudflare.com:443?encryption=none&security=tls&type=ws&sni=cloudwaytest.info&host=cloudwaytest.info&path=%2Fbsatews#Ultra
-vless://f028a8c0-6763-4558-aee3-2563db9d7825@paul.ns.cloudflare.com:443?encryption=none&security=tls&type=ws&sni=xora.skin&host=xora.skin&path=%2Fxxvclws#Horse
-vless://83ff903a-c7ff-4f54-ad23-ce0c2c63438b@brenna.ns.cloudflare.com:443?encryption=none&security=tls&type=ws&sni=zori.skin&host=zori.skin&path=%2Fpoiyfws#Horse
-vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@meg.ns.cloudflare.com:443?encryption=none&security=tls&type=ws&sni=swimmm.info&host=swimmm.info&path=%2Fyhowcws#Horse
-vless://7e7639c3-5993-4081-b627-9c82bb406373@piotr.ns.cloudflare.com:443?encryption=none&security=tls&type=ws&sni=octopusss3.net&host=octopusss3.net&path=%2Fpfyfbws#Octopus
-vless://7e7639c3-5993-4081-b627-9c82bb406373@piotr.ns.cloudflare.com:443?encryption=none&security=tls&type=ws&sni=octopusss3.net&host=octopusss3.net&path=%2Fpfyfbws#Octopus
-vless://7270612b-49f6-4b04-999c-34d8263da767@meg.ns.cloudflare.com:443?encryption=none&security=tls&type=ws&sni=amoomohammaddd.net&host=amoomohammaddd.net&path=%2Faymdlws#Octopus
-
-
 trojan://521314@millionaire.levikogjgfdd.ir:443?path=%2FLeviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#%F0%9F%94%B0%20%40PewezaTech%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
 vless://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#%F0%9F%94%B0%20%40PewezaTech%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#%F0%9F%94%B0%20%40PewezaTech%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
