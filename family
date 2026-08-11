@@ -3,6 +3,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.132
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@65.109.178.10:1080#%f0%9f%87%ab%f0%9f%87%ae%20FI%208
 trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&host=www.calmlunch.com&path=%2fassignment#%f0%9f%87%ba%f0%9f%87%b8%20US%2046
 
+vless://c80db5a4-2271-453a-b27b-7b4adce3c0f7@3x-ui-production-b035.up.railway.app:443?path=%2Fin2&security=tls&encryption=none&host=3x-ui-production-b035.up.railway.app&type=httpupgrade&sni=3x-ui-production-b035.up.railway.app#8082
+vless://c80db5a4-2271-453a-b27b-7b4adce3c0f7@3x-ui-production-b035.up.railway.app:443?path=%2Fin1&security=tls&encryption=none&host=3x-ui-production-b035.up.railway.app&type=ws&sni=3x-ui-production-b035.up.railway.app#8081-uajt2t89sr%7C%F0%9F%93%8A49.87GB%7C%E2%8F%B389D
+vless://c80db5a4-2271-453a-b27b-7b4adce3c0f7@3x-ui-production-b035.up.railway.app:443?mode=auto&path=%2Fin3&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=3x-ui-production-b035.up.railway.app&type=xhttp&sni=3x-ui-production-b035.up.railway.app#8083
+
 vless://7a657573-2b15-7da4-f946-ea01958fc999@0.0.0.0:1?encryption=none&security=none&type=ws&host=amz7goecubds.qiz56mebupbs.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2Fea01958fc999#new panel
 vless://7a657573-2b15-7da4-f946-ea01958fc999@0.0.0.0:1?encryption=none&security=none&type=ws&host=amz7goecubds.qiz56mebupbs.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2Fea01958fc999#new panel
 vless://7a657573-2b15-7da4-f946-ea01958fc999@amz7goecubds.qiz56mebupbs.workers.dev:80?path=%2Fstream%2FPANEL_ZEUS%2Fea01958fc999&security=none&encryption=none&host=amz7goecubds.qiz56mebupbs.workers.dev&fp=ios&type=ws#new panel
