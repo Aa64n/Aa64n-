@@ -12,6 +12,18 @@ vless://22199ed8-5f22-4906-9917-67e3609d8776@95.216.165.65:443?security=reality&
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.245.235.84:2375?#Aa64n
 vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@104.21.35.235:2053?encryption=none&security=tls&sni=music1000.melobitmusic1.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2F#Aa64n
 
+vmess://eyJhZGQiOiIxNjguMjIyLjQ5LjE4OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNTVkZTQwZC1jNWQwLTQwNjQtYjEyNC05NDliYTI4NGMzYjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjgwIiwicHMiOiLwn4e18J+HseKanO+4j/Cdl53wnZe88J2XtvCdl7sg4p6gIEBWZWxveFZQTjEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://7ce71b9a-888a-78c7-b90a-0de3e1abad01@69.46.46.14:443?path=%2Fws%2F7ce71b9a-888a-78c7-b90a-0de3e1abad01&security=tls&alpn=http%2F1.1&encryption=none&host=rvg-production-9867.up.railway.app&fp=ios&type=ws&sni=rvg-production-9867.up.railway.app#Aa64n
+vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@104.16.92.229:8443?path=%2F&security=tls&encryption=none&host=italy-1.psntbt.com.&fp=chrome&type=ws&sni=ssl.psntbt.com.#Aa64n
+vless://cbfc7699-4ba5-47fd-bfb0-bdc1f42a7099@104.16.72.162:8443?path=%2F&security=tls&encryption=none&host=france-8.psntbt.com.&fp=chrome&type=ws&sni=ssl.psntbt.com.#Aa64n
+trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@ru.federal-usa.com:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&host=ru.federal-usa.com&headerType=none&fp=chrome&type=tcp&sni=ru.federal-usa.com#Aa64n
+vless://b91abe1a-80ca-417b-998b-2b542661c16f@it.feywebsite.ir:8008?mode=packet-up&path=%2Fapi%2Fv1%2Fstream&security=reality&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=yGB6HD9OYiD77YWTH1YxcG9yIYkyeEYOEcHL-WnwQn8&fp=chrome&spx=%2Fbd5271eec396a9e&type=xhttp&sni=play.google.com&sid=5f9a#Aa64n
+trojan://rCpYz0HZmH@65.109.183.211:11041?security=none&host=play-fe.googleapis.com&headerType=http&type=tcp#Aa64n
+
+vless://b91abe1a-80ca-417b-998b-2b542661c16f@it.feywebsite.ir:8008?mode=packet-up&path=%2Fapi%2Fv1%2Fstream&security=reality&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=yGB6HD9OYiD77YWTH1YxcG9yIYkyeEYOEcHL-WnwQn8&fp=chrome&spx=%2Fbd5271eec396a9e&type=xhttp&sni=play.google.com&sid=5f9a#%40AlturaVPN
+vless://16d51009-996b-4966-b4af-8719d1002e8a@37.143.130.146:2053?mode=auto&path=%2F&security=reality&encryption=none&pbk=44AsUgmTZaEjN3NNXxAAaGijboQbpZY6CcCsdZUd8Uw&fp=chrome&type=xhttp&sni=google.com&sid=0e905d1eb00972b2#%40VeloxVPN1%201%20%20%20%F0%9F%87%AA%F0%9F%87%B8
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&host=static.lotussec.com&fp=firefox&type=xhttp&sni=static.lotussec.com#%40VeloxVPN1%20%F0%9F%87%A9%F0%9F%87%AA
+
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk=@15.235.75.71:8388#Canada%20Montreal
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE=@51.195.126.38:8388#Germany%20Frankfurt
