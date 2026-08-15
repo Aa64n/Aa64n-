@@ -8,13 +8,6 @@ vless://00b41e07-68e6-46b0-928f-a02becd4e398@site.awexco.shop:2020?encryption=ml
 vless://00b41e07-68e6-46b0-928f-a02becd4e398@site2.awexco.shop:2082?encryption=mlkem768x25519plus.native.0rtt.f7Tb0m3B9X1wwykTgP_vWHH6uXOt8CX-MAipUAObJ1c&security=reality&type=tcp&headerType=http&path=%2F&sni=check-host.net&fp=chrome&pbk=wlmLbcRWfPz3NkrX18vCrw-C3s3qzeipsfnrm457x1k&sid=31eec4cab22d3de8#TR
 vless://00b41e07-68e6-46b0-928f-a02becd4e398@site5.awexco.shop:2095?encryption=mlkem768x25519plus.native.0rtt.Mx0f1kLg9E0uQfA79cfhs8n6akrAp8vej3lxYml4aDU&security=none&type=httpupgrade&headerType=none&path=%2F&host=check-host.net#FL
 
-vless://309c4bd0-7430-b8aa-2238-1075e9e29370@3.144.136.246:27775?type=tcp&encryption=none&security=none#us
-vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.217.238.49:27775?type=tcp&encryption=none&security=none#us
-vless://309c4bd0-7430-b8aa-2238-1075e9e29370@13.59.152.140:27775?type=tcp&encryption=none&security=none#us
-vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.223.15.23:27775?type=tcp&encryption=none&security=none#us
-vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.226.97.47:27775?type=tcp&encryption=none&security=none#us
-vless://309c4bd0-7430-b8aa-2238-1075e9e29370@3.21.75.34:27775?type=tcp&encryption=none&security=none#us
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU@51.77.225.200:8388#A1France
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#A1Singapore
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#A1Poland
