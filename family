@@ -1,6 +1,14 @@
 vless://cb7567ab-b193-40d1-9f2a-e97e0122d5fd@rgb.awextr.ir:2082?encryption=none&security=reality&type=tcp&headerType=none&host=amp-api-edge.apps.apple.com&sni=icloud.com&fp=qq&pbk=BXPU9XO_TPK-mgva2dROYKB7b3LwtBEOVcqbKJLB7HM&sid=08#%F0%9F%87%B9%F0%9F%87%B7%20%7C%20%F0%9D%90%93%F0%9D%90%AE%F0%9D%90%AB%F0%9D%90%A4%F0%9D%90%9E%F0%9D%90%B2%20C1
 vless://cb7567ab-b193-40d1-9f2a-e97e0122d5fd@cdn.awexaio.shop:2082?encryption=none&security=reality&type=tcp&headerType=none&host=amp-api-edge.apps.apple.com&sni=icloud.com&fp=edge&pbk=BXPU9XO_TPK-mgva2dROYKB7b3LwtBEOVcqbKJLB7HM&sid=08#%F0%9F%87%B9%F0%9F%87%B7%20%7C%20%F0%9D%90%93%F0%9D%90%AE%F0%9D%90%AB%F0%9D%90%A4%F0%9D%90%9E%F0%9D%90%B2%20C2
 
+vless://391a01e9-b664-407b-9158-610fab3f5920@3.9.135.156:51847?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=www.tesla.com&pbk=S6noV0L8eNASnTe1gXLutLZNdfENsvKMsOJiGQYi6nc&sid=0eec442e7b34d2f2#Aa64n
+vless://9ffaf9f7-a2ad-47ef-9256-f607b3b3c6cc@147.45.226.155:8443?type=ws&security=tls&fp=chrome&sni=wsnl24.wba-pn.ru&path=/#%F0%9F%87%B3%F0%9F%87%B1%20%7C%20@WhiteDNS%20%7C%20NL662%7C1.3MB/s%7CDNSOK%7CGPT%E2%81%BA-NL
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@derman.neobo-tooth.ru:2096?type=ws&security=none&sni=derman.neobo-tooth.ru&path=/&host=derman.neobo-tooth.ru#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@WhiteDNS%20%7C%20DE435%7C1.2MB/s%7CDNSOK%7CGPT%E2%81%BA-DE
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@derman.neobo-tooth.ru:8443?type=xhttp&security=reality&fp=qq&sni=derman.neobo-tooth.ru&pbk=nqtiSDaSO3QwovNGFdkU357K2p19qVaE1NEMmaG5-x8&path=/media/v2/library&mode=stream-one#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@WhiteDNS%20%7C%20DE434%7C1.2MB/s%7CDNSOK%7CGPT%E2%81%BA-DE
+vless://%40Cooonfig%40Cooonfig%40%40@65.109.217.127:53618?type=tcp&headerType=http&security=none&sni=65.109.217.127&path=/&host=amp-api-edge.apps.apple.com#%F0%9F%87%AB%F0%9F%87%AE%20%7C%20@WhiteDNS%20%7C%20FI148%7C1.7MB/s%7CDNSOK%7CGPT%E2%81%BA-FI
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@derman.neobo-tooth.ru:2083?type=grpc&security=tls&fp=ios&sni=derman.neobo-tooth.ru&serviceName=grpc&mode=gun#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@WhiteDNS%20%7C%20DE436%7C907KB/s%7CDNSOK%7CGPT%E2%81%BA-DE
+vless://e9076558-2c9b-4c39-9b52-220f932c570f@172.105.104.54:58676?flow=xtls-rprx-vision&type=raw&security=reality&fp=firefox&sni=www.intel.com&pbk=HmBdCe_lUZzLsEhgj5X-SZTK0Sbl-0sSqVfG5om1hg8&sid=ee94ded352b795#%F0%9F%87%A8%F0%9F%87%A6%20%7C%20@WhiteDNS%20%7C%20CA70%7C1.6MB/s%7CDNSOK%7CGPT%E2%81%BA-CA
+
 trojan://eb2b32c4-8844-4e79-8ec8-133a8a3aca3c@yuzhenb886.dpdns.org:443/?type=ws&host=yuzhenb886.dpdns.org&path=%2F&security=tls&sni=yuzhenb886.dpdns.org#ARISTA
 trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-power-sg.roxa.org#ARISTA
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com&type=tcp&path=/#ARISTA
