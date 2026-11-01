@@ -1,3 +1,4 @@
+vless://74cbc1f2-82b0-4ca6-ace9-f21c394490f6@hiweb.my.id:443?alpn=http%2F1.1&encryption=none&fp=chrome&headerType=http&host=&path=%2F%40rotexvpn&security=tls&sni=hiweb.my.id&type=tcp#Aa64n
 socks://YWRtaW46YWRtaW4%3D@47.242.19.215:8899#new test
 
 vless://3fb1fb2d-ac5c-4e41-bebb-93ed7560c1cf@188.114.96.19:2053?type=ws&encryption=mlkem768x25519plus.native.0rtt.6RHuKOllzcwoAapUrihPu73oLmRW7rwIQFj3yq34jCA&path=%2F&host=&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=host.taghvimtime.ir#host2
